@@ -4,6 +4,7 @@ import {
   Clock3,
   Map as MapIcon,
   GraduationCap,
+  MessagesSquare,
   User,
 } from "lucide-react";
 import { cn } from "@/lib/utils";
@@ -17,6 +18,7 @@ const TABS = [
   { to: "/tabs/cronologia", label: "Cronología", icon: Clock3 },
   { to: "/tabs/mapas", label: "Mapas", icon: MapIcon },
   { to: "/tabs/aprende", label: "Aprende", icon: GraduationCap },
+  { to: "/tabs/historiador", label: "Historiador", icon: MessagesSquare },
   { to: "/tabs/perfil", label: "Perfil", icon: User },
 ] as const;
 
