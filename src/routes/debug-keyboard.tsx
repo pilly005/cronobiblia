@@ -70,6 +70,12 @@ function DebugKeyboard() {
           ))}
         </ul>
       </div>
+
+      <p style={{ marginTop: 24 }}>
+        <a href="keyboard-test.html" style={{ fontSize: 15, fontWeight: 700 }}>
+          → Abrir prueba sin JavaScript
+        </a>
+      </p>
     </div>
   );
 }
