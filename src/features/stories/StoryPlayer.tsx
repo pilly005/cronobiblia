@@ -39,6 +39,7 @@ import {
   type StoryModel,
 } from "@/lib/content-model";
 import { isBookmarkedLocal, toggleBookmark } from "@/lib/bookmarks";
+import { ListenButton } from "@/components/ListenButton";
 import { loadProgress, saveProgress } from "@/lib/local-progress";
 import { useSupabaseSession } from "@/lib/auth";
 import { isSupabaseConfigured, supabase } from "@/lib/supabase";
@@ -542,9 +543,16 @@ export default function StoryPlayer() {
           aria-label={`Tarjeta ${index + 1} de ${total}`}
         >
           {current.narration ? (
-            <p className="mb-4 text-base leading-relaxed text-ink/90">
-              {current.narration}
-            </p>
+            <>
+              <p className="mb-4 text-base leading-relaxed text-ink/90">
+                {current.narration}
+              </p>
+              <div className="mb-4">
+                <ListenButton
+                  text={`${current.title ? current.title + ". " : ""}${current.narration}`}
+                />
+              </div>
+            </>
           ) : null}
           {current.title ? (
             <h2 className="mb-3 font-display text-xl font-semibold text-ink">

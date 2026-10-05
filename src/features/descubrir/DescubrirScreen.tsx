@@ -3,7 +3,6 @@ import { Link } from "@tanstack/react-router";
 import {
   ArrowRight,
   BookOpen,
-  CalendarDays,
   Flame,
   Landmark,
   Map as MapIcon,
@@ -22,6 +21,7 @@ import {
   recordVisit,
   totalCompleted,
 } from "@/lib/local-progress";
+import { TodayFactCard } from "./TodayFactCard";
 
 /** Starter eras from the product spec — shown until Track B content lands. */
 const STARTER_ERAS = [
@@ -33,57 +33,6 @@ const STARTER_ERAS = [
   { id: "jesus", title: "Mundo de Jesús", subtitle: "Roma, Judea y Galilea" },
   { id: "iglesia", title: "Iglesia primitiva", subtitle: "Hechos y los viajes de Pablo" },
 ];
-
-/**
- * Curated fallback for "Hoy en la historia". Every item states a range or a
- * discovery context — never an exact modern-calendar date where none exists.
- */
-const DAILY_FACTS = [
-  {
-    tag: "Arqueología",
-    title: "La estela de Tel Dan",
-    text: "Descubierta en 1993, contiene la referencia extrabíblica más antigua conocida a la «casa de David» (siglo IX a. C.).",
-  },
-  {
-    tag: "Historia",
-    title: "Ciro el Grande y el retorno",
-    text: "El Cilindro de Ciro (539 a. C.) ilustra la política persa que permitió el regreso del exilio a Judá.",
-  },
-  {
-    tag: "Arqueología",
-    title: "Los rollos del Mar Muerto",
-    text: "Copiados entre los siglos III a. C. y I d. C. en Qumrán; algunos textos son unos mil años más antiguos que las copias medievales.",
-  },
-  {
-    tag: "Historia",
-    title: "Herodes el Grande",
-    text: "Rey de Judea bajo Roma (aprox. 37–4 a. C.); reconstruyó el Segundo Templo a una escala monumental.",
-  },
-  {
-    tag: "Arqueología",
-    title: "La piedra de Pilato",
-    text: "Hallada en Cesarea Marítima en 1961, esta inscripción confirma al prefecto mencionado en los evangelios.",
-  },
-  {
-    tag: "Historia",
-    title: "La caída de Nínive",
-    text: "En 612 a. C. cayó la capital asiria, marcando el fin del imperio que había conquistado el reino del norte.",
-  },
-  {
-    tag: "Texto",
-    title: "El fragmento más antiguo del Nuevo Testamento",
-    text: "El papiro 𝔓52, con parte del Evangelio de Juan, se data en la primera mitad del siglo II: acerca las copias a la época de los hechos.",
-  },
-];
-
-function pickDailyFact() {
-  const now = new Date();
-  const start = new Date(now.getFullYear(), 0, 0);
-  const dayOfYear = Math.floor(
-    (now.getTime() - start.getTime()) / 86_400_000,
-  );
-  return DAILY_FACTS[dayOfYear % DAILY_FACTS.length];
-}
 
 function field(item: any, ...keys: string[]): string {
   for (const k of keys) {
@@ -145,7 +94,6 @@ export default function DescubrirScreen() {
   const [loading, setLoading] = useState(true);
   const [eras, setEras] = useState<any[]>([]);
   const [stories, setStories] = useState<any[]>([]);
-  const [dailyFacts, setDailyFacts] = useState<any[]>([]);
   const [progress, setProgress] = useState(() => recordVisit());
 
   useEffect(() => {
@@ -154,15 +102,13 @@ export default function DescubrirScreen() {
       const contentApi = await getContentApi();
       if (cancelled) return;
       setApi(contentApi);
-      const [e, s, f] = await Promise.all([
+      const [e, s] = await Promise.all([
         safeList(contentApi, "getEras"),
         safeList(contentApi, "getStories"),
-        safeList(contentApi, "getDailyFacts"),
       ]);
       if (cancelled) return;
       setEras(e);
       setStories(s);
-      setDailyFacts(f);
       setProgress(loadProgress());
       setLoading(false);
     })();
@@ -175,12 +121,6 @@ export default function DescubrirScreen() {
   const completed = totalCompleted(progress);
   const hasCurrent = Boolean(progress.currentStoryId);
   const starterStory = stories[0];
-  const fact = dailyFacts[0];
-  const factTitle = fact ? field(fact, "title", "name") : pickDailyFact().title;
-  const factText = fact
-    ? field(fact, "summary", "text", "description")
-    : pickDailyFact().text;
-  const factTag = fact ? field(fact, "tag", "category", "type") : pickDailyFact().tag;
   const recommendedEras = eras.length > 0 ? eras.slice(0, 7) : STARTER_ERAS;
 
   return (
@@ -261,25 +201,9 @@ export default function DescubrirScreen() {
         )}
       </section>
 
-      {/* Hoy en la historia */}
-      <section aria-labelledby="today-heading" className="mt-8">
-        <SectionTitle
-          icon={CalendarDays}
-          title="Hoy en la historia"
-        />
-        {loading ? (
-          <SkeletonCard />
-        ) : (
-          <article className="rounded-2xl border border-sea/25 bg-sea/8 p-5">
-            <p className="inline-block rounded-full bg-sea/15 px-2.5 py-1 text-[11px] font-semibold uppercase tracking-wide text-sea">
-              {factTag || "Dato del día"}
-            </p>
-            <h3 className="mt-2 font-display text-xl">{factTitle}</h3>
-            <p className="mt-1.5 text-sm leading-relaxed text-ink/75">
-              {factText}
-            </p>
-          </article>
-        )}
+      {/* Un día como hoy — dato diario + narración + compartir */}
+      <section aria-label="Un día como hoy" className="mt-8">
+        <TodayFactCard />
       </section>
 
       {/* Recommendations */}
