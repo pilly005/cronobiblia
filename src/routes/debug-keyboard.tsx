@@ -76,6 +76,11 @@ function DebugKeyboard() {
           → Abrir prueba sin JavaScript
         </a>
       </p>
+      <p style={{ marginTop: 12 }}>
+        <a href="css-test.html" style={{ fontSize: 15, fontWeight: 700 }}>
+          → Abrir prueba con CSS pero sin JavaScript
+        </a>
+      </p>
 
       <div style={{ marginTop: 24 }}>
         <p style={{ fontWeight: 700, marginBottom: 6 }}>
