@@ -208,7 +208,7 @@ export async function shareTodayFact(fact: TodayFact): Promise<"shared" | "dismi
         data: base64,
         directory: Directory.Cache,
       });
-      await Share.share({ title, text, url: uri, dialogTitle: "Compartir" });
+      await Share.share({ title, text, files: [uri], dialogTitle: "Compartir" });
       return "shared";
     }
 
