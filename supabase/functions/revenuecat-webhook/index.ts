@@ -71,6 +71,7 @@ serve(async (req) => {
 
   const rawBody = await req.text();
   const signature = req.headers.get("x-revenuecat-signature") ??
+    req.headers.get("x-revenuecat-webhook-signature") ??
     req.headers.get("authorization");
   if (!(await verifySignature(rawBody, signature, secret))) {
     console.warn("revenuecat-webhook: signature mismatch");
