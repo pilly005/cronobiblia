@@ -679,6 +679,15 @@ export default function PerfilScreen() {
       <p className="mt-8 text-center text-xs text-ink/45">
         CronoBiblia · La historia alrededor de la Biblia
       </p>
+      {/* TEMPORARY debug link for the keyboard-freeze diagnosis — remove before release */}
+      <p className="mt-4 text-center">
+        <Link
+          to="/debug-keyboard"
+          className="text-xs text-ink/30 underline underline-offset-2"
+        >
+          Debug teclado
+        </Link>
+      </p>
     </div>
   );
 }
