@@ -17,6 +17,7 @@ import {
   type HistorianResponse,
 } from "@/lib/historian";
 import { isPremiumActive } from "@/lib/purchases";
+import { isSupabaseConfigured, supabase } from "@/lib/supabase";
 import { cn } from "@/lib/utils";
 
 interface ChatMessage {
@@ -25,6 +26,8 @@ interface ChatMessage {
   text: string;
   response?: HistorianResponse;
   insufficient?: boolean;
+  /** Shows a "sign in" call-to-action instead of a plain answer. */
+  signInPrompt?: boolean;
 }
 
 const STARTER_QUESTIONS = [
@@ -53,12 +56,21 @@ export default function HistorianScreen() {
   const [loading, setLoading] = useState(false);
   const [remaining, setRemaining] = useState(getHistorianQuestionsRemaining());
   const [premium, setPremium] = useState(false);
+  const [signedIn, setSignedIn] = useState<boolean | null>(null);
   const bottomRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     isPremiumActive()
       .then(setPremium)
       .catch(() => setPremium(false));
+    if (isSupabaseConfigured && supabase) {
+      supabase.auth
+        .getSession()
+        .then(({ data }) => setSignedIn(!!data.session))
+        .catch(() => setSignedIn(false));
+    } else {
+      setSignedIn(false);
+    }
   }, []);
 
   useEffect(() => {
@@ -68,6 +80,19 @@ export default function HistorianScreen() {
   async function send(question: string) {
     const trimmed = question.trim();
     if (!trimmed || loading) return;
+    if (signedIn === false) {
+      setMessages((prev) => [
+        ...prev,
+        { id: nextId++, role: "user", text: trimmed },
+        {
+          id: nextId++,
+          role: "historian",
+          text: "Para preguntar al Historiador, inicia sesión primero. Es gratis y así guardamos tus 3 preguntas de muestra.",
+          signInPrompt: true,
+        },
+      ]);
+      return;
+    }
     setInput("");
     setLoading(true);
     const userMsg: ChatMessage = { id: nextId++, role: "user", text: trimmed };
@@ -191,6 +216,14 @@ export default function HistorianScreen() {
                 <p className="whitespace-pre-wrap text-[15px] leading-relaxed">
                   {msg.text}
                 </p>
+                {msg.signInPrompt ? (
+                  <Link
+                    to="/tabs/perfil"
+                    className="tap-target mt-3 inline-flex items-center justify-center rounded-2xl bg-terracotta px-5 py-3 text-sm font-semibold text-ivory"
+                  >
+                    Iniciar sesión
+                  </Link>
+                ) : null}
                 {msg.response && !msg.insufficient && (
                   <div className="mt-3 border-t border-ink/10 pt-2">
                     <p className="text-xs text-ink/55">
