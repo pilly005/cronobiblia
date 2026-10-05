@@ -8,7 +8,9 @@ export const getRouter = () => {
   const router = createRouter({
     routeTree,
     context: { queryClient },
-    scrollRestoration: true,
+    // scrollRestoration disabled: it fights the iOS keyboard's auto-scroll
+    // and was breaking text input on device (2026-10-05).
+    scrollRestoration: false,
     defaultPreloadStaleTime: 0,
   });
 
