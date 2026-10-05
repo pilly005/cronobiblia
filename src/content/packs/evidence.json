@@ -12,7 +12,7 @@
     {
       "id": "evid-001",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Estela de Merneptah",
       "type": "evidence",
       "category": "inscription",
@@ -39,7 +39,7 @@
     {
       "id": "evid-002",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Estela de Mesha (piedra moabita)",
       "type": "evidence",
       "category": "inscription",
@@ -67,7 +67,7 @@
     {
       "id": "evid-003",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Obelisco Negro de Salmanasar III",
       "type": "evidence",
       "category": "artifact",
@@ -93,7 +93,7 @@
     {
       "id": "evid-004",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Prisma de Taylor (anales de Senaquerib)",
       "type": "evidence",
       "category": "artifact",
@@ -120,7 +120,7 @@
     {
       "id": "evid-005",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Cilindro de Ciro",
       "type": "evidence",
       "category": "artifact",
@@ -147,7 +147,7 @@
     {
       "id": "evid-006",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Estela de Tel Dan",
       "type": "evidence",
       "category": "inscription",
@@ -175,7 +175,7 @@
     {
       "id": "evid-007",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Inscripción de Siloé",
       "type": "evidence",
       "category": "inscription",
@@ -202,7 +202,7 @@
     {
       "id": "evid-008",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Relieves del asedio de Laquis",
       "type": "evidence",
       "category": "artifact",
@@ -228,7 +228,7 @@
     {
       "id": "evid-009",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Amuletos de plata de Ketef Hinnom",
       "type": "evidence",
       "category": "artifact",
@@ -255,7 +255,7 @@
     {
       "id": "evid-010",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "El túnel de Ezequías",
       "type": "evidence",
       "category": "site",
@@ -282,7 +282,7 @@
     {
       "id": "evid-011",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "El Gran Rollo de Isaías",
       "type": "evidence",
       "category": "artifact",
@@ -309,7 +309,7 @@
     {
       "id": "evid-012",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Los rollos del Mar Muerto (Qumrán)",
       "type": "evidence",
       "category": "artifact",
@@ -337,7 +337,7 @@
     {
       "id": "evid-013",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "La piedra Rosetta",
       "type": "evidence",
       "category": "artifact",
@@ -363,7 +363,7 @@
     {
       "id": "evid-014",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "La inscripción de Behistún",
       "type": "evidence",
       "category": "inscription",
@@ -391,7 +391,7 @@
     {
       "id": "evid-015",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "El Código de Hammurabi",
       "type": "evidence",
       "category": "artifact",
@@ -417,7 +417,7 @@
     {
       "id": "evid-016",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Las cartas de Amarna",
       "type": "evidence",
       "category": "artifact",
@@ -444,7 +444,7 @@
     {
       "id": "evid-017",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Las cartas de Laquis",
       "type": "evidence",
       "category": "artifact",
@@ -472,7 +472,7 @@
     {
       "id": "evid-018",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Los ostraca de Arad",
       "type": "evidence",
       "category": "artifact",
@@ -499,7 +499,7 @@
     {
       "id": "evid-019",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "El calendario de Gézer",
       "type": "evidence",
       "category": "artifact",
@@ -526,7 +526,7 @@
     {
       "id": "evid-020",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "El osario de Caifás",
       "type": "evidence",
       "category": "artifact",
@@ -553,7 +553,7 @@
     {
       "id": "evid-021",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "La inscripción de Poncio Pilato",
       "type": "evidence",
       "category": "inscription",
@@ -580,7 +580,7 @@
     {
       "id": "evid-022",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "La inscripción de Galión en Delfos",
       "type": "evidence",
       "category": "inscription",
@@ -607,7 +607,7 @@
     {
       "id": "evid-023",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "La inscripción de Erasto en Corinto",
       "type": "evidence",
       "category": "inscription",
@@ -634,7 +634,7 @@
     {
       "id": "evid-024",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Tablillas de raciones de Joaquín",
       "type": "evidence",
       "category": "artifact",
@@ -661,7 +661,7 @@
     {
       "id": "evid-025",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Los papiros de Elefantina",
       "type": "evidence",
       "category": "artifact",
@@ -688,7 +688,7 @@
     {
       "id": "evid-026",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "La Crónica de Nabónido",
       "type": "evidence",
       "category": "artifact",
@@ -715,7 +715,7 @@
     {
       "id": "evid-027",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "La inscripción de Ecrón",
       "type": "evidence",
       "category": "inscription",
@@ -742,7 +742,7 @@
     {
       "id": "evid-028",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Sellos y bulas de la Jerusalén monárquica",
       "type": "evidence",
       "category": "artifact",
@@ -769,7 +769,7 @@
     {
       "id": "evid-029",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "El osario de Santiago",
       "type": "evidence",
       "category": "artifact",
@@ -795,7 +795,7 @@
     {
       "id": "evid-030",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "La estela de Kurkh (Qarqar)",
       "type": "evidence",
       "category": "artifact",

@@ -12,7 +12,7 @@
     {
       "id": "fam-01",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "El mundo es un regalo que cuidamos",
       "type": "family-lesson",
       "summary": "La creación como regalo y tarea: una lección para conversar en familia sobre el cuidado del mundo.",
@@ -41,7 +41,7 @@
     {
       "id": "fam-02",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Abraham: confiar aunque no veamos el camino",
       "type": "family-lesson",
       "summary": "Abraham dejó su ciudad sin saber a dónde iba. Una lección sobre la confianza, para valientes de todas las edades.",
@@ -71,7 +71,7 @@
     {
       "id": "fam-03",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Moisés: la libertad se celebra",
       "type": "family-lesson",
       "summary": "La salida de Egipto y la Pascua: por qué el pueblo de Israel celebraba su libertad cada año.",
@@ -102,7 +102,7 @@
     {
       "id": "fam-04",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "David: el pastor valiente",
       "type": "family-lesson",
       "summary": "David era el menor y cuidaba ovejas. Una lección sobre el valor que no depende del tamaño.",
@@ -133,7 +133,7 @@
     {
       "id": "fam-05",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Daniel: fiel aunque sea difícil",
       "type": "family-lesson",
       "summary": "Daniel vivió lejos de casa y mantuvo sus costumbres. Una lección sobre la fidelidad en tierra extraña.",
@@ -163,7 +163,7 @@
     {
       "id": "fam-06",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Jesús, amigo de todos",
       "type": "family-lesson",
       "summary": "Jesús se acercó a quienes nadie quería. Una lección sobre la amistad sin fronteras.",
@@ -193,7 +193,7 @@
     {
       "id": "fam-07",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Pablo no se rindió",
       "type": "family-lesson",
       "summary": "Naufragios, cárceles y viajes sin fin: Pablo siguió adelante. Una lección sobre la perseverancia.",
@@ -223,7 +223,7 @@
     {
       "id": "fam-08",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "La primera iglesia compartía",
       "type": "family-lesson",
       "summary": "Los primeros cristianos compartían lo que tenían. Una lección sobre la generosidad en familia.",

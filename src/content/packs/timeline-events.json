@@ -12,7 +12,7 @@
     {
       "id": "evt-001",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Abraham sale de Ur hacia Canaán",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta a Abraham saliendo de Ur de los caldeos por llamado divino, pasando por Harán y entrando en Canaán. La fecha es debatida: la cronología tradicional lo sitúa hacia el 2000 a. C., mientras que otros marcos lo ubican varios siglos después.",
@@ -53,7 +53,7 @@
     {
       "id": "evt-002",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "El pacto con Abraham",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta el pacto de Dios con Abraham: descendencia numerosa y una tierra para su linaje, sellado con ritos propios del antiguo Cercano Oriente. Es un texto fundacional para las tres tradiciones abrahámicas.",
@@ -90,7 +90,7 @@
     {
       "id": "evt-003",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Nacimiento de Isaac",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta a Isaac como el hijo de la promesa, nacido de Abraham y Sara en su vejez. Su relato incluye el episodio del monte Moriah, central en la memoria religiosa de judíos, cristianos y musulmanes.",
@@ -131,7 +131,7 @@
     {
       "id": "evt-004",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Jacob en Harán y el sueño de Betel",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta a Jacob huyendo a Harán, donde trabaja para Labán, se casa con Lea y Raquel, y regresa con una familia numerosa. En Betel tiene el sueño de la escalera que une cielo y tierra.",
@@ -172,7 +172,7 @@
     {
       "id": "evt-005",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "José es vendido y llevado a Egipto",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta a José vendido por sus hermanos a mercaderes y llevado a Egipto, donde pasa de esclavo a prisionero. El relato refleja conocimiento detallado de la administración egipcia.",
@@ -210,7 +210,7 @@
     {
       "id": "evt-006",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "José gobernador de Egipto",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta a José interpretando los sueños del faraón y administrando las reservas de grano durante siete años de abundancia y siete de hambre, lo que lleva a su familia a descender a Egipto.",
@@ -248,7 +248,7 @@
     {
       "id": "evt-007",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Ur de los caldeos: metrópoli sumeria",
       "type": "timeline-event",
       "summary": "Ur fue una de las grandes ciudades de Sumer, con el zigurat dedicado al dios luna Nanna como centro religioso. Las excavaciones británicas y estadounidenses de 1922–1934 revelaron tumbas reales de extraordinaria riqueza.",
@@ -284,7 +284,7 @@
     {
       "id": "evt-008",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "El Código de Hammurabi",
       "type": "timeline-event",
       "summary": "Hammurabi de Babilonia hizo grabar una de las colecciones de leyes más famosas de la antigüedad en una estela de diorita. Sus 282 artículos regulaban precios, salarios, familia y justicia con el principio de reciprocidad.",
@@ -319,7 +319,7 @@
     {
       "id": "evt-009",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Los hicsos en Egipto",
       "type": "timeline-event",
       "summary": "Los hicsos, gobernantes de origen semita occidental, controlaron el norte de Egipto durante el Segundo Período Intermedio con capital en Avaris. Su expulsión dio paso al Reino Nuevo y a una política más cerrada hacia los extranjeros.",
@@ -355,7 +355,7 @@
     {
       "id": "evt-010",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Ebla y Mari: archivos del tercer milenio",
       "type": "timeline-event",
       "summary": "Los archivos de Ebla (Siria) y Mari, con decenas de miles de tablillas cuneiformes, revelaron reinos sofisticados del tercer y segundo milenio a. C.: comercio, diplomacia y leyes siglos antes de lo que se suponía.",
@@ -389,7 +389,7 @@
     {
       "id": "evt-011",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Los doce hijos de Jacob: origen de las tribus",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta a los doce hijos de Jacob como antepasados epónimos de las tribus de Israel. Las listas tribales reflejan tanto memoria familiar como la organización territorial posterior del pueblo.",
@@ -429,7 +429,7 @@
     {
       "id": "evt-012",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Muerte de José en Egipto",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta la muerte de José a los 110 años y su petición de que sus huesos sean llevados a Canaán cuando Dios visite a su pueblo. El libro de Génesis cierra con esa promesa pendiente.",
@@ -467,7 +467,7 @@
     {
       "id": "evt-013",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "El Imperio acadio de Sargón",
       "type": "timeline-event",
       "summary": "Sargón de Acad creó el primer imperio multiétnico conocido, uniendo Sumer y Acad bajo un mismo poder hacia el 2334 a. C. Su modelo de administración imperial influyó en todos los imperios posteriores de Mesopotamia.",
@@ -503,7 +503,7 @@
     {
       "id": "evt-014",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Moisés y la zarza ardiente",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta a Moisés, criado en la corte egipcia y exiliado en Madián, recibiendo el llamado divino ante una zarza que arde sin consumirse. Allí se revela el nombre divino y la misión de liberar a Israel.",
@@ -540,7 +540,7 @@
     {
       "id": "evt-015",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Las diez plagas de Egipto",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta diez plagas como confrontación entre el Dios de Israel y los dioses de Egipto, culminando con la muerte de los primogénitos. Cada plaga puede leerse como desafío a una deidad egipcia.",
@@ -577,7 +577,7 @@
     {
       "id": "evt-016",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "La Pascua y la salida de Egipto",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta la Pascua como memorial de la liberación: el cordero, la sangre en los postes y la salida apresurada. Es la fiesta fundacional del calendario religioso de Israel.",
@@ -613,7 +613,7 @@
     {
       "id": "evt-017",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "El cruce del mar de los Juncos",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta la apertura de las aguas ante Israel y su cierre sobre el ejército egipcio. El hebreo dice 'mar de los Juncos' (yam suf); la identificación exacta del lugar es debatida.",
@@ -652,7 +652,7 @@
     {
       "id": "evt-018",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "El pacto en el Sinaí y los Diez Mandamientos",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta la entrega de la Ley en el monte Sinaí como el acto constitutivo de Israel como pueblo. Los Diez Mandamientos resumen las obligaciones del pacto en dos tablas.",
@@ -692,7 +692,7 @@
     {
       "id": "evt-019",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Cuarenta años en el desierto",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta un período de peregrinación por el desierto marcado por el maná, el agua de la roca y la rebelión de la generación del éxodo. Es el marco narrativo de Números y Deuteronomio.",
@@ -731,7 +731,7 @@
     {
       "id": "evt-020",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Muerte de Moisés y Josué como sucesor",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta a Moisés contemplando la tierra prometida desde el monte Nebo sin entrar en ella, y a Josué asumiendo el liderazgo. Deuteronomio cierra con un elogio sin igual del profeta.",
@@ -773,7 +773,7 @@
     {
       "id": "evt-021",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "La caída de Jericó",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta la caída de los muros de Jericó tras siete días de procesión y el toque de trompetas. La arqueología del sitio es famosa y debatida: las excavaciones muestran destrucciones, pero su fecha exacta se discute intensamente.",
@@ -812,7 +812,7 @@
     {
       "id": "evt-022",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "La estela de Merneptah: 'Israel' en Canaán",
       "type": "timeline-event",
       "summary": "La estela de victoria del faraón Merneptah (c. 1207 a. C.) contiene la mención más antigua conocida del nombre 'Israel' fuera de la Biblia: 'Israel está desolado, no tiene semilla'. Es una referencia externa clave para la presencia de Israel en Canaán.",
@@ -848,7 +848,7 @@
     {
       "id": "evt-023",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Débora y Barac contra Sísara",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta a Débora, profetisa y jueza, convocando a Barac para enfrentar al general cananeo Sísara junto al Quisón. El cántico de Débora (Jueces 5) es uno de los poemas más antiguos de la Biblia hebrea.",
@@ -887,7 +887,7 @@
     {
       "id": "evt-024",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Gedeón y los madianitas",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta a Gedeón reduciendo su ejército de 32.000 a 300 hombres para que la victoria sobre Madián se atribuya a Dios y no a la fuerza humana. El episodio del vellón se volvió proverbial.",
@@ -924,7 +924,7 @@
     {
       "id": "evt-025",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Sansón y los filisteos",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta a Sansón, nazareo de fuerza prodigiosa, en conflicto permanente con los filisteos: la quijada de asno, las puertas de Gaza y el derrumbe del templo de Dagón. Su historia cierra el ciclo de los jueces mayores.",
@@ -962,7 +962,7 @@
     {
       "id": "evt-026",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Los filisteos: los 'pueblos del mar'",
       "type": "timeline-event",
       "summary": "Hacia 1200 a. C., grupos del Egeo conocidos como 'pueblos del mar' se asentaron en la costa de Canaán: los filisteos fundaron la pentápolis de Gaza, Ascalón, Asdod, Ecrón y Gat. Su cultura egea los distinguía de sus vecinos semitas.",
@@ -1000,7 +1000,7 @@
     {
       "id": "evt-027",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Samuel unge a Saúl como primer rey",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta la transición de Israel de una confederación tribal a la monarquía: Samuel unge a Saúl de Benjamín ante la presión filistea. Su reinado termina en tragedia en el monte Gilboa.",
@@ -1039,7 +1039,7 @@
     {
       "id": "evt-028",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "David y Goliat en el valle de Elah",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta al joven pastor David derrotando al gigante filisteo Goliat con honda y piedra. El episodio se convirtió en el símbolo universal del débil que vence al fuerte.",
@@ -1078,7 +1078,7 @@
     {
       "id": "evt-029",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "David toma Jerusalén",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta la conquista de la fortaleza jebusea de Jerusalén por David, que la convierte en su capital: una ciudad neutral entre el norte y el sur. Allí traslada el arca de la alianza.",
@@ -1118,7 +1118,7 @@
     {
       "id": "evt-030",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "El pacto davídico",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta la promesa divina a David de una dinastía perpetua (2 Samuel 7). Este pacto se volvió la base de la esperanza mesiánica: un futuro rey de la línea de David.",
@@ -1156,7 +1156,7 @@
     {
       "id": "evt-031",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Salomón construye el Templo de Jerusalén",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta la construcción del Templo por Salomón con ayuda de artesanos fenicios de Tiro: siete años de obra y un edificio de piedra, cedro y oro. Fue el centro religioso de Israel hasta el 586 a. C.",
@@ -1195,7 +1195,7 @@
     {
       "id": "evt-032",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "La reina de Sabá visita a Salomón",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta la visita de la reina de Sabá, que llega con camellos cargados de especias y oro para probar la sabiduría de Salomón. Sabá corresponde al reino sabeo del sur de Arabia, centro del comercio de incienso.",
@@ -1234,7 +1234,7 @@
     {
       "id": "evt-033",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "La estela de Tel Dan: la 'casa de David'",
       "type": "timeline-event",
       "summary": "Fragmentos de una estela aramea hallada en Tel Dan (1993–1994) mencionan la 'casa de David' en el contexto de una victoria de un rey de Damasco sobre Israel y Judá. Es la referencia extrabíblica más importante a la dinastía davídica.",
@@ -1272,7 +1272,7 @@
     {
       "id": "evt-034",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "La estela de Mesha, rey de Moab",
       "type": "timeline-event",
       "summary": "La estela del rey moabita Mesha (c. 840 a. C.) celebra su rebelión contra Israel con un lenguaje sorprendentemente parecido al de la Biblia hebrea. Menciona a Omri, a su hijo y al dios Quemos; es el paralelo extrabíblico más cercano al estilo bíblico.",
@@ -1311,7 +1311,7 @@
     {
       "id": "evt-035",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Sisac invade Judá",
       "type": "timeline-event",
       "summary": "El faraón Sisac (Shoshenq I) invadió Canaán hacia el 925 a. C. y el texto bíblico presenta el saqueo de los tesoros del Templo bajo Roboam. Su lista de ciudades conquistadas está grabada en el templo de Karnak.",
@@ -1351,7 +1351,7 @@
     {
       "id": "evt-036",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Los fenicios y la ciudad de Tiro",
       "type": "timeline-event",
       "summary": "Tiro y Sidón, ciudades fenicias de la costa libanesa, dominaron el comercio mediterráneo del primer milenio a. C. con púrpura, vidrio y madera de cedro. Hiram de Tiro fue aliado de David y Salomón según el texto bíblico.",
@@ -1390,7 +1390,7 @@
     {
       "id": "evt-037",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "El calendario de Gézer",
       "type": "timeline-event",
       "summary": "Una pequeña tablilla de piedra caliza hallada en Gézer (c. 925 a. C.) lista los meses del año agrícola en hebreo antiguo: siembra, cosecha, poda. Es uno de los textos hebreos más antiguos conocidos.",
@@ -1423,7 +1423,7 @@
     {
       "id": "evt-038",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Absalón se rebela contra David",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta la rebelión de Absalón, hijo de David, que toma Jerusalén y obliga a su padre a huir al otro lado del Jordán. La revuelta termina con la muerte de Absalón en el bosque de Efraín.",
@@ -1462,7 +1462,7 @@
     {
       "id": "evt-039",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "David y Betsabé: el profeta Natán confronta al rey",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta el adulterio de David con Betsabé y el asesinato de Urías, seguidos de la parábola de Natán que confronta al rey. El Salmo 51 se vincula tradicionalmente con su arrepentimiento.",
@@ -1503,7 +1503,7 @@
     {
       "id": "evt-040",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "La división del reino: Jeroboam y Roboam",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta la ruptura tras la muerte de Salomón: las diez tribus del norte siguen a Jeroboam (Israel, capital Samaria) y Judá queda con Roboam en Jerusalén. La fecha convencional es el 930 a. C.",
@@ -1541,7 +1541,7 @@
     {
       "id": "evt-041",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Elías en el monte Carmelo",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta el desafío de Elías a los 450 profetas de Baal en el Carmelo: el fuego que consume el holocausto mojado decide quién es Dios. Es el relato clásico de la confrontación entre el yahvismo y el baalismo.",
@@ -1580,7 +1580,7 @@
     {
       "id": "evt-042",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Eliseo y Naamán el sirio",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta la curación de Naamán, general arameo leproso, tras bañarse siete veces en el Jordán por orden de Eliseo. Su confesión —'no hay Dios en toda la tierra sino en Israel'— anticipa la apertura a las naciones.",
@@ -1618,7 +1618,7 @@
     {
       "id": "evt-043",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "La dinastía de Omri y la fundación de Samaria",
       "type": "timeline-event",
       "summary": "Omri fundó la dinastía más poderosa del reino del norte e hizo de Samaria su capital (c. 880 a. C.). La estela de Mesha lo llama 'rey de Israel' y los anales asirios llamaron a Israel 'la casa de Omri' durante un siglo.",
@@ -1657,7 +1657,7 @@
     {
       "id": "evt-044",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Acab, Jezabel y la batalla de Qarqar",
       "type": "timeline-event",
       "summary": "La estela de Kurkh de Salmanasar III registra que Acab de Israel aportó 2.000 carros y 10.000 soldados a la coalición que enfrentó a Asiria en Qarqar (853 a. C.): el contingente más grande de la alianza. El texto bíblico presenta a Acab bajo la sombra de Jezabel.",
@@ -1698,7 +1698,7 @@
     {
       "id": "evt-045",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "El Obelisco Negro: Jehú ante Salmanasar III",
       "type": "timeline-event",
       "summary": "El Obelisco Negro de Salmanasar III (c. 827 a. C.) muestra a Jehú, rey de Israel, postrado ante el rey asirio entregando tributo: la representación más antigua de un israelita en el arte. La inscripción lo llama 'Jehú, hijo de Omri'.",
@@ -1736,7 +1736,7 @@
     {
       "id": "evt-046",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Amós y Oseas: profetas del siglo VIII",
       "type": "timeline-event",
       "summary": "Amós, pastor de Tecoa, y Oseas profetizaron en el próspero pero injusto Israel del siglo VIII a. C. Sus oráculos contra la opresión del pobre y el culto vacío son la primera gran literatura profética escrita.",
@@ -1776,7 +1776,7 @@
     {
       "id": "evt-047",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Caída de Samaria ante Asiria",
       "type": "timeline-event",
       "summary": "Tras tres años de asedio, Samaria cayó ante Asiria en el 722 a. C. y el reino del norte desapareció: parte de la población fue deportada y repoblada con extranjeros. Es el fin de Israel como reino independiente.",
@@ -1817,7 +1817,7 @@
     {
       "id": "evt-048",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Senaquerib asedia Jerusalén",
       "type": "timeline-event",
       "summary": "En el 701 a. C., Senaquerib devastó Judá y sitió Jerusalén. El texto bíblico presenta la liberación milagrosa de la ciudad; el prisma de Senaquerib presume de haber encerrado a Ezequías 'como pájaro en jaula'. Jerusalén no cayó.",
@@ -1859,7 +1859,7 @@
     {
       "id": "evt-049",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Ezequías y el túnel de Siloé",
       "type": "timeline-event",
       "summary": "Para resistir el asedio asirio, Ezequías mandó excavar un túnel de 533 metros que llevó el agua del manantial de Gihón al estanque de Siloé dentro de las murallas. La inscripción de Siloé narra el encuentro de los dos equipos de excavadores.",
@@ -1898,7 +1898,7 @@
     {
       "id": "evt-050",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "La reforma de Josías y el hallazgo del libro",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta que durante reparaciones del Templo (622 a. C.) se halló 'el libro de la ley', lo que desató la gran reforma de Josías: centralización del culto en Jerusalén y purga de la idolatría. Muchos lo identifican con el núcleo de Deuteronomio.",
@@ -1937,7 +1937,7 @@
     {
       "id": "evt-051",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Muerte de Josías en Megido",
       "type": "timeline-event",
       "summary": "Josías murió en la batalla de Megido (609 a. C.) al intentar detener al faraón Necao II, que marchaba a auxiliar a Asiria contra Babilonia. Su muerte truncó la independencia de Judá y fue llorada como tragedia nacional.",
@@ -1977,7 +1977,7 @@
     {
       "id": "evt-052",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Jeremías anuncia el juicio sobre Judá",
       "type": "timeline-event",
       "summary": "Jeremías profetizó durante los últimos cuarenta años de Judá, anunciando la caída ante Babilonia y llamando a la sumisión como voluntad divina. Fue perseguido, encarcelado y arrojado a una cisterna por su mensaje impopular.",
@@ -2018,7 +2018,7 @@
     {
       "id": "evt-053",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Primera deportación a Babilonia",
       "type": "timeline-event",
       "summary": "Tras la rebelión de Joacim, Nabucodonosor II tomó Jerusalén en el 597 a. C. y deportó al rey Joaquín, la corte y los artesanos. Ezequiel estuvo entre los exiliados asentados junto al río Quebar.",
@@ -2059,7 +2059,7 @@
     {
       "id": "evt-054",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Caída de Jerusalén y destrucción del Templo",
       "type": "timeline-event",
       "summary": "En el verano del 586 a. C., tras un asedio de casi dos años, los babilonios destruyeron Jerusalén y el Templo de Salomón. La élite fue deportada; Judá se convirtió en provincia babilónica. Es el trauma fundacional del judaísmo.",
@@ -2101,7 +2101,7 @@
     {
       "id": "evt-055",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Las cartas de Laquis",
       "type": "timeline-event",
       "summary": "Veintiún ostraca hallados en Laquis (c. 588 a. C.) recogen la correspondencia militar de los últimos días de Judá: puestos de vigilancia que dejan de responder, el avance babilónico y la angustia de los defensores. Están escritos en hebreo clásico.",
@@ -2136,7 +2136,7 @@
     {
       "id": "evt-056",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Ezequiel entre los exiliados",
       "type": "timeline-event",
       "summary": "Ezequiel, sacerdote deportado en el 597 a. C., profetizó junto al río Quebar en Babilonia. Sus visiones —el valle de los huesos secos, el templo futuro— dieron esperanza a los exiliados y forma teológica a la restauración.",
@@ -2174,7 +2174,7 @@
     {
       "id": "evt-057",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Daniel en la corte de Babilonia",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta a Daniel y sus compañeros como jóvenes judíos educados en la corte babilónica que alcanzan altos cargos sin renunciar a su fe. Sus relatos —el foso de los leones, el horno— y sus visiones apocalípticas marcaron la literatura posterior.",
@@ -2211,7 +2211,7 @@
     {
       "id": "evt-058",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Nabucodonosor II y la Babilonia imperial",
       "type": "timeline-event",
       "summary": "Nabucodonosor II (605–562 a. C.) convirtió Babilonia en la ciudad más espléndida del mundo antiguo: la puerta de Ishtar, los jardines colgantes de la leyenda y el zigurat Etemenanki. Sus anales registran campañas hasta el Mediterráneo.",
@@ -2251,7 +2251,7 @@
     {
       "id": "evt-059",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Ciro toma Babilonia: el Cilindro de Ciro",
       "type": "timeline-event",
       "summary": "En el 539 a. C., Ciro el Grande tomó Babilonia casi sin resistencia. Su famoso cilindro de arcilla proclama una política de tolerancia: restaurar templos y devolver dioses —y pueblos— a sus tierras. El texto bíblico lo llama 'ungido' de Dios.",
@@ -2291,7 +2291,7 @@
     {
       "id": "evt-060",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "El edicto de Ciro y el retorno",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta el decreto de Ciro (538 a. C.) autorizando a los judíos a regresar y reconstruir el Templo. Un primer grupo volvió bajo Sesbasar y Zorobabel. Muchos exiliados, sin embargo, permanecieron en Babilonia.",
@@ -2332,7 +2332,7 @@
     {
       "id": "evt-061",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Zorobabel y el Segundo Templo",
       "type": "timeline-event",
       "summary": "Bajo Zorobabel y el sumo sacerdote Josué, los retornados reconstruyeron el Templo, dedicado en el 516 a. C. El texto bíblico presenta el llanto de los ancianos que habían visto el primero y la alegría de los jóvenes.",
@@ -2372,7 +2372,7 @@
     {
       "id": "evt-062",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Ester en la corte de Susa",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta a Ester, judía que llega a reina de Persia, frustrando el plan de Amán de exterminar a los judíos. La fiesta de Purim conmemora la liberación. El libro no menciona a Dios por nombre, algo único en la Biblia.",
@@ -2413,7 +2413,7 @@
     {
       "id": "evt-063",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Esdras y la lectura pública de la Ley",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta a Esdras, escriba llegado de Babilonia, leyendo la Ley ante todo el pueblo reunido en Jerusalén, con los levitas explicando el sentido. Es la escena fundacional de la lectura pública de las Escrituras.",
@@ -2451,7 +2451,7 @@
     {
       "id": "evt-064",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Nehemías reconstruye los muros de Jerusalén",
       "type": "timeline-event",
       "summary": "Nehemías, copero del rey persa Artajerjes, obtuvo permiso para reconstruir los muros de Jerusalén. El texto bíblico presenta la obra terminada en 52 días pese a la oposición de los gobernadores vecinos. Sus memorias son una fuente de primera mano única.",
@@ -2492,7 +2492,7 @@
     {
       "id": "evt-065",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Los papiros de Elefantina: judíos en Egipto",
       "type": "timeline-event",
       "summary": "Una guarnición judía en la isla de Elefantina (sur de Egipto) dejó un archivo de papiros en arameo (siglo V a. C.): tenían su propio templo a Yahvé, escribían a Jerusalén y se casaban con egipcias. Revelan un judaísmo muy distinto al de los textos bíblicos.",
@@ -2526,7 +2526,7 @@
     {
       "id": "evt-066",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Alejandro Magno y la llegada del helenismo",
       "type": "timeline-event",
       "summary": "Alejandro Magno conquistó el imperio persa y Judea pasó a la órbita griega (332 a. C.). El griego se convirtió en la lengua del comercio y la cultura, y la Biblia hebrea se tradujo al griego (la Septuaginta) en Alejandría.",
@@ -2565,7 +2565,7 @@
     {
       "id": "evt-067",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "La revuelta macabea y la fiesta de Janucá",
       "type": "timeline-event",
       "summary": "Antíoco IV Epífanes prohibió el judaísmo y profanó el Templo; la familia de Matatías se rebeló y Judas Macabeo retomó Jerusalén en el 164 a. C. La purificación del Templo se conmemora en Janucá, la fiesta de las luces.",
@@ -2606,7 +2606,7 @@
     {
       "id": "evt-068",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Pompeyo toma Jerusalén",
       "type": "timeline-event",
       "summary": "El general romano Pompeyo tomó Jerusalén en el 63 a. C., interviniendo en una guerra civil entre los últimos asmonenos. Judea pasó a la órbita de Roma: comenzaba la era que enmarcaría la vida de Jesús.",
@@ -2644,7 +2644,7 @@
     {
       "id": "evt-069",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Herodes el Grande reconstruye el Templo",
       "type": "timeline-event",
       "summary": "Herodes el Grande (37–4 a. C.), rey cliente de Roma, reconstruyó el Templo de Jerusalén a escala monumental: una explanada de 144.000 m² con muros de contención, cuyo Muro Occidental sobrevive hoy. También construyó Cesarea, Masada y el Herodión.",
@@ -2685,7 +2685,7 @@
     {
       "id": "evt-070",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "El censo de Quirino",
       "type": "timeline-event",
       "summary": "Lucas sitúa el nacimiento de Jesús durante un censo de Quirino, gobernador de Siria. La fecha es debatida: el censo documentado de Quirino es del 6 d. C., posterior a la muerte de Herodes (4 a. C.), lo que genera un conocido problema cronológico.",
@@ -2724,7 +2724,7 @@
     {
       "id": "evt-071",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Nacimiento de Jesús en Belén",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta el nacimiento de Jesús en Belén, la ciudad de David, hijo de María. Mateo y Lucas ofrecen relatos de la infancia con énfasis distintos; Marcos y Juan comienzan con el ministerio adulto.",
@@ -2767,7 +2767,7 @@
     {
       "id": "evt-072",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Juan el Bautista en el Jordán",
       "type": "timeline-event",
       "summary": "Juan el Bautista predicó el arrepentimiento y bautizó en el Jordán, atrayendo multitudes y la atención de Herodes Antipas, que lo encarceló y ejecutó. El historiador judío Josefo lo menciona como figura popular.",
@@ -2807,7 +2807,7 @@
     {
       "id": "evt-073",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "El ministerio de Jesús en Galilea",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta unos tres años de ministerio centrado en Galilea: parábolas, milagros y el Sermón del Monte, con Cafarnaúm como base. Su mensaje del Reino de Dios atrajo multitudes y oposición creciente.",
@@ -2853,7 +2853,7 @@
     {
       "id": "evt-074",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "La inscripción de Pilato en Cesarea",
       "type": "timeline-event",
       "summary": "Una inscripción en piedra hallada en Cesarea Marítima (1961) nombra a 'Poncio Pilato, prefecto de Judea': la única evidencia contemporánea del juez de Jesús. Confirma su título exacto, 'prefecto', no 'procurador'.",
@@ -2891,7 +2891,7 @@
     {
       "id": "evt-075",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "La última semana en Jerusalén",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta la entrada a Jerusalén, la purificación del Templo, la última cena pascual con sus discípulos y la oración en Getsemaní. La cronología de la semana difiere ligeramente entre los evangelios sinópticos y Juan.",
@@ -2932,7 +2932,7 @@
     {
       "id": "evt-076",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Crucifixión y resurrección de Jesús",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta la crucifixión bajo Poncio Pilato y, al tercer día, la tumba vacía y las apariciones del Resucitado. Es el centro de la fe cristiana y el evento más debatido entre historia y teología.",
@@ -2974,7 +2974,7 @@
     {
       "id": "evt-077",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Los rollos del Mar Muerto en Qumrán",
       "type": "timeline-event",
       "summary": "Entre 1947 y 1956 se hallaron en cuevas de Qumrán unos 900 manuscritos: copias bíblicas mil años más antiguas que las conocidas, más reglas y comentarios de una comunidad judía del Segundo Templo. Revolucionaron el estudio de la Biblia hebrea.",
@@ -3008,7 +3008,7 @@
     {
       "id": "evt-078",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "La destrucción del Segundo Templo",
       "type": "timeline-event",
       "summary": "En el 70 d. C., tras cuatro años de revuelta judía, Tito tomó Jerusalén y destruyó el Templo de Herodes. El arco de Tito en Roma muestra el botín: la menorá y las trompetas. El judaísmo rabínico nació de esta catástrofe.",
@@ -3049,7 +3049,7 @@
     {
       "id": "evt-079",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Pentecostés y la iglesia en Jerusalén",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta el derramamiento del Espíritu en Pentecostés y el sermón de Pedro con unas 3.000 conversiones. La comunidad compartía bienes y se reunía en el Templo y por las casas.",
@@ -3089,7 +3089,7 @@
     {
       "id": "evt-080",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Esteban, primer mártir, y la dispersión",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta el discurso de Esteban ante el Sanedrín y su lapidación, con Saulo aprobando. La persecución dispersó a los creyentes por Judea y Samaria, extendiendo paradójicamente el mensaje.",
@@ -3127,7 +3127,7 @@
     {
       "id": "evt-081",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "La conversión de Saulo en Damasco",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta al perseguidor Saulo derribado camino a Damasco por una luz del cielo y la voz de Jesús. Bautizado por Ananías, se convirtió en Pablo, el apóstol a los gentiles y autor de gran parte del Nuevo Testamento.",
@@ -3166,7 +3166,7 @@
     {
       "id": "evt-082",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Pedro y Cornelio: el evangelio a los gentiles",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta la visión de Pedro en Jope y su visita al centurión Cornelio en Cesarea, donde el Espíritu cae sobre gentiles. Fue el precedente teológico para la misión sin circuncisión.",
@@ -3204,7 +3204,7 @@
     {
       "id": "evt-083",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "El concilio de Jerusalén",
       "type": "timeline-event",
       "summary": "Hacia el 49 d. C., apóstoles y ancianos se reunieron en Jerusalén para decidir si los gentiles debían circuncidarse. El texto bíblico presenta el acuerdo: no imponer la ley mosaica, solo unas abstinencias básicas. Fue la primera gran decisión colectiva de la Iglesia.",
@@ -3244,7 +3244,7 @@
     {
       "id": "evt-084",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Pablo en Corinto y la inscripción de Galión",
       "type": "timeline-event",
       "summary": "Una inscripción en Delfos menciona a Galión como procónsul de Acaya, lo que permite fechar la estancia de Pablo en Corinto hacia el 51–52 d. C. Es el punto de anclaje cronológico más firme de la vida de Pablo.",
@@ -3283,7 +3283,7 @@
     {
       "id": "evt-085",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Pablo en Éfeso y el tumulto de Demetrio",
       "type": "timeline-event",
       "summary": "Pablo pasó unos tres años en Éfeso, tercera ciudad del imperio. El texto bíblico presenta el tumulto del platero Demetrio, que veía peligrar el negocio de templetes de Artemisa. El teatro de Éfeso, donde gritaron '¡Grande es Artemisa!', aún se visita.",
@@ -3322,7 +3322,7 @@
     {
       "id": "evt-086",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Pablo, prisionero rumbo a Roma",
       "type": "timeline-event",
       "summary": "Arrestado en Jerusalén, Pablo apeló al César como ciudadano romano y fue enviado a Roma. El texto bíblico presenta el naufragio en Malta con detalle náutico preciso. En Roma predicó dos años bajo arresto domiciliario.",
@@ -3361,7 +3361,7 @@
     {
       "id": "evt-087",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Nerón y la primera persecución en Roma",
       "type": "timeline-event",
       "summary": "Tras el gran incendio de Roma (64 d. C.), Nerón culpó a los cristianos y los sometió a suplicios atroces, según Tácito. La tradición sitúa en esta persecución la muerte de Pedro y Pablo en Roma.",
@@ -3399,7 +3399,7 @@
     {
       "id": "evt-088",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Pablo escribe la carta a los Romanos",
       "type": "timeline-event",
       "summary": "Desde Corinto (c. 57 d. C.), Pablo escribió a la iglesia de Roma su exposición más sistemática: la justificación por la fe, el plan de Dios para judíos y gentiles, y la vida nueva en el Espíritu. Es la carta más influyente de la historia cristiana.",
@@ -3441,7 +3441,7 @@
     {
       "id": "evt-089",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "La inscripción de Erasto en Corinto",
       "type": "timeline-event",
       "summary": "Una losa en el pavimento junto al teatro de Corinto dice: 'Erasto, edil, puso este pavimento con su propio dinero'. Pablo menciona a 'Erasto, tesorero de la ciudad' (Romanos 16:23): la coincidencia de nombre, cargo, lugar y fecha es notable.",
@@ -3479,7 +3479,7 @@
     {
       "id": "evt-090",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Juan en Patmos y el Apocalipsis",
       "type": "timeline-event",
       "summary": "El texto bíblico presenta a Juan desterrado en Patmos recibiendo las visiones del Apocalipsis, dirigidas a siete iglesias de Asia Menor. La tradición lo fecha bajo Domiciano (c. 95 d. C.); una minoría lo sitúa bajo Nerón.",

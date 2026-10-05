@@ -12,7 +12,7 @@
     {
       "id": "era-01",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Orígenes y patriarcas",
       "type": "era",
       "summary": "Abraham, Isaac, Jacob y José: los relatos fundacionales de Israel en el mundo del segundo milenio a. C., entre Sumer, Egipto y Canaán. Las fechas de los patriarcas son debatidas; el contexto cultural está bien documentado.",
@@ -33,7 +33,7 @@
     {
       "id": "era-02",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Éxodo y asentamiento",
       "type": "era",
       "summary": "Moisés, la salida de Egipto, el Sinaí y la llegada a Canaán: el relato constitutivo de Israel como pueblo. La cronología y las rutas se presentan como debatidas donde corresponde.",
@@ -54,7 +54,7 @@
     {
       "id": "era-03",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Monarquía unida",
       "type": "era",
       "summary": "Saúl, David y Salomón: el siglo del reino unificado con capital en Jerusalén. La magnitud del reino davídico es objeto de debate; la dinastía está confirmada por la estela de Tel Dan.",
@@ -75,7 +75,7 @@
     {
       "id": "era-04",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Reinos divididos",
       "type": "era",
       "summary": "Israel en el norte y Judá en el sur, entre la presión de Aram, Asiria y Babilonia. Profetas, guerras y asedios: la época mejor documentada por fuentes externas del Antiguo Testamento.",
@@ -96,7 +96,7 @@
     {
       "id": "era-05",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Exilio y retorno",
       "type": "era",
       "summary": "La destrucción de Jerusalén, el destierro en Babilonia y el regreso bajo Persia. El trauma que transformó la religión de Israel: sin templo ni rey, nacieron la sinagoga y el judaísmo centrado en la Torá.",
@@ -117,7 +117,7 @@
     {
       "id": "era-06",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Mundo de Jesús",
       "type": "era",
       "summary": "Del helenismo a Roma: macabeos, Herodes y la Galilea del siglo I. El escenario histórico, geográfico y cultural en el que vivió Jesús de Nazaret.",
@@ -138,7 +138,7 @@
     {
       "id": "era-07",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Iglesia primitiva",
       "type": "era",
       "summary": "De Pentecostés a Patmos: la expansión del movimiento cristiano desde Jerusalén por todo el Mediterráneo romano, con Pablo como gran viajero y las primeras persecuciones.",

@@ -12,7 +12,7 @@
     {
       "id": "fact-001",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 1",
       "type": "daily-fact",
       "day": 1,
@@ -30,7 +30,7 @@
     {
       "id": "fact-002",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 2",
       "type": "daily-fact",
       "day": 2,
@@ -48,7 +48,7 @@
     {
       "id": "fact-003",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 3",
       "type": "daily-fact",
       "day": 3,
@@ -66,7 +66,7 @@
     {
       "id": "fact-004",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 4",
       "type": "daily-fact",
       "day": 4,
@@ -84,7 +84,7 @@
     {
       "id": "fact-005",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 5",
       "type": "daily-fact",
       "day": 5,
@@ -102,7 +102,7 @@
     {
       "id": "fact-006",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 6",
       "type": "daily-fact",
       "day": 6,
@@ -120,7 +120,7 @@
     {
       "id": "fact-007",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 7",
       "type": "daily-fact",
       "day": 7,
@@ -138,7 +138,7 @@
     {
       "id": "fact-008",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 8",
       "type": "daily-fact",
       "day": 8,
@@ -156,7 +156,7 @@
     {
       "id": "fact-009",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 9",
       "type": "daily-fact",
       "day": 9,
@@ -173,7 +173,7 @@
     {
       "id": "fact-010",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 10",
       "type": "daily-fact",
       "day": 10,
@@ -190,7 +190,7 @@
     {
       "id": "fact-011",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 11",
       "type": "daily-fact",
       "day": 11,
@@ -208,7 +208,7 @@
     {
       "id": "fact-012",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 12",
       "type": "daily-fact",
       "day": 12,
@@ -226,7 +226,7 @@
     {
       "id": "fact-013",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 13",
       "type": "daily-fact",
       "day": 13,
@@ -244,7 +244,7 @@
     {
       "id": "fact-014",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 14",
       "type": "daily-fact",
       "day": 14,
@@ -261,7 +261,7 @@
     {
       "id": "fact-015",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 15",
       "type": "daily-fact",
       "day": 15,
@@ -279,7 +279,7 @@
     {
       "id": "fact-016",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 16",
       "type": "daily-fact",
       "day": 16,
@@ -297,7 +297,7 @@
     {
       "id": "fact-017",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 17",
       "type": "daily-fact",
       "day": 17,
@@ -315,7 +315,7 @@
     {
       "id": "fact-018",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 18",
       "type": "daily-fact",
       "day": 18,
@@ -333,7 +333,7 @@
     {
       "id": "fact-019",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 19",
       "type": "daily-fact",
       "day": 19,
@@ -351,7 +351,7 @@
     {
       "id": "fact-020",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 20",
       "type": "daily-fact",
       "day": 20,
@@ -369,7 +369,7 @@
     {
       "id": "fact-021",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 21",
       "type": "daily-fact",
       "day": 21,
@@ -386,7 +386,7 @@
     {
       "id": "fact-022",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 22",
       "type": "daily-fact",
       "day": 22,
@@ -404,7 +404,7 @@
     {
       "id": "fact-023",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 23",
       "type": "daily-fact",
       "day": 23,
@@ -422,7 +422,7 @@
     {
       "id": "fact-024",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 24",
       "type": "daily-fact",
       "day": 24,
@@ -440,7 +440,7 @@
     {
       "id": "fact-025",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 25",
       "type": "daily-fact",
       "day": 25,
@@ -457,7 +457,7 @@
     {
       "id": "fact-026",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 26",
       "type": "daily-fact",
       "day": 26,
@@ -474,7 +474,7 @@
     {
       "id": "fact-027",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 27",
       "type": "daily-fact",
       "day": 27,
@@ -492,7 +492,7 @@
     {
       "id": "fact-028",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 28",
       "type": "daily-fact",
       "day": 28,
@@ -510,7 +510,7 @@
     {
       "id": "fact-029",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 29",
       "type": "daily-fact",
       "day": 29,
@@ -528,7 +528,7 @@
     {
       "id": "fact-030",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 30",
       "type": "daily-fact",
       "day": 30,
@@ -546,7 +546,7 @@
     {
       "id": "fact-031",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 31",
       "type": "daily-fact",
       "day": 31,
@@ -564,7 +564,7 @@
     {
       "id": "fact-032",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 32",
       "type": "daily-fact",
       "day": 32,
@@ -582,7 +582,7 @@
     {
       "id": "fact-033",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 33",
       "type": "daily-fact",
       "day": 33,
@@ -600,7 +600,7 @@
     {
       "id": "fact-034",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 34",
       "type": "daily-fact",
       "day": 34,
@@ -618,7 +618,7 @@
     {
       "id": "fact-035",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 35",
       "type": "daily-fact",
       "day": 35,
@@ -635,7 +635,7 @@
     {
       "id": "fact-036",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 36",
       "type": "daily-fact",
       "day": 36,
@@ -652,7 +652,7 @@
     {
       "id": "fact-037",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 37",
       "type": "daily-fact",
       "day": 37,
@@ -670,7 +670,7 @@
     {
       "id": "fact-038",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 38",
       "type": "daily-fact",
       "day": 38,
@@ -688,7 +688,7 @@
     {
       "id": "fact-039",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 39",
       "type": "daily-fact",
       "day": 39,
@@ -706,7 +706,7 @@
     {
       "id": "fact-040",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 40",
       "type": "daily-fact",
       "day": 40,
@@ -724,7 +724,7 @@
     {
       "id": "fact-041",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 41",
       "type": "daily-fact",
       "day": 41,
@@ -742,7 +742,7 @@
     {
       "id": "fact-042",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 42",
       "type": "daily-fact",
       "day": 42,
@@ -760,7 +760,7 @@
     {
       "id": "fact-043",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 43",
       "type": "daily-fact",
       "day": 43,
@@ -778,7 +778,7 @@
     {
       "id": "fact-044",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 44",
       "type": "daily-fact",
       "day": 44,
@@ -795,7 +795,7 @@
     {
       "id": "fact-045",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 45",
       "type": "daily-fact",
       "day": 45,
@@ -813,7 +813,7 @@
     {
       "id": "fact-046",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 46",
       "type": "daily-fact",
       "day": 46,
@@ -831,7 +831,7 @@
     {
       "id": "fact-047",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 47",
       "type": "daily-fact",
       "day": 47,
@@ -849,7 +849,7 @@
     {
       "id": "fact-048",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 48",
       "type": "daily-fact",
       "day": 48,
@@ -867,7 +867,7 @@
     {
       "id": "fact-049",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 49",
       "type": "daily-fact",
       "day": 49,
@@ -885,7 +885,7 @@
     {
       "id": "fact-050",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 50",
       "type": "daily-fact",
       "day": 50,
@@ -903,7 +903,7 @@
     {
       "id": "fact-051",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 51",
       "type": "daily-fact",
       "day": 51,
@@ -921,7 +921,7 @@
     {
       "id": "fact-052",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 52",
       "type": "daily-fact",
       "day": 52,
@@ -938,7 +938,7 @@
     {
       "id": "fact-053",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 53",
       "type": "daily-fact",
       "day": 53,
@@ -956,7 +956,7 @@
     {
       "id": "fact-054",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 54",
       "type": "daily-fact",
       "day": 54,
@@ -974,7 +974,7 @@
     {
       "id": "fact-055",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 55",
       "type": "daily-fact",
       "day": 55,
@@ -992,7 +992,7 @@
     {
       "id": "fact-056",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 56",
       "type": "daily-fact",
       "day": 56,
@@ -1010,7 +1010,7 @@
     {
       "id": "fact-057",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 57",
       "type": "daily-fact",
       "day": 57,
@@ -1027,7 +1027,7 @@
     {
       "id": "fact-058",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 58",
       "type": "daily-fact",
       "day": 58,
@@ -1045,7 +1045,7 @@
     {
       "id": "fact-059",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 59",
       "type": "daily-fact",
       "day": 59,
@@ -1063,7 +1063,7 @@
     {
       "id": "fact-060",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 60",
       "type": "daily-fact",
       "day": 60,
@@ -1080,7 +1080,7 @@
     {
       "id": "fact-061",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 61",
       "type": "daily-fact",
       "day": 61,
@@ -1098,7 +1098,7 @@
     {
       "id": "fact-062",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 62",
       "type": "daily-fact",
       "day": 62,
@@ -1116,7 +1116,7 @@
     {
       "id": "fact-063",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 63",
       "type": "daily-fact",
       "day": 63,
@@ -1133,7 +1133,7 @@
     {
       "id": "fact-064",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 64",
       "type": "daily-fact",
       "day": 64,
@@ -1151,7 +1151,7 @@
     {
       "id": "fact-065",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 65",
       "type": "daily-fact",
       "day": 65,
@@ -1169,7 +1169,7 @@
     {
       "id": "fact-066",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 66",
       "type": "daily-fact",
       "day": 66,
@@ -1187,7 +1187,7 @@
     {
       "id": "fact-067",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 67",
       "type": "daily-fact",
       "day": 67,
@@ -1205,7 +1205,7 @@
     {
       "id": "fact-068",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 68",
       "type": "daily-fact",
       "day": 68,
@@ -1223,7 +1223,7 @@
     {
       "id": "fact-069",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 69",
       "type": "daily-fact",
       "day": 69,
@@ -1241,7 +1241,7 @@
     {
       "id": "fact-070",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 70",
       "type": "daily-fact",
       "day": 70,
@@ -1258,7 +1258,7 @@
     {
       "id": "fact-071",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 71",
       "type": "daily-fact",
       "day": 71,
@@ -1276,7 +1276,7 @@
     {
       "id": "fact-072",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 72",
       "type": "daily-fact",
       "day": 72,
@@ -1294,7 +1294,7 @@
     {
       "id": "fact-073",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 73",
       "type": "daily-fact",
       "day": 73,
@@ -1312,7 +1312,7 @@
     {
       "id": "fact-074",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 74",
       "type": "daily-fact",
       "day": 74,
@@ -1330,7 +1330,7 @@
     {
       "id": "fact-075",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 75",
       "type": "daily-fact",
       "day": 75,
@@ -1348,7 +1348,7 @@
     {
       "id": "fact-076",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 76",
       "type": "daily-fact",
       "day": 76,
@@ -1366,7 +1366,7 @@
     {
       "id": "fact-077",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 77",
       "type": "daily-fact",
       "day": 77,
@@ -1384,7 +1384,7 @@
     {
       "id": "fact-078",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 78",
       "type": "daily-fact",
       "day": 78,
@@ -1402,7 +1402,7 @@
     {
       "id": "fact-079",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 79",
       "type": "daily-fact",
       "day": 79,
@@ -1420,7 +1420,7 @@
     {
       "id": "fact-080",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 80",
       "type": "daily-fact",
       "day": 80,
@@ -1438,7 +1438,7 @@
     {
       "id": "fact-081",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 81",
       "type": "daily-fact",
       "day": 81,
@@ -1456,7 +1456,7 @@
     {
       "id": "fact-082",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 82",
       "type": "daily-fact",
       "day": 82,
@@ -1474,7 +1474,7 @@
     {
       "id": "fact-083",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 83",
       "type": "daily-fact",
       "day": 83,
@@ -1492,7 +1492,7 @@
     {
       "id": "fact-084",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 84",
       "type": "daily-fact",
       "day": 84,
@@ -1510,7 +1510,7 @@
     {
       "id": "fact-085",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 85",
       "type": "daily-fact",
       "day": 85,
@@ -1528,7 +1528,7 @@
     {
       "id": "fact-086",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 86",
       "type": "daily-fact",
       "day": 86,
@@ -1546,7 +1546,7 @@
     {
       "id": "fact-087",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 87",
       "type": "daily-fact",
       "day": 87,
@@ -1564,7 +1564,7 @@
     {
       "id": "fact-088",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 88",
       "type": "daily-fact",
       "day": 88,
@@ -1582,7 +1582,7 @@
     {
       "id": "fact-089",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 89",
       "type": "daily-fact",
       "day": 89,
@@ -1600,7 +1600,7 @@
     {
       "id": "fact-090",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 90",
       "type": "daily-fact",
       "day": 90,
@@ -1618,7 +1618,7 @@
     {
       "id": "fact-091",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 91",
       "type": "daily-fact",
       "day": 91,
@@ -1636,7 +1636,7 @@
     {
       "id": "fact-092",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 92",
       "type": "daily-fact",
       "day": 92,
@@ -1654,7 +1654,7 @@
     {
       "id": "fact-093",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 93",
       "type": "daily-fact",
       "day": 93,
@@ -1672,7 +1672,7 @@
     {
       "id": "fact-094",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 94",
       "type": "daily-fact",
       "day": 94,
@@ -1690,7 +1690,7 @@
     {
       "id": "fact-095",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 95",
       "type": "daily-fact",
       "day": 95,
@@ -1707,7 +1707,7 @@
     {
       "id": "fact-096",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 96",
       "type": "daily-fact",
       "day": 96,
@@ -1724,7 +1724,7 @@
     {
       "id": "fact-097",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 97",
       "type": "daily-fact",
       "day": 97,
@@ -1742,7 +1742,7 @@
     {
       "id": "fact-098",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 98",
       "type": "daily-fact",
       "day": 98,
@@ -1760,7 +1760,7 @@
     {
       "id": "fact-099",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 99",
       "type": "daily-fact",
       "day": 99,
@@ -1777,7 +1777,7 @@
     {
       "id": "fact-100",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 100",
       "type": "daily-fact",
       "day": 100,
@@ -1795,7 +1795,7 @@
     {
       "id": "fact-101",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 101",
       "type": "daily-fact",
       "day": 101,
@@ -1812,7 +1812,7 @@
     {
       "id": "fact-102",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 102",
       "type": "daily-fact",
       "day": 102,
@@ -1830,7 +1830,7 @@
     {
       "id": "fact-103",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 103",
       "type": "daily-fact",
       "day": 103,
@@ -1848,7 +1848,7 @@
     {
       "id": "fact-104",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 104",
       "type": "daily-fact",
       "day": 104,
@@ -1866,7 +1866,7 @@
     {
       "id": "fact-105",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 105",
       "type": "daily-fact",
       "day": 105,
@@ -1883,7 +1883,7 @@
     {
       "id": "fact-106",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 106",
       "type": "daily-fact",
       "day": 106,
@@ -1901,7 +1901,7 @@
     {
       "id": "fact-107",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 107",
       "type": "daily-fact",
       "day": 107,
@@ -1919,7 +1919,7 @@
     {
       "id": "fact-108",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 108",
       "type": "daily-fact",
       "day": 108,
@@ -1937,7 +1937,7 @@
     {
       "id": "fact-109",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 109",
       "type": "daily-fact",
       "day": 109,
@@ -1955,7 +1955,7 @@
     {
       "id": "fact-110",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 110",
       "type": "daily-fact",
       "day": 110,
@@ -1973,7 +1973,7 @@
     {
       "id": "fact-111",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 111",
       "type": "daily-fact",
       "day": 111,
@@ -1991,7 +1991,7 @@
     {
       "id": "fact-112",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 112",
       "type": "daily-fact",
       "day": 112,
@@ -2009,7 +2009,7 @@
     {
       "id": "fact-113",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 113",
       "type": "daily-fact",
       "day": 113,
@@ -2026,7 +2026,7 @@
     {
       "id": "fact-114",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 114",
       "type": "daily-fact",
       "day": 114,
@@ -2044,7 +2044,7 @@
     {
       "id": "fact-115",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 115",
       "type": "daily-fact",
       "day": 115,
@@ -2061,7 +2061,7 @@
     {
       "id": "fact-116",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 116",
       "type": "daily-fact",
       "day": 116,
@@ -2078,7 +2078,7 @@
     {
       "id": "fact-117",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 117",
       "type": "daily-fact",
       "day": 117,
@@ -2095,7 +2095,7 @@
     {
       "id": "fact-118",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 118",
       "type": "daily-fact",
       "day": 118,
@@ -2113,7 +2113,7 @@
     {
       "id": "fact-119",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 119",
       "type": "daily-fact",
       "day": 119,
@@ -2131,7 +2131,7 @@
     {
       "id": "fact-120",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 120",
       "type": "daily-fact",
       "day": 120,
@@ -2148,7 +2148,7 @@
     {
       "id": "fact-121",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 121",
       "type": "daily-fact",
       "day": 121,
@@ -2166,7 +2166,7 @@
     {
       "id": "fact-122",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 122",
       "type": "daily-fact",
       "day": 122,
@@ -2184,7 +2184,7 @@
     {
       "id": "fact-123",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 123",
       "type": "daily-fact",
       "day": 123,
@@ -2202,7 +2202,7 @@
     {
       "id": "fact-124",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 124",
       "type": "daily-fact",
       "day": 124,
@@ -2219,7 +2219,7 @@
     {
       "id": "fact-125",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 125",
       "type": "daily-fact",
       "day": 125,
@@ -2237,7 +2237,7 @@
     {
       "id": "fact-126",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 126",
       "type": "daily-fact",
       "day": 126,
@@ -2254,7 +2254,7 @@
     {
       "id": "fact-127",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 127",
       "type": "daily-fact",
       "day": 127,
@@ -2271,7 +2271,7 @@
     {
       "id": "fact-128",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 128",
       "type": "daily-fact",
       "day": 128,
@@ -2289,7 +2289,7 @@
     {
       "id": "fact-129",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 129",
       "type": "daily-fact",
       "day": 129,
@@ -2307,7 +2307,7 @@
     {
       "id": "fact-130",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 130",
       "type": "daily-fact",
       "day": 130,
@@ -2325,7 +2325,7 @@
     {
       "id": "fact-131",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 131",
       "type": "daily-fact",
       "day": 131,
@@ -2343,7 +2343,7 @@
     {
       "id": "fact-132",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 132",
       "type": "daily-fact",
       "day": 132,
@@ -2361,7 +2361,7 @@
     {
       "id": "fact-133",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 133",
       "type": "daily-fact",
       "day": 133,
@@ -2379,7 +2379,7 @@
     {
       "id": "fact-134",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 134",
       "type": "daily-fact",
       "day": 134,
@@ -2396,7 +2396,7 @@
     {
       "id": "fact-135",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 135",
       "type": "daily-fact",
       "day": 135,
@@ -2414,7 +2414,7 @@
     {
       "id": "fact-136",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 136",
       "type": "daily-fact",
       "day": 136,
@@ -2432,7 +2432,7 @@
     {
       "id": "fact-137",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 137",
       "type": "daily-fact",
       "day": 137,
@@ -2449,7 +2449,7 @@
     {
       "id": "fact-138",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 138",
       "type": "daily-fact",
       "day": 138,
@@ -2467,7 +2467,7 @@
     {
       "id": "fact-139",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 139",
       "type": "daily-fact",
       "day": 139,
@@ -2484,7 +2484,7 @@
     {
       "id": "fact-140",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 140",
       "type": "daily-fact",
       "day": 140,
@@ -2502,7 +2502,7 @@
     {
       "id": "fact-141",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 141",
       "type": "daily-fact",
       "day": 141,
@@ -2520,7 +2520,7 @@
     {
       "id": "fact-142",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 142",
       "type": "daily-fact",
       "day": 142,
@@ -2538,7 +2538,7 @@
     {
       "id": "fact-143",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 143",
       "type": "daily-fact",
       "day": 143,
@@ -2555,7 +2555,7 @@
     {
       "id": "fact-144",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 144",
       "type": "daily-fact",
       "day": 144,
@@ -2573,7 +2573,7 @@
     {
       "id": "fact-145",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 145",
       "type": "daily-fact",
       "day": 145,
@@ -2590,7 +2590,7 @@
     {
       "id": "fact-146",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 146",
       "type": "daily-fact",
       "day": 146,
@@ -2607,7 +2607,7 @@
     {
       "id": "fact-147",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 147",
       "type": "daily-fact",
       "day": 147,
@@ -2625,7 +2625,7 @@
     {
       "id": "fact-148",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 148",
       "type": "daily-fact",
       "day": 148,
@@ -2643,7 +2643,7 @@
     {
       "id": "fact-149",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 149",
       "type": "daily-fact",
       "day": 149,
@@ -2660,7 +2660,7 @@
     {
       "id": "fact-150",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 150",
       "type": "daily-fact",
       "day": 150,
@@ -2677,7 +2677,7 @@
     {
       "id": "fact-151",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 151",
       "type": "daily-fact",
       "day": 151,
@@ -2695,7 +2695,7 @@
     {
       "id": "fact-152",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 152",
       "type": "daily-fact",
       "day": 152,
@@ -2713,7 +2713,7 @@
     {
       "id": "fact-153",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 153",
       "type": "daily-fact",
       "day": 153,
@@ -2731,7 +2731,7 @@
     {
       "id": "fact-154",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 154",
       "type": "daily-fact",
       "day": 154,
@@ -2748,7 +2748,7 @@
     {
       "id": "fact-155",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 155",
       "type": "daily-fact",
       "day": 155,
@@ -2766,7 +2766,7 @@
     {
       "id": "fact-156",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 156",
       "type": "daily-fact",
       "day": 156,
@@ -2784,7 +2784,7 @@
     {
       "id": "fact-157",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 157",
       "type": "daily-fact",
       "day": 157,
@@ -2801,7 +2801,7 @@
     {
       "id": "fact-158",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 158",
       "type": "daily-fact",
       "day": 158,
@@ -2818,7 +2818,7 @@
     {
       "id": "fact-159",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 159",
       "type": "daily-fact",
       "day": 159,
@@ -2835,7 +2835,7 @@
     {
       "id": "fact-160",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 160",
       "type": "daily-fact",
       "day": 160,
@@ -2853,7 +2853,7 @@
     {
       "id": "fact-161",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 161",
       "type": "daily-fact",
       "day": 161,
@@ -2871,7 +2871,7 @@
     {
       "id": "fact-162",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 162",
       "type": "daily-fact",
       "day": 162,
@@ -2889,7 +2889,7 @@
     {
       "id": "fact-163",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 163",
       "type": "daily-fact",
       "day": 163,
@@ -2906,7 +2906,7 @@
     {
       "id": "fact-164",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 164",
       "type": "daily-fact",
       "day": 164,
@@ -2924,7 +2924,7 @@
     {
       "id": "fact-165",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 165",
       "type": "daily-fact",
       "day": 165,
@@ -2941,7 +2941,7 @@
     {
       "id": "fact-166",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 166",
       "type": "daily-fact",
       "day": 166,
@@ -2959,7 +2959,7 @@
     {
       "id": "fact-167",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 167",
       "type": "daily-fact",
       "day": 167,
@@ -2976,7 +2976,7 @@
     {
       "id": "fact-168",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 168",
       "type": "daily-fact",
       "day": 168,
@@ -2994,7 +2994,7 @@
     {
       "id": "fact-169",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 169",
       "type": "daily-fact",
       "day": 169,
@@ -3012,7 +3012,7 @@
     {
       "id": "fact-170",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 170",
       "type": "daily-fact",
       "day": 170,
@@ -3029,7 +3029,7 @@
     {
       "id": "fact-171",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 171",
       "type": "daily-fact",
       "day": 171,
@@ -3046,7 +3046,7 @@
     {
       "id": "fact-172",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 172",
       "type": "daily-fact",
       "day": 172,
@@ -3064,7 +3064,7 @@
     {
       "id": "fact-173",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 173",
       "type": "daily-fact",
       "day": 173,
@@ -3082,7 +3082,7 @@
     {
       "id": "fact-174",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 174",
       "type": "daily-fact",
       "day": 174,
@@ -3099,7 +3099,7 @@
     {
       "id": "fact-175",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 175",
       "type": "daily-fact",
       "day": 175,
@@ -3117,7 +3117,7 @@
     {
       "id": "fact-176",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 176",
       "type": "daily-fact",
       "day": 176,
@@ -3135,7 +3135,7 @@
     {
       "id": "fact-177",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 177",
       "type": "daily-fact",
       "day": 177,
@@ -3153,7 +3153,7 @@
     {
       "id": "fact-178",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 178",
       "type": "daily-fact",
       "day": 178,
@@ -3170,7 +3170,7 @@
     {
       "id": "fact-179",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 179",
       "type": "daily-fact",
       "day": 179,
@@ -3188,7 +3188,7 @@
     {
       "id": "fact-180",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 180",
       "type": "daily-fact",
       "day": 180,
@@ -3205,7 +3205,7 @@
     {
       "id": "fact-181",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 181",
       "type": "daily-fact",
       "day": 181,
@@ -3223,7 +3223,7 @@
     {
       "id": "fact-182",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 182",
       "type": "daily-fact",
       "day": 182,
@@ -3241,7 +3241,7 @@
     {
       "id": "fact-183",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 183",
       "type": "daily-fact",
       "day": 183,
@@ -3258,7 +3258,7 @@
     {
       "id": "fact-184",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 184",
       "type": "daily-fact",
       "day": 184,
@@ -3275,7 +3275,7 @@
     {
       "id": "fact-185",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 185",
       "type": "daily-fact",
       "day": 185,
@@ -3293,7 +3293,7 @@
     {
       "id": "fact-186",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 186",
       "type": "daily-fact",
       "day": 186,
@@ -3311,7 +3311,7 @@
     {
       "id": "fact-187",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 187",
       "type": "daily-fact",
       "day": 187,
@@ -3329,7 +3329,7 @@
     {
       "id": "fact-188",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 188",
       "type": "daily-fact",
       "day": 188,
@@ -3347,7 +3347,7 @@
     {
       "id": "fact-189",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 189",
       "type": "daily-fact",
       "day": 189,
@@ -3365,7 +3365,7 @@
     {
       "id": "fact-190",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 190",
       "type": "daily-fact",
       "day": 190,
@@ -3383,7 +3383,7 @@
     {
       "id": "fact-191",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 191",
       "type": "daily-fact",
       "day": 191,
@@ -3400,7 +3400,7 @@
     {
       "id": "fact-192",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 192",
       "type": "daily-fact",
       "day": 192,
@@ -3417,7 +3417,7 @@
     {
       "id": "fact-193",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 193",
       "type": "daily-fact",
       "day": 193,
@@ -3435,7 +3435,7 @@
     {
       "id": "fact-194",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 194",
       "type": "daily-fact",
       "day": 194,
@@ -3453,7 +3453,7 @@
     {
       "id": "fact-195",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 195",
       "type": "daily-fact",
       "day": 195,
@@ -3471,7 +3471,7 @@
     {
       "id": "fact-196",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 196",
       "type": "daily-fact",
       "day": 196,
@@ -3489,7 +3489,7 @@
     {
       "id": "fact-197",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 197",
       "type": "daily-fact",
       "day": 197,
@@ -3507,7 +3507,7 @@
     {
       "id": "fact-198",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 198",
       "type": "daily-fact",
       "day": 198,
@@ -3525,7 +3525,7 @@
     {
       "id": "fact-199",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 199",
       "type": "daily-fact",
       "day": 199,
@@ -3543,7 +3543,7 @@
     {
       "id": "fact-200",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 200",
       "type": "daily-fact",
       "day": 200,
@@ -3561,7 +3561,7 @@
     {
       "id": "fact-201",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 201",
       "type": "daily-fact",
       "day": 201,
@@ -3579,7 +3579,7 @@
     {
       "id": "fact-202",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 202",
       "type": "daily-fact",
       "day": 202,
@@ -3597,7 +3597,7 @@
     {
       "id": "fact-203",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 203",
       "type": "daily-fact",
       "day": 203,
@@ -3615,7 +3615,7 @@
     {
       "id": "fact-204",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 204",
       "type": "daily-fact",
       "day": 204,
@@ -3633,7 +3633,7 @@
     {
       "id": "fact-205",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 205",
       "type": "daily-fact",
       "day": 205,
@@ -3651,7 +3651,7 @@
     {
       "id": "fact-206",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 206",
       "type": "daily-fact",
       "day": 206,
@@ -3668,7 +3668,7 @@
     {
       "id": "fact-207",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 207",
       "type": "daily-fact",
       "day": 207,
@@ -3686,7 +3686,7 @@
     {
       "id": "fact-208",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 208",
       "type": "daily-fact",
       "day": 208,
@@ -3704,7 +3704,7 @@
     {
       "id": "fact-209",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 209",
       "type": "daily-fact",
       "day": 209,
@@ -3722,7 +3722,7 @@
     {
       "id": "fact-210",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 210",
       "type": "daily-fact",
       "day": 210,
@@ -3740,7 +3740,7 @@
     {
       "id": "fact-211",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 211",
       "type": "daily-fact",
       "day": 211,
@@ -3758,7 +3758,7 @@
     {
       "id": "fact-212",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 212",
       "type": "daily-fact",
       "day": 212,
@@ -3776,7 +3776,7 @@
     {
       "id": "fact-213",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 213",
       "type": "daily-fact",
       "day": 213,
@@ -3794,7 +3794,7 @@
     {
       "id": "fact-214",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 214",
       "type": "daily-fact",
       "day": 214,
@@ -3812,7 +3812,7 @@
     {
       "id": "fact-215",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 215",
       "type": "daily-fact",
       "day": 215,
@@ -3830,7 +3830,7 @@
     {
       "id": "fact-216",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 216",
       "type": "daily-fact",
       "day": 216,
@@ -3848,7 +3848,7 @@
     {
       "id": "fact-217",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 217",
       "type": "daily-fact",
       "day": 217,
@@ -3865,7 +3865,7 @@
     {
       "id": "fact-218",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 218",
       "type": "daily-fact",
       "day": 218,
@@ -3882,7 +3882,7 @@
     {
       "id": "fact-219",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 219",
       "type": "daily-fact",
       "day": 219,
@@ -3900,7 +3900,7 @@
     {
       "id": "fact-220",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 220",
       "type": "daily-fact",
       "day": 220,
@@ -3917,7 +3917,7 @@
     {
       "id": "fact-221",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 221",
       "type": "daily-fact",
       "day": 221,
@@ -3935,7 +3935,7 @@
     {
       "id": "fact-222",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 222",
       "type": "daily-fact",
       "day": 222,
@@ -3953,7 +3953,7 @@
     {
       "id": "fact-223",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 223",
       "type": "daily-fact",
       "day": 223,
@@ -3970,7 +3970,7 @@
     {
       "id": "fact-224",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 224",
       "type": "daily-fact",
       "day": 224,
@@ -3988,7 +3988,7 @@
     {
       "id": "fact-225",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 225",
       "type": "daily-fact",
       "day": 225,
@@ -4006,7 +4006,7 @@
     {
       "id": "fact-226",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 226",
       "type": "daily-fact",
       "day": 226,
@@ -4024,7 +4024,7 @@
     {
       "id": "fact-227",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 227",
       "type": "daily-fact",
       "day": 227,
@@ -4042,7 +4042,7 @@
     {
       "id": "fact-228",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 228",
       "type": "daily-fact",
       "day": 228,
@@ -4059,7 +4059,7 @@
     {
       "id": "fact-229",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 229",
       "type": "daily-fact",
       "day": 229,
@@ -4077,7 +4077,7 @@
     {
       "id": "fact-230",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 230",
       "type": "daily-fact",
       "day": 230,
@@ -4095,7 +4095,7 @@
     {
       "id": "fact-231",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 231",
       "type": "daily-fact",
       "day": 231,
@@ -4112,7 +4112,7 @@
     {
       "id": "fact-232",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 232",
       "type": "daily-fact",
       "day": 232,
@@ -4130,7 +4130,7 @@
     {
       "id": "fact-233",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 233",
       "type": "daily-fact",
       "day": 233,
@@ -4147,7 +4147,7 @@
     {
       "id": "fact-234",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 234",
       "type": "daily-fact",
       "day": 234,
@@ -4165,7 +4165,7 @@
     {
       "id": "fact-235",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 235",
       "type": "daily-fact",
       "day": 235,
@@ -4183,7 +4183,7 @@
     {
       "id": "fact-236",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 236",
       "type": "daily-fact",
       "day": 236,
@@ -4201,7 +4201,7 @@
     {
       "id": "fact-237",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 237",
       "type": "daily-fact",
       "day": 237,
@@ -4219,7 +4219,7 @@
     {
       "id": "fact-238",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 238",
       "type": "daily-fact",
       "day": 238,
@@ -4236,7 +4236,7 @@
     {
       "id": "fact-239",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 239",
       "type": "daily-fact",
       "day": 239,
@@ -4253,7 +4253,7 @@
     {
       "id": "fact-240",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 240",
       "type": "daily-fact",
       "day": 240,
@@ -4271,7 +4271,7 @@
     {
       "id": "fact-241",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 241",
       "type": "daily-fact",
       "day": 241,
@@ -4289,7 +4289,7 @@
     {
       "id": "fact-242",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 242",
       "type": "daily-fact",
       "day": 242,
@@ -4307,7 +4307,7 @@
     {
       "id": "fact-243",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 243",
       "type": "daily-fact",
       "day": 243,
@@ -4325,7 +4325,7 @@
     {
       "id": "fact-244",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 244",
       "type": "daily-fact",
       "day": 244,
@@ -4342,7 +4342,7 @@
     {
       "id": "fact-245",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 245",
       "type": "daily-fact",
       "day": 245,
@@ -4360,7 +4360,7 @@
     {
       "id": "fact-246",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 246",
       "type": "daily-fact",
       "day": 246,
@@ -4378,7 +4378,7 @@
     {
       "id": "fact-247",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 247",
       "type": "daily-fact",
       "day": 247,
@@ -4396,7 +4396,7 @@
     {
       "id": "fact-248",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 248",
       "type": "daily-fact",
       "day": 248,
@@ -4414,7 +4414,7 @@
     {
       "id": "fact-249",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 249",
       "type": "daily-fact",
       "day": 249,
@@ -4432,7 +4432,7 @@
     {
       "id": "fact-250",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 250",
       "type": "daily-fact",
       "day": 250,
@@ -4450,7 +4450,7 @@
     {
       "id": "fact-251",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 251",
       "type": "daily-fact",
       "day": 251,
@@ -4468,7 +4468,7 @@
     {
       "id": "fact-252",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 252",
       "type": "daily-fact",
       "day": 252,
@@ -4485,7 +4485,7 @@
     {
       "id": "fact-253",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 253",
       "type": "daily-fact",
       "day": 253,
@@ -4502,7 +4502,7 @@
     {
       "id": "fact-254",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 254",
       "type": "daily-fact",
       "day": 254,
@@ -4520,7 +4520,7 @@
     {
       "id": "fact-255",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 255",
       "type": "daily-fact",
       "day": 255,
@@ -4538,7 +4538,7 @@
     {
       "id": "fact-256",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 256",
       "type": "daily-fact",
       "day": 256,
@@ -4556,7 +4556,7 @@
     {
       "id": "fact-257",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 257",
       "type": "daily-fact",
       "day": 257,
@@ -4574,7 +4574,7 @@
     {
       "id": "fact-258",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 258",
       "type": "daily-fact",
       "day": 258,
@@ -4591,7 +4591,7 @@
     {
       "id": "fact-259",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 259",
       "type": "daily-fact",
       "day": 259,
@@ -4608,7 +4608,7 @@
     {
       "id": "fact-260",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 260",
       "type": "daily-fact",
       "day": 260,
@@ -4625,7 +4625,7 @@
     {
       "id": "fact-261",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 261",
       "type": "daily-fact",
       "day": 261,
@@ -4643,7 +4643,7 @@
     {
       "id": "fact-262",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 262",
       "type": "daily-fact",
       "day": 262,
@@ -4660,7 +4660,7 @@
     {
       "id": "fact-263",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 263",
       "type": "daily-fact",
       "day": 263,
@@ -4678,7 +4678,7 @@
     {
       "id": "fact-264",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 264",
       "type": "daily-fact",
       "day": 264,
@@ -4696,7 +4696,7 @@
     {
       "id": "fact-265",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 265",
       "type": "daily-fact",
       "day": 265,
@@ -4714,7 +4714,7 @@
     {
       "id": "fact-266",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 266",
       "type": "daily-fact",
       "day": 266,
@@ -4732,7 +4732,7 @@
     {
       "id": "fact-267",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 267",
       "type": "daily-fact",
       "day": 267,
@@ -4750,7 +4750,7 @@
     {
       "id": "fact-268",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 268",
       "type": "daily-fact",
       "day": 268,
@@ -4767,7 +4767,7 @@
     {
       "id": "fact-269",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 269",
       "type": "daily-fact",
       "day": 269,
@@ -4784,7 +4784,7 @@
     {
       "id": "fact-270",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 270",
       "type": "daily-fact",
       "day": 270,
@@ -4802,7 +4802,7 @@
     {
       "id": "fact-271",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 271",
       "type": "daily-fact",
       "day": 271,
@@ -4820,7 +4820,7 @@
     {
       "id": "fact-272",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 272",
       "type": "daily-fact",
       "day": 272,
@@ -4837,7 +4837,7 @@
     {
       "id": "fact-273",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 273",
       "type": "daily-fact",
       "day": 273,
@@ -4855,7 +4855,7 @@
     {
       "id": "fact-274",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 274",
       "type": "daily-fact",
       "day": 274,
@@ -4873,7 +4873,7 @@
     {
       "id": "fact-275",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 275",
       "type": "daily-fact",
       "day": 275,
@@ -4890,7 +4890,7 @@
     {
       "id": "fact-276",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 276",
       "type": "daily-fact",
       "day": 276,
@@ -4908,7 +4908,7 @@
     {
       "id": "fact-277",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 277",
       "type": "daily-fact",
       "day": 277,
@@ -4926,7 +4926,7 @@
     {
       "id": "fact-278",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 278",
       "type": "daily-fact",
       "day": 278,
@@ -4944,7 +4944,7 @@
     {
       "id": "fact-279",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 279",
       "type": "daily-fact",
       "day": 279,
@@ -4962,7 +4962,7 @@
     {
       "id": "fact-280",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 280",
       "type": "daily-fact",
       "day": 280,
@@ -4980,7 +4980,7 @@
     {
       "id": "fact-281",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 281",
       "type": "daily-fact",
       "day": 281,
@@ -4998,7 +4998,7 @@
     {
       "id": "fact-282",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 282",
       "type": "daily-fact",
       "day": 282,
@@ -5016,7 +5016,7 @@
     {
       "id": "fact-283",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 283",
       "type": "daily-fact",
       "day": 283,
@@ -5034,7 +5034,7 @@
     {
       "id": "fact-284",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 284",
       "type": "daily-fact",
       "day": 284,
@@ -5051,7 +5051,7 @@
     {
       "id": "fact-285",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 285",
       "type": "daily-fact",
       "day": 285,
@@ -5069,7 +5069,7 @@
     {
       "id": "fact-286",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 286",
       "type": "daily-fact",
       "day": 286,
@@ -5087,7 +5087,7 @@
     {
       "id": "fact-287",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 287",
       "type": "daily-fact",
       "day": 287,
@@ -5104,7 +5104,7 @@
     {
       "id": "fact-288",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 288",
       "type": "daily-fact",
       "day": 288,
@@ -5121,7 +5121,7 @@
     {
       "id": "fact-289",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 289",
       "type": "daily-fact",
       "day": 289,
@@ -5139,7 +5139,7 @@
     {
       "id": "fact-290",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 290",
       "type": "daily-fact",
       "day": 290,
@@ -5157,7 +5157,7 @@
     {
       "id": "fact-291",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 291",
       "type": "daily-fact",
       "day": 291,
@@ -5175,7 +5175,7 @@
     {
       "id": "fact-292",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 292",
       "type": "daily-fact",
       "day": 292,
@@ -5192,7 +5192,7 @@
     {
       "id": "fact-293",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 293",
       "type": "daily-fact",
       "day": 293,
@@ -5210,7 +5210,7 @@
     {
       "id": "fact-294",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 294",
       "type": "daily-fact",
       "day": 294,
@@ -5227,7 +5227,7 @@
     {
       "id": "fact-295",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 295",
       "type": "daily-fact",
       "day": 295,
@@ -5245,7 +5245,7 @@
     {
       "id": "fact-296",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 296",
       "type": "daily-fact",
       "day": 296,
@@ -5263,7 +5263,7 @@
     {
       "id": "fact-297",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 297",
       "type": "daily-fact",
       "day": 297,
@@ -5280,7 +5280,7 @@
     {
       "id": "fact-298",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 298",
       "type": "daily-fact",
       "day": 298,
@@ -5298,7 +5298,7 @@
     {
       "id": "fact-299",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 299",
       "type": "daily-fact",
       "day": 299,
@@ -5316,7 +5316,7 @@
     {
       "id": "fact-300",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 300",
       "type": "daily-fact",
       "day": 300,
@@ -5334,7 +5334,7 @@
     {
       "id": "fact-301",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 301",
       "type": "daily-fact",
       "day": 301,
@@ -5352,7 +5352,7 @@
     {
       "id": "fact-302",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 302",
       "type": "daily-fact",
       "day": 302,
@@ -5370,7 +5370,7 @@
     {
       "id": "fact-303",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 303",
       "type": "daily-fact",
       "day": 303,
@@ -5388,7 +5388,7 @@
     {
       "id": "fact-304",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 304",
       "type": "daily-fact",
       "day": 304,
@@ -5406,7 +5406,7 @@
     {
       "id": "fact-305",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 305",
       "type": "daily-fact",
       "day": 305,
@@ -5424,7 +5424,7 @@
     {
       "id": "fact-306",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 306",
       "type": "daily-fact",
       "day": 306,
@@ -5442,7 +5442,7 @@
     {
       "id": "fact-307",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 307",
       "type": "daily-fact",
       "day": 307,
@@ -5459,7 +5459,7 @@
     {
       "id": "fact-308",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 308",
       "type": "daily-fact",
       "day": 308,
@@ -5477,7 +5477,7 @@
     {
       "id": "fact-309",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 309",
       "type": "daily-fact",
       "day": 309,
@@ -5494,7 +5494,7 @@
     {
       "id": "fact-310",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 310",
       "type": "daily-fact",
       "day": 310,
@@ -5512,7 +5512,7 @@
     {
       "id": "fact-311",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 311",
       "type": "daily-fact",
       "day": 311,
@@ -5530,7 +5530,7 @@
     {
       "id": "fact-312",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 312",
       "type": "daily-fact",
       "day": 312,
@@ -5547,7 +5547,7 @@
     {
       "id": "fact-313",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 313",
       "type": "daily-fact",
       "day": 313,
@@ -5565,7 +5565,7 @@
     {
       "id": "fact-314",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 314",
       "type": "daily-fact",
       "day": 314,
@@ -5583,7 +5583,7 @@
     {
       "id": "fact-315",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 315",
       "type": "daily-fact",
       "day": 315,
@@ -5601,7 +5601,7 @@
     {
       "id": "fact-316",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 316",
       "type": "daily-fact",
       "day": 316,
@@ -5619,7 +5619,7 @@
     {
       "id": "fact-317",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 317",
       "type": "daily-fact",
       "day": 317,
@@ -5637,7 +5637,7 @@
     {
       "id": "fact-318",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 318",
       "type": "daily-fact",
       "day": 318,
@@ -5655,7 +5655,7 @@
     {
       "id": "fact-319",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 319",
       "type": "daily-fact",
       "day": 319,
@@ -5673,7 +5673,7 @@
     {
       "id": "fact-320",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 320",
       "type": "daily-fact",
       "day": 320,
@@ -5691,7 +5691,7 @@
     {
       "id": "fact-321",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 321",
       "type": "daily-fact",
       "day": 321,
@@ -5709,7 +5709,7 @@
     {
       "id": "fact-322",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 322",
       "type": "daily-fact",
       "day": 322,
@@ -5727,7 +5727,7 @@
     {
       "id": "fact-323",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 323",
       "type": "daily-fact",
       "day": 323,
@@ -5745,7 +5745,7 @@
     {
       "id": "fact-324",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 324",
       "type": "daily-fact",
       "day": 324,
@@ -5763,7 +5763,7 @@
     {
       "id": "fact-325",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 325",
       "type": "daily-fact",
       "day": 325,
@@ -5780,7 +5780,7 @@
     {
       "id": "fact-326",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 326",
       "type": "daily-fact",
       "day": 326,
@@ -5797,7 +5797,7 @@
     {
       "id": "fact-327",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 327",
       "type": "daily-fact",
       "day": 327,
@@ -5815,7 +5815,7 @@
     {
       "id": "fact-328",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 328",
       "type": "daily-fact",
       "day": 328,
@@ -5833,7 +5833,7 @@
     {
       "id": "fact-329",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 329",
       "type": "daily-fact",
       "day": 329,
@@ -5850,7 +5850,7 @@
     {
       "id": "fact-330",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 330",
       "type": "daily-fact",
       "day": 330,
@@ -5868,7 +5868,7 @@
     {
       "id": "fact-331",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 331",
       "type": "daily-fact",
       "day": 331,
@@ -5886,7 +5886,7 @@
     {
       "id": "fact-332",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 332",
       "type": "daily-fact",
       "day": 332,
@@ -5904,7 +5904,7 @@
     {
       "id": "fact-333",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 333",
       "type": "daily-fact",
       "day": 333,
@@ -5922,7 +5922,7 @@
     {
       "id": "fact-334",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 334",
       "type": "daily-fact",
       "day": 334,
@@ -5939,7 +5939,7 @@
     {
       "id": "fact-335",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 335",
       "type": "daily-fact",
       "day": 335,
@@ -5957,7 +5957,7 @@
     {
       "id": "fact-336",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 336",
       "type": "daily-fact",
       "day": 336,
@@ -5975,7 +5975,7 @@
     {
       "id": "fact-337",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 337",
       "type": "daily-fact",
       "day": 337,
@@ -5993,7 +5993,7 @@
     {
       "id": "fact-338",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 338",
       "type": "daily-fact",
       "day": 338,
@@ -6011,7 +6011,7 @@
     {
       "id": "fact-339",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 339",
       "type": "daily-fact",
       "day": 339,
@@ -6029,7 +6029,7 @@
     {
       "id": "fact-340",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 340",
       "type": "daily-fact",
       "day": 340,
@@ -6047,7 +6047,7 @@
     {
       "id": "fact-341",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 341",
       "type": "daily-fact",
       "day": 341,
@@ -6065,7 +6065,7 @@
     {
       "id": "fact-342",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 342",
       "type": "daily-fact",
       "day": 342,
@@ -6082,7 +6082,7 @@
     {
       "id": "fact-343",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 343",
       "type": "daily-fact",
       "day": 343,
@@ -6100,7 +6100,7 @@
     {
       "id": "fact-344",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 344",
       "type": "daily-fact",
       "day": 344,
@@ -6117,7 +6117,7 @@
     {
       "id": "fact-345",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 345",
       "type": "daily-fact",
       "day": 345,
@@ -6135,7 +6135,7 @@
     {
       "id": "fact-346",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 346",
       "type": "daily-fact",
       "day": 346,
@@ -6153,7 +6153,7 @@
     {
       "id": "fact-347",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 347",
       "type": "daily-fact",
       "day": 347,
@@ -6171,7 +6171,7 @@
     {
       "id": "fact-348",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 348",
       "type": "daily-fact",
       "day": 348,
@@ -6189,7 +6189,7 @@
     {
       "id": "fact-349",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 349",
       "type": "daily-fact",
       "day": 349,
@@ -6206,7 +6206,7 @@
     {
       "id": "fact-350",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 350",
       "type": "daily-fact",
       "day": 350,
@@ -6224,7 +6224,7 @@
     {
       "id": "fact-351",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 351",
       "type": "daily-fact",
       "day": 351,
@@ -6242,7 +6242,7 @@
     {
       "id": "fact-352",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 352",
       "type": "daily-fact",
       "day": 352,
@@ -6260,7 +6260,7 @@
     {
       "id": "fact-353",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 353",
       "type": "daily-fact",
       "day": 353,
@@ -6278,7 +6278,7 @@
     {
       "id": "fact-354",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 354",
       "type": "daily-fact",
       "day": 354,
@@ -6295,7 +6295,7 @@
     {
       "id": "fact-355",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 355",
       "type": "daily-fact",
       "day": 355,
@@ -6313,7 +6313,7 @@
     {
       "id": "fact-356",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 356",
       "type": "daily-fact",
       "day": 356,
@@ -6331,7 +6331,7 @@
     {
       "id": "fact-357",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 357",
       "type": "daily-fact",
       "day": 357,
@@ -6348,7 +6348,7 @@
     {
       "id": "fact-358",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 358",
       "type": "daily-fact",
       "day": 358,
@@ -6365,7 +6365,7 @@
     {
       "id": "fact-359",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 359",
       "type": "daily-fact",
       "day": 359,
@@ -6383,7 +6383,7 @@
     {
       "id": "fact-360",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 360",
       "type": "daily-fact",
       "day": 360,
@@ -6401,7 +6401,7 @@
     {
       "id": "fact-361",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 361",
       "type": "daily-fact",
       "day": 361,
@@ -6418,7 +6418,7 @@
     {
       "id": "fact-362",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 362",
       "type": "daily-fact",
       "day": 362,
@@ -6435,7 +6435,7 @@
     {
       "id": "fact-363",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 363",
       "type": "daily-fact",
       "day": 363,
@@ -6453,7 +6453,7 @@
     {
       "id": "fact-364",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 364",
       "type": "daily-fact",
       "day": 364,
@@ -6470,7 +6470,7 @@
     {
       "id": "fact-365",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Dato del día 365",
       "type": "daily-fact",
       "day": 365,

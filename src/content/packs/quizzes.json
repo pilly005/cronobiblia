@@ -12,7 +12,7 @@
     {
       "id": "quiz-001",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Repaso: el viaje de Abraham",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -53,7 +53,7 @@
     {
       "id": "quiz-002",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: la era de «Primera deportación a Babilonia»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -94,7 +94,7 @@
     {
       "id": "quiz-003",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: fecha de «La destrucción del Segundo Templo»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -135,7 +135,7 @@
     {
       "id": "quiz-004",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: personaje de «Nacimiento de Jesús en Belén»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -175,7 +175,7 @@
     {
       "id": "quiz-005",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: pasaje de «Nabucodonosor II y la Babilonia imperial»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -216,7 +216,7 @@
     {
       "id": "quiz-006",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: la era de «Moisés y la zarza ardiente»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -256,7 +256,7 @@
     {
       "id": "quiz-007",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: fecha de «Acab, Jezabel y la batalla de Qarqar»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -297,7 +297,7 @@
     {
       "id": "quiz-008",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: personaje de «Débora y Barac contra Sísara»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -337,7 +337,7 @@
     {
       "id": "quiz-009",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: pasaje de «Muerte de Moisés y Josué como sucesor»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -377,7 +377,7 @@
     {
       "id": "quiz-010",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Repaso: el Éxodo y la evidencia",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -418,7 +418,7 @@
     {
       "id": "quiz-011",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: la era de «Elías en el monte Carmelo»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -458,7 +458,7 @@
     {
       "id": "quiz-012",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: fecha de «José es vendido y llevado a Egipto»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -498,7 +498,7 @@
     {
       "id": "quiz-013",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: personaje de «Cuarenta años en el desierto»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -538,7 +538,7 @@
     {
       "id": "quiz-014",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: pasaje de «Gedeón y los madianitas»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -578,7 +578,7 @@
     {
       "id": "quiz-015",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: la era de «Esdras y la lectura pública de la Ley»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -618,7 +618,7 @@
     {
       "id": "quiz-016",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: fecha de «El concilio de Jerusalén»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -659,7 +659,7 @@
     {
       "id": "quiz-017",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: personaje de «Jeremías anuncia el juicio sobre Judá»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -700,7 +700,7 @@
     {
       "id": "quiz-018",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: pasaje de «Juan en Patmos y el Apocalipsis»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -741,7 +741,7 @@
     {
       "id": "quiz-019",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: la era de «Samuel unge a Saúl como primer rey»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -781,7 +781,7 @@
     {
       "id": "quiz-020",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Repaso: David y Tel Dan",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -822,7 +822,7 @@
     {
       "id": "quiz-021",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: fecha de «Herodes el Grande reconstruye el Templo»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -863,7 +863,7 @@
     {
       "id": "quiz-022",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: personaje de «Pablo en Corinto y la inscripción de Galión»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -904,7 +904,7 @@
     {
       "id": "quiz-023",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: pasaje de «Daniel en la corte de Babilonia»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -944,7 +944,7 @@
     {
       "id": "quiz-024",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: la era de «La estela de Mesha, rey de Moab»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -985,7 +985,7 @@
     {
       "id": "quiz-025",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Repaso: Salomón y Tiro",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -1026,7 +1026,7 @@
     {
       "id": "quiz-026",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: fecha de «Los doce hijos de Jacob: origen de las tribus»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -1066,7 +1066,7 @@
     {
       "id": "quiz-027",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: personaje de «Las diez plagas de Egipto»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -1106,7 +1106,7 @@
     {
       "id": "quiz-028",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: pasaje de «El Obelisco Negro: Jehú ante Salmanasar III»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -1146,7 +1146,7 @@
     {
       "id": "quiz-029",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: la era de «Crucifixión y resurrección de Jesús»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -1187,7 +1187,7 @@
     {
       "id": "quiz-030",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Repaso: Elías en el Carmelo",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -1227,7 +1227,7 @@
     {
       "id": "quiz-031",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: fecha de «Alejandro Magno y la llegada del helenismo»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -1268,7 +1268,7 @@
     {
       "id": "quiz-032",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: personaje de «El pacto davídico»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -1308,7 +1308,7 @@
     {
       "id": "quiz-033",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: pasaje de «Ester en la corte de Susa»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -1349,7 +1349,7 @@
     {
       "id": "quiz-034",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: la era de «Pablo escribe la carta a los Romanos»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -1390,7 +1390,7 @@
     {
       "id": "quiz-035",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Repaso: Senaquerib ante Jerusalén",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -1431,7 +1431,7 @@
     {
       "id": "quiz-036",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: fecha de «La última semana en Jerusalén»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -1471,7 +1471,7 @@
     {
       "id": "quiz-037",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: pasaje de «Los rollos del Mar Muerto en Qumrán»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -1512,7 +1512,7 @@
     {
       "id": "quiz-038",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: pasaje de «La estela de Tel Dan: la 'casa de David'»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -1553,7 +1553,7 @@
     {
       "id": "quiz-039",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: la era de «David y Goliat en el valle de Elah»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -1593,7 +1593,7 @@
     {
       "id": "quiz-040",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Repaso: el Cilindro de Ciro",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -1634,7 +1634,7 @@
     {
       "id": "quiz-041",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: fecha de «Ur de los caldeos: metrópoli sumeria»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -1675,7 +1675,7 @@
     {
       "id": "quiz-042",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: personaje de «La división del reino: Jeroboam y Roboam»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -1716,7 +1716,7 @@
     {
       "id": "quiz-043",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: pasaje de «Senaquerib asedia Jerusalén»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -1757,7 +1757,7 @@
     {
       "id": "quiz-044",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: la era de «Nerón y la primera persecución en Roma»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -1798,7 +1798,7 @@
     {
       "id": "quiz-045",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Repaso: Nehemías",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -1838,7 +1838,7 @@
     {
       "id": "quiz-046",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: fecha de «Esteban, primer mártir, y la dispersión»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -1878,7 +1878,7 @@
     {
       "id": "quiz-047",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: personaje de «El edicto de Ciro y el retorno»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -1919,7 +1919,7 @@
     {
       "id": "quiz-048",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: pasaje de «Caída de Jerusalén y destrucción del Templo»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -1960,7 +1960,7 @@
     {
       "id": "quiz-049",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: la era de «Pablo en Éfeso y el tumulto de Demetrio»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -2001,7 +2001,7 @@
     {
       "id": "quiz-050",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Repaso: Juan el Bautista",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -2041,7 +2041,7 @@
     {
       "id": "quiz-051",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: fecha de «La conversión de Saulo en Damasco»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -2081,7 +2081,7 @@
     {
       "id": "quiz-052",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: pasaje de «Los hicsos en Egipto»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -2122,7 +2122,7 @@
     {
       "id": "quiz-053",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: pasaje de «El Imperio acadio de Sargón»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -2163,7 +2163,7 @@
     {
       "id": "quiz-054",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: la era de «El pacto en el Sinaí y los Diez Mandamientos»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -2203,7 +2203,7 @@
     {
       "id": "quiz-055",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Repaso: el título de Pilato",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -2244,7 +2244,7 @@
     {
       "id": "quiz-056",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: fecha de «Juan el Bautista en el Jordán»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -2285,7 +2285,7 @@
     {
       "id": "quiz-057",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: personaje de «Abraham sale de Ur hacia Canaán»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -2325,7 +2325,7 @@
     {
       "id": "quiz-058",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: pasaje de «La inscripción de Pilato en Cesarea»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -2366,7 +2366,7 @@
     {
       "id": "quiz-059",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: dónde está «Estela de Merneptah»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -2408,7 +2408,7 @@
     {
       "id": "quiz-060",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Repaso: el concilio de Jerusalén",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -2448,7 +2448,7 @@
     {
       "id": "quiz-061",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: límites de «Estela de Mesha (piedra moabita)»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -2491,7 +2491,7 @@
     {
       "id": "quiz-062",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: dónde está «Obelisco Negro de Salmanasar III»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -2532,7 +2532,7 @@
     {
       "id": "quiz-063",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: límites de «Prisma de Taylor (anales de Senaquerib)»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -2574,7 +2574,7 @@
     {
       "id": "quiz-064",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: dónde está «Cilindro de Ciro»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -2616,7 +2616,7 @@
     {
       "id": "quiz-065",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Repaso: Pablo en Corinto",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -2657,7 +2657,7 @@
     {
       "id": "quiz-066",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: límites de «Estela de Tel Dan»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -2700,7 +2700,7 @@
     {
       "id": "quiz-067",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: dónde está «Inscripción de Siloé»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -2742,7 +2742,7 @@
     {
       "id": "quiz-068",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: límites de «Relieves del asedio de Laquis»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -2783,7 +2783,7 @@
     {
       "id": "quiz-069",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: dónde está «Amuletos de plata de Ketef Hinnom»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -2825,7 +2825,7 @@
     {
       "id": "quiz-070",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: límites de «El túnel de Ezequías»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -2867,7 +2867,7 @@
     {
       "id": "quiz-071",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: dónde está «El Gran Rollo de Isaías»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -2909,7 +2909,7 @@
     {
       "id": "quiz-072",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: límites de «Los rollos del Mar Muerto (Qumrán)»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -2952,7 +2952,7 @@
     {
       "id": "quiz-073",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: dónde está «La piedra Rosetta»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -2993,7 +2993,7 @@
     {
       "id": "quiz-074",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: límites de «La inscripción de Behistún»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -3036,7 +3036,7 @@
     {
       "id": "quiz-075",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: dónde está «El Código de Hammurabi»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -3077,7 +3077,7 @@
     {
       "id": "quiz-076",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: límites de «Las cartas de Amarna»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -3119,7 +3119,7 @@
     {
       "id": "quiz-077",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: dónde está «Las cartas de Laquis»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -3162,7 +3162,7 @@
     {
       "id": "quiz-078",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: límites de «Los ostraca de Arad»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -3204,7 +3204,7 @@
     {
       "id": "quiz-079",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: dónde está «El calendario de Gézer»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -3246,7 +3246,7 @@
     {
       "id": "quiz-080",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: límites de «El osario de Caifás»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -3288,7 +3288,7 @@
     {
       "id": "quiz-081",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: dónde está «La inscripción de Poncio Pilato»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -3330,7 +3330,7 @@
     {
       "id": "quiz-082",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: límites de «La inscripción de Galión en Delfos»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -3372,7 +3372,7 @@
     {
       "id": "quiz-083",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: dónde está «La inscripción de Erasto en Corinto»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -3414,7 +3414,7 @@
     {
       "id": "quiz-084",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: límites de «Tablillas de raciones de Joaquín»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -3456,7 +3456,7 @@
     {
       "id": "quiz-085",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: dónde está «Los papiros de Elefantina»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -3498,7 +3498,7 @@
     {
       "id": "quiz-086",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: límites de «La Crónica de Nabónido»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -3540,7 +3540,7 @@
     {
       "id": "quiz-087",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: dónde está «La inscripción de Ecrón»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -3582,7 +3582,7 @@
     {
       "id": "quiz-088",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: límites de «Sellos y bulas de la Jerusalén monárquica»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -3624,7 +3624,7 @@
     {
       "id": "quiz-089",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: dónde está «El osario de Santiago»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -3665,7 +3665,7 @@
     {
       "id": "quiz-090",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: límites de «La estela de Kurkh (Qarqar)»",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -3706,7 +3706,7 @@
     {
       "id": "quiz-091",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: ordena estos eventos",
       "type": "quiz",
       "quiz_type": "order-events",
@@ -3754,7 +3754,7 @@
     {
       "id": "quiz-092",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: ordena estos eventos",
       "type": "quiz",
       "quiz_type": "order-events",
@@ -3802,7 +3802,7 @@
     {
       "id": "quiz-093",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: ordena estos eventos",
       "type": "quiz",
       "quiz_type": "order-events",
@@ -3850,7 +3850,7 @@
     {
       "id": "quiz-094",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: ordena estos eventos",
       "type": "quiz",
       "quiz_type": "order-events",
@@ -3898,7 +3898,7 @@
     {
       "id": "quiz-095",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: ordena estos eventos",
       "type": "quiz",
       "quiz_type": "order-events",
@@ -3946,7 +3946,7 @@
     {
       "id": "quiz-096",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: ordena estos eventos",
       "type": "quiz",
       "quiz_type": "order-events",
@@ -3994,7 +3994,7 @@
     {
       "id": "quiz-097",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: ordena estos eventos",
       "type": "quiz",
       "quiz_type": "order-events",
@@ -4042,7 +4042,7 @@
     {
       "id": "quiz-098",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: ordena estos eventos",
       "type": "quiz",
       "quiz_type": "order-events",
@@ -4090,7 +4090,7 @@
     {
       "id": "quiz-099",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: ordena estos eventos",
       "type": "quiz",
       "quiz_type": "order-events",
@@ -4138,7 +4138,7 @@
     {
       "id": "quiz-100",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: ordena estos eventos",
       "type": "quiz",
       "quiz_type": "order-events",
@@ -4186,7 +4186,7 @@
     {
       "id": "quiz-101",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: ordena estos eventos",
       "type": "quiz",
       "quiz_type": "order-events",
@@ -4234,7 +4234,7 @@
     {
       "id": "quiz-102",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: ordena estos eventos",
       "type": "quiz",
       "quiz_type": "order-events",
@@ -4282,7 +4282,7 @@
     {
       "id": "quiz-103",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: ordena estos eventos",
       "type": "quiz",
       "quiz_type": "order-events",
@@ -4330,7 +4330,7 @@
     {
       "id": "quiz-104",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: ordena estos eventos",
       "type": "quiz",
       "quiz_type": "order-events",
@@ -4378,7 +4378,7 @@
     {
       "id": "quiz-105",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: ordena estos eventos",
       "type": "quiz",
       "quiz_type": "order-events",
@@ -4426,7 +4426,7 @@
     {
       "id": "quiz-106",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: ordena estos eventos",
       "type": "quiz",
       "quiz_type": "order-events",
@@ -4474,7 +4474,7 @@
     {
       "id": "quiz-107",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: ordena estos eventos",
       "type": "quiz",
       "quiz_type": "order-events",
@@ -4522,7 +4522,7 @@
     {
       "id": "quiz-108",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: ordena estos eventos",
       "type": "quiz",
       "quiz_type": "order-events",
@@ -4570,7 +4570,7 @@
     {
       "id": "quiz-109",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: el lugar «Tiberíades»",
       "type": "quiz",
       "quiz_type": "identify-place",
@@ -4610,7 +4610,7 @@
     {
       "id": "quiz-110",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: identifica el lugar",
       "type": "quiz",
       "quiz_type": "identify-place",
@@ -4650,7 +4650,7 @@
     {
       "id": "quiz-111",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: el lugar «Jerusalén»",
       "type": "quiz",
       "quiz_type": "identify-place",
@@ -4690,7 +4690,7 @@
     {
       "id": "quiz-112",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: identifica el lugar",
       "type": "quiz",
       "quiz_type": "identify-place",
@@ -4730,7 +4730,7 @@
     {
       "id": "quiz-113",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: el lugar «Rabá»",
       "type": "quiz",
       "quiz_type": "identify-place",
@@ -4770,7 +4770,7 @@
     {
       "id": "quiz-114",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: identifica el lugar",
       "type": "quiz",
       "quiz_type": "identify-place",
@@ -4810,7 +4810,7 @@
     {
       "id": "quiz-115",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: el lugar «Derbe»",
       "type": "quiz",
       "quiz_type": "identify-place",
@@ -4850,7 +4850,7 @@
     {
       "id": "quiz-116",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: identifica el lugar",
       "type": "quiz",
       "quiz_type": "identify-place",
@@ -4890,7 +4890,7 @@
     {
       "id": "quiz-117",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: el lugar «Betania»",
       "type": "quiz",
       "quiz_type": "identify-place",
@@ -4930,7 +4930,7 @@
     {
       "id": "quiz-118",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: identifica el lugar",
       "type": "quiz",
       "quiz_type": "identify-place",
@@ -4970,7 +4970,7 @@
     {
       "id": "quiz-119",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: el lugar «Atenas»",
       "type": "quiz",
       "quiz_type": "identify-place",
@@ -5010,7 +5010,7 @@
     {
       "id": "quiz-120",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: identifica el lugar",
       "type": "quiz",
       "quiz_type": "identify-place",
@@ -5050,7 +5050,7 @@
     {
       "id": "quiz-121",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: el lugar «Rabá»",
       "type": "quiz",
       "quiz_type": "identify-place",
@@ -5090,7 +5090,7 @@
     {
       "id": "quiz-122",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: identifica el lugar",
       "type": "quiz",
       "quiz_type": "identify-place",
@@ -5130,7 +5130,7 @@
     {
       "id": "quiz-123",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: el lugar «Nazaret»",
       "type": "quiz",
       "quiz_type": "identify-place",
@@ -5170,7 +5170,7 @@
     {
       "id": "quiz-124",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: identifica el lugar",
       "type": "quiz",
       "quiz_type": "identify-place",
@@ -5210,7 +5210,7 @@
     {
       "id": "quiz-125",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: el lugar «Hebrón»",
       "type": "quiz",
       "quiz_type": "identify-place",
@@ -5250,7 +5250,7 @@
     {
       "id": "quiz-126",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: identifica el lugar",
       "type": "quiz",
       "quiz_type": "identify-place",
@@ -5290,7 +5290,7 @@
     {
       "id": "quiz-127",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: el lugar «Antioquía de Siria»",
       "type": "quiz",
       "quiz_type": "identify-place",
@@ -5330,7 +5330,7 @@
     {
       "id": "quiz-128",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: identifica el lugar",
       "type": "quiz",
       "quiz_type": "identify-place",
@@ -5370,7 +5370,7 @@
     {
       "id": "quiz-129",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: la sección de Santiago",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -5411,7 +5411,7 @@
     {
       "id": "quiz-130",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: fecha de 2 Samuel",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -5452,7 +5452,7 @@
     {
       "id": "quiz-131",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: la sección de Job",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -5493,7 +5493,7 @@
     {
       "id": "quiz-132",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: fecha de 1 Timoteo",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -5534,7 +5534,7 @@
     {
       "id": "quiz-133",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: la sección de Oseas",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -5575,7 +5575,7 @@
     {
       "id": "quiz-134",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: fecha de Amós",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -5616,7 +5616,7 @@
     {
       "id": "quiz-135",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: la sección de Lucas",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -5657,7 +5657,7 @@
     {
       "id": "quiz-136",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: fecha de 3 Juan",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -5698,7 +5698,7 @@
     {
       "id": "quiz-137",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: la sección de Judas",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -5739,7 +5739,7 @@
     {
       "id": "quiz-138",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: fecha de Jueces",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -5780,7 +5780,7 @@
     {
       "id": "quiz-139",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: la sección de Hechos",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -5821,7 +5821,7 @@
     {
       "id": "quiz-140",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: fecha de Jeremías",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -5862,7 +5862,7 @@
     {
       "id": "quiz-141",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: la sección de 1 Tesalonicenses",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -5903,7 +5903,7 @@
     {
       "id": "quiz-142",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: fecha de Jonás",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -5944,7 +5944,7 @@
     {
       "id": "quiz-143",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: la sección de Deuteronomio",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -5985,7 +5985,7 @@
     {
       "id": "quiz-144",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: fecha de Rut",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -6026,7 +6026,7 @@
     {
       "id": "quiz-145",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: la sección de Colosenses",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -6067,7 +6067,7 @@
     {
       "id": "quiz-146",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: fecha de Esdras",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -6108,7 +6108,7 @@
     {
       "id": "quiz-147",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: la sección de Nehemías",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -6149,7 +6149,7 @@
     {
       "id": "quiz-148",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: fecha de Números",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -6190,7 +6190,7 @@
     {
       "id": "quiz-149",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: la sección de Filipenses",
       "type": "quiz",
       "quiz_type": "multiple-choice",
@@ -6231,7 +6231,7 @@
     {
       "id": "quiz-150",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Quiz: fecha de Ezequiel",
       "type": "quiz",
       "quiz_type": "multiple-choice",

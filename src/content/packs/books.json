@@ -12,7 +12,7 @@
     {
       "id": "book-001",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Génesis",
       "type": "book",
       "testament": "AT",
@@ -35,7 +35,7 @@
     {
       "id": "book-002",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Éxodo",
       "type": "book",
       "testament": "AT",
@@ -58,7 +58,7 @@
     {
       "id": "book-003",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Levítico",
       "type": "book",
       "testament": "AT",
@@ -81,7 +81,7 @@
     {
       "id": "book-004",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Números",
       "type": "book",
       "testament": "AT",
@@ -104,7 +104,7 @@
     {
       "id": "book-005",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Deuteronomio",
       "type": "book",
       "testament": "AT",
@@ -127,7 +127,7 @@
     {
       "id": "book-006",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Josué",
       "type": "book",
       "testament": "AT",
@@ -150,7 +150,7 @@
     {
       "id": "book-007",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Jueces",
       "type": "book",
       "testament": "AT",
@@ -173,7 +173,7 @@
     {
       "id": "book-008",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Rut",
       "type": "book",
       "testament": "AT",
@@ -196,7 +196,7 @@
     {
       "id": "book-009",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "1 Samuel",
       "type": "book",
       "testament": "AT",
@@ -219,7 +219,7 @@
     {
       "id": "book-010",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "2 Samuel",
       "type": "book",
       "testament": "AT",
@@ -242,7 +242,7 @@
     {
       "id": "book-011",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "1 Reyes",
       "type": "book",
       "testament": "AT",
@@ -265,7 +265,7 @@
     {
       "id": "book-012",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "2 Reyes",
       "type": "book",
       "testament": "AT",
@@ -288,7 +288,7 @@
     {
       "id": "book-013",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "1 Crónicas",
       "type": "book",
       "testament": "AT",
@@ -311,7 +311,7 @@
     {
       "id": "book-014",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "2 Crónicas",
       "type": "book",
       "testament": "AT",
@@ -334,7 +334,7 @@
     {
       "id": "book-015",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Esdras",
       "type": "book",
       "testament": "AT",
@@ -357,7 +357,7 @@
     {
       "id": "book-016",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Nehemías",
       "type": "book",
       "testament": "AT",
@@ -380,7 +380,7 @@
     {
       "id": "book-017",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Ester",
       "type": "book",
       "testament": "AT",
@@ -403,7 +403,7 @@
     {
       "id": "book-018",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Job",
       "type": "book",
       "testament": "AT",
@@ -426,7 +426,7 @@
     {
       "id": "book-019",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Salmos",
       "type": "book",
       "testament": "AT",
@@ -449,7 +449,7 @@
     {
       "id": "book-020",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Proverbios",
       "type": "book",
       "testament": "AT",
@@ -472,7 +472,7 @@
     {
       "id": "book-021",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Eclesiastés",
       "type": "book",
       "testament": "AT",
@@ -495,7 +495,7 @@
     {
       "id": "book-022",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Cantares",
       "type": "book",
       "testament": "AT",
@@ -518,7 +518,7 @@
     {
       "id": "book-023",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Isaías",
       "type": "book",
       "testament": "AT",
@@ -541,7 +541,7 @@
     {
       "id": "book-024",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Jeremías",
       "type": "book",
       "testament": "AT",
@@ -564,7 +564,7 @@
     {
       "id": "book-025",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Lamentaciones",
       "type": "book",
       "testament": "AT",
@@ -587,7 +587,7 @@
     {
       "id": "book-026",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Ezequiel",
       "type": "book",
       "testament": "AT",
@@ -610,7 +610,7 @@
     {
       "id": "book-027",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Daniel",
       "type": "book",
       "testament": "AT",
@@ -633,7 +633,7 @@
     {
       "id": "book-028",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Oseas",
       "type": "book",
       "testament": "AT",
@@ -656,7 +656,7 @@
     {
       "id": "book-029",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Joel",
       "type": "book",
       "testament": "AT",
@@ -679,7 +679,7 @@
     {
       "id": "book-030",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Amós",
       "type": "book",
       "testament": "AT",
@@ -702,7 +702,7 @@
     {
       "id": "book-031",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Abdías",
       "type": "book",
       "testament": "AT",
@@ -725,7 +725,7 @@
     {
       "id": "book-032",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Jonás",
       "type": "book",
       "testament": "AT",
@@ -748,7 +748,7 @@
     {
       "id": "book-033",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Miqueas",
       "type": "book",
       "testament": "AT",
@@ -771,7 +771,7 @@
     {
       "id": "book-034",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Nahúm",
       "type": "book",
       "testament": "AT",
@@ -794,7 +794,7 @@
     {
       "id": "book-035",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Habacuc",
       "type": "book",
       "testament": "AT",
@@ -817,7 +817,7 @@
     {
       "id": "book-036",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Sofonías",
       "type": "book",
       "testament": "AT",
@@ -840,7 +840,7 @@
     {
       "id": "book-037",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Hageo",
       "type": "book",
       "testament": "AT",
@@ -863,7 +863,7 @@
     {
       "id": "book-038",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Zacarías",
       "type": "book",
       "testament": "AT",
@@ -886,7 +886,7 @@
     {
       "id": "book-039",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Malaquías",
       "type": "book",
       "testament": "AT",
@@ -909,7 +909,7 @@
     {
       "id": "book-040",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Mateo",
       "type": "book",
       "testament": "NT",
@@ -932,7 +932,7 @@
     {
       "id": "book-041",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Marcos",
       "type": "book",
       "testament": "NT",
@@ -955,7 +955,7 @@
     {
       "id": "book-042",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Lucas",
       "type": "book",
       "testament": "NT",
@@ -978,7 +978,7 @@
     {
       "id": "book-043",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Juan",
       "type": "book",
       "testament": "NT",
@@ -1001,7 +1001,7 @@
     {
       "id": "book-044",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Hechos",
       "type": "book",
       "testament": "NT",
@@ -1024,7 +1024,7 @@
     {
       "id": "book-045",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Romanos",
       "type": "book",
       "testament": "NT",
@@ -1047,7 +1047,7 @@
     {
       "id": "book-046",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "1 Corintios",
       "type": "book",
       "testament": "NT",
@@ -1070,7 +1070,7 @@
     {
       "id": "book-047",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "2 Corintios",
       "type": "book",
       "testament": "NT",
@@ -1093,7 +1093,7 @@
     {
       "id": "book-048",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Gálatas",
       "type": "book",
       "testament": "NT",
@@ -1116,7 +1116,7 @@
     {
       "id": "book-049",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Efesios",
       "type": "book",
       "testament": "NT",
@@ -1139,7 +1139,7 @@
     {
       "id": "book-050",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Filipenses",
       "type": "book",
       "testament": "NT",
@@ -1162,7 +1162,7 @@
     {
       "id": "book-051",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Colosenses",
       "type": "book",
       "testament": "NT",
@@ -1185,7 +1185,7 @@
     {
       "id": "book-052",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "1 Tesalonicenses",
       "type": "book",
       "testament": "NT",
@@ -1208,7 +1208,7 @@
     {
       "id": "book-053",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "2 Tesalonicenses",
       "type": "book",
       "testament": "NT",
@@ -1231,7 +1231,7 @@
     {
       "id": "book-054",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "1 Timoteo",
       "type": "book",
       "testament": "NT",
@@ -1254,7 +1254,7 @@
     {
       "id": "book-055",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "2 Timoteo",
       "type": "book",
       "testament": "NT",
@@ -1277,7 +1277,7 @@
     {
       "id": "book-056",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Tito",
       "type": "book",
       "testament": "NT",
@@ -1300,7 +1300,7 @@
     {
       "id": "book-057",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Filemón",
       "type": "book",
       "testament": "NT",
@@ -1323,7 +1323,7 @@
     {
       "id": "book-058",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Hebreos",
       "type": "book",
       "testament": "NT",
@@ -1346,7 +1346,7 @@
     {
       "id": "book-059",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Santiago",
       "type": "book",
       "testament": "NT",
@@ -1369,7 +1369,7 @@
     {
       "id": "book-060",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "1 Pedro",
       "type": "book",
       "testament": "NT",
@@ -1392,7 +1392,7 @@
     {
       "id": "book-061",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "2 Pedro",
       "type": "book",
       "testament": "NT",
@@ -1415,7 +1415,7 @@
     {
       "id": "book-062",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "1 Juan",
       "type": "book",
       "testament": "NT",
@@ -1438,7 +1438,7 @@
     {
       "id": "book-063",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "2 Juan",
       "type": "book",
       "testament": "NT",
@@ -1461,7 +1461,7 @@
     {
       "id": "book-064",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "3 Juan",
       "type": "book",
       "testament": "NT",
@@ -1484,7 +1484,7 @@
     {
       "id": "book-065",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Judas",
       "type": "book",
       "testament": "NT",
@@ -1507,7 +1507,7 @@
     {
       "id": "book-066",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Apocalipsis",
       "type": "book",
       "testament": "NT",

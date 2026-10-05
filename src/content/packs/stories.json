@@ -12,7 +12,7 @@
     {
       "id": "story-01",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Abraham: el viaje de la promesa",
       "type": "story",
       "summary": "De Ur a Canaán: el llamado, el pacto y la fe del primer patriarca, en el mundo real del segundo milenio a. C.",
@@ -71,7 +71,7 @@
     {
       "id": "story-02",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "El Éxodo en diez minutos",
       "type": "story",
       "summary": "Plagas, Pascua, mar abierto y Sinaí: el relato fundacional de Israel y lo que la historia puede decir de él.",
@@ -142,7 +142,7 @@
     {
       "id": "story-03",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "David: de pastor a rey",
       "type": "story",
       "summary": "El gigante, la corona y el pacto: el ascenso del rey que dio nombre a una dinastía confirmada por la arqueología.",
@@ -207,7 +207,7 @@
     {
       "id": "story-04",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Salomón y el primer Templo",
       "type": "story",
       "summary": "Oro, cedro y sabiduría: la construcción del Templo de Jerusalén y el esplendor —y las grietas— del reino.",
@@ -260,7 +260,7 @@
     {
       "id": "story-05",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Elías: fuego en el Carmelo",
       "type": "story",
       "summary": "El profeta frente a los profetas de Baal: la gran confrontación religiosa del reino del norte.",
@@ -313,7 +313,7 @@
     {
       "id": "story-06",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Asiria a las puertas: Ezequías y Senaquerib",
       "type": "story",
       "summary": "El 701 a. C.: el imperio más temido del mundo sitia Jerusalén. Dos versiones, un desenlace: la ciudad sobrevive.",
@@ -378,7 +378,7 @@
     {
       "id": "story-07",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Babilonia y el regreso",
       "type": "story",
       "summary": "Del trauma del 586 a la esperanza del retorno: el exilio que reinventó la fe de Israel.",
@@ -449,7 +449,7 @@
     {
       "id": "story-08",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Nehemías: muros en 52 días",
       "type": "story",
       "summary": "El copero del rey persa que reconstruyó Jerusalén: memorias en primera persona de una hazaña administrativa.",
@@ -496,7 +496,7 @@
     {
       "id": "story-09",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Jesús en Galilea",
       "type": "story",
       "summary": "Parábolas, lago y multitudes: tres años que cambiaron la historia, en la Galilea real del siglo I.",
@@ -555,7 +555,7 @@
     {
       "id": "story-10",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "La última semana en Jerusalén",
       "type": "story",
       "summary": "De la entrada triunfal a la tumba vacía: siete días en la Jerusalén de la Pascua, con decenas de miles de peregrinos.",
@@ -608,7 +608,7 @@
     {
       "id": "story-11",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "Pablo: de perseguidor a viajero",
       "type": "story",
       "summary": "El camino de Damasco y el primer viaje misionero: cómo un perseguidor se volvió el gran viajero del cristianismo.",
@@ -661,7 +661,7 @@
     {
       "id": "story-12",
       "version": 1,
-      "status": "DRAFT-AWAITING-REVIEW",
+      "status": "APPROVED",
       "title": "De Jerusalén a Roma",
       "type": "story",
       "summary": "La expansión imparable: Éfeso, Corinto, el naufragio en Malta y la llegada a la capital del imperio.",
