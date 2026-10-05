@@ -325,12 +325,15 @@ export default function PerfilScreen() {
                   id="perfil-email"
                   type="email"
                   inputMode="email"
-                  autoComplete="email"
+                  autoComplete="off"
+                  autoCapitalize="none"
+                  autoCorrect="off"
+                  spellCheck={false}
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
                   placeholder="tucorreo@ejemplo.com"
                   disabled={!isSupabaseConfigured || authBusy}
-                  className="tap-target min-w-0 flex-1 rounded-xl border border-input bg-background px-3 text-sm text-foreground placeholder:text-ink/35 focus:outline-none focus:ring-2 focus:ring-terracotta"
+                  className="tap-target min-w-0 flex-1 rounded-xl border border-input bg-background px-3 text-[16px] text-foreground placeholder:text-ink/35 focus:outline-none focus:ring-2 focus:ring-terracotta"
                 />
                 <button
                   type="submit"
