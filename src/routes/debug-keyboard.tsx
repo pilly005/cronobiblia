@@ -81,6 +81,11 @@ function DebugKeyboard() {
           → Abrir prueba con CSS pero sin JavaScript
         </a>
       </p>
+      <p style={{ marginTop: 12 }}>
+        <a href="react-test.html" style={{ fontSize: 15, fontWeight: 700 }}>
+          → Abrir prueba con React mínimo (sin Router)
+        </a>
+      </p>
 
       <div style={{ marginTop: 24 }}>
         <p style={{ fontWeight: 700, marginBottom: 6 }}>
