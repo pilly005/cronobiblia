@@ -1,0 +1,3522 @@
+{
+  "meta": {
+    "pack": "timeline-events",
+    "version": 1,
+    "status": "DRAFT-AWAITING-REVIEW",
+    "generated": "2026-10-03",
+    "count": 90,
+    "notes": "90 eventos con rangos de fecha, capas texto/historia/interpretación y contexto mundial.",
+    "review": "AI-DRAFT-AWAITING-REVIEW: borrador generado por IA. Requiere revisión histórica, de neutralidad y de estilo antes de publicarse. Nunca presentarlo como verificado."
+  },
+  "items": [
+    {
+      "id": "evt-001",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Abraham sale de Ur hacia Canaán",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta a Abraham saliendo de Ur de los caldeos por llamado divino, pasando por Harán y entrando en Canaán. La fecha es debatida: la cronología tradicional lo sitúa hacia el 2000 a. C., mientras que otros marcos lo ubican varios siglos después.",
+      "era": "era-01",
+      "year_min": -2100,
+      "year_max": -1900,
+      "date_label": "c. 2100–1900 a. C. (fecha debatida)",
+      "figures": [
+        "Abraham",
+        "Sara"
+      ],
+      "scripture_refs": [
+        "Génesis 11:27–12:9"
+      ],
+      "quote": {
+        "text": "Vete de tu tierra y de tu parentela, y de la casa de tu padre, á la tierra que te mostraré.",
+        "ref": "Génesis 12:1"
+      },
+      "world_context": "Mientras tanto, en Mesopotamia florecían las ciudades-estado sumerias y comenzaba el ascenso de Babilonia; en Egipto gobernaba el Reino Medio.",
+      "confidence": "disputed",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta el viaje como respuesta a un llamado divino, con paradas en Harán y Siquem.",
+        "historia": "La evidencia externa no confirma ni fecha directamente el viaje; Ur e Harán sí están documentadas como ciudades reales del período.",
+        "interpretacion": "Una interpretación común sitúa a los patriarcas en la primera mitad del segundo milenio a. C.; no existe consenso sobre fechas exactas."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "free",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-002",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "El pacto con Abraham",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta el pacto de Dios con Abraham: descendencia numerosa y una tierra para su linaje, sellado con ritos propios del antiguo Cercano Oriente. Es un texto fundacional para las tres tradiciones abrahámicas.",
+      "era": "era-01",
+      "year_min": -2100,
+      "year_max": -1900,
+      "date_label": "c. 2000 a. C. (marco tradicional; fecha debatida)",
+      "figures": [
+        "Abraham"
+      ],
+      "scripture_refs": [
+        "Génesis 15",
+        "Génesis 17"
+      ],
+      "quote": null,
+      "world_context": "Los tratados y pactos sellados con rituales de animales partidos están documentados en Mari y otros archivos del segundo milenio a. C.",
+      "confidence": "disputed",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta dos relatos de pacto (Génesis 15 y 17), con la circuncisión como señal.",
+        "historia": "Los paralelos de pactos del Cercano Oriente (Mari, hititas) muestran que el formato literario es propio de la época que el relato describe.",
+        "interpretacion": "La fecha de redacción de estos capítulos es debatida entre especialistas."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "free",
+      "facets": [
+        "narrativa-biblica"
+      ]
+    },
+    {
+      "id": "evt-003",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Nacimiento de Isaac",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta a Isaac como el hijo de la promesa, nacido de Abraham y Sara en su vejez. Su relato incluye el episodio del monte Moriah, central en la memoria religiosa de judíos, cristianos y musulmanes.",
+      "era": "era-01",
+      "year_min": -2050,
+      "year_max": -1850,
+      "date_label": "Marco tradicional patriarcal (fecha debatida)",
+      "figures": [
+        "Isaac",
+        "Abraham",
+        "Sara",
+        "Rebeca"
+      ],
+      "scripture_refs": [
+        "Génesis 21:1-7",
+        "Génesis 22"
+      ],
+      "quote": null,
+      "world_context": "En este amplio marco temporal, Egipto transitaba del Reino Medio al Segundo Período Intermedio y Babilonia se consolidaba bajo Hammurabi.",
+      "confidence": "disputed",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta el nacimiento como cumplimiento de la promesa y el relato de Moriah como prueba de confianza.",
+        "historia": "No existe evidencia externa directa de estos personajes; la discusión académica se centra en el contexto cultural del relato.",
+        "interpretacion": "Las lecturas varían entre quienes lo sitúan en el segundo milenio a. C. y quienes ven una composición muy posterior."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "free",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-004",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Jacob en Harán y el sueño de Betel",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta a Jacob huyendo a Harán, donde trabaja para Labán, se casa con Lea y Raquel, y regresa con una familia numerosa. En Betel tiene el sueño de la escalera que une cielo y tierra.",
+      "era": "era-01",
+      "year_min": -2000,
+      "year_max": -1800,
+      "date_label": "Marco tradicional patriarcal (fecha debatida)",
+      "figures": [
+        "Jacob",
+        "Raquel",
+        "Lea",
+        "Labán"
+      ],
+      "scripture_refs": [
+        "Génesis 28:10-22",
+        "Génesis 29–31"
+      ],
+      "quote": null,
+      "world_context": "Harán era una ciudad real de la alta Mesopotamia, documentada en archivos comerciales del segundo milenio a. C.",
+      "confidence": "disputed",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta el cambio de nombre de Jacob a Israel tras luchar junto al vado de Jaboc.",
+        "historia": "Costumbres como el trabajo por la dote tienen paralelos en los archivos de Nuzi y Mari.",
+        "interpretacion": "La historicidad de los patriarcas individuales es uno de los debates clásicos de la disciplina."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "free",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-005",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "José es vendido y llevado a Egipto",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta a José vendido por sus hermanos a mercaderes y llevado a Egipto, donde pasa de esclavo a prisionero. El relato refleja conocimiento detallado de la administración egipcia.",
+      "era": "era-01",
+      "year_min": -1900,
+      "year_max": -1700,
+      "date_label": "Segundo milenio a. C. (fecha debatida)",
+      "figures": [
+        "José"
+      ],
+      "scripture_refs": [
+        "Génesis 37",
+        "Génesis 39–40"
+      ],
+      "quote": null,
+      "world_context": "Egipto vivía el Segundo Período Intermedio, con presencia semita notable en el delta del Nilo, incluida la dinastía hicsa.",
+      "confidence": "disputed",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta la túnica de colores, los sueños y la venta por veinte piezas de plata.",
+        "historia": "Los detalles de títulos egipcios y prácticas administrativas del relato tienen paralelos verificados en fuentes egipcias.",
+        "interpretacion": "No existe consenso sobre si el relato conserva memoria de un individuo histórico."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "free",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-006",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "José gobernador de Egipto",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta a José interpretando los sueños del faraón y administrando las reservas de grano durante siete años de abundancia y siete de hambre, lo que lleva a su familia a descender a Egipto.",
+      "era": "era-01",
+      "year_min": -1900,
+      "year_max": -1650,
+      "date_label": "Segundo milenio a. C. (fecha debatida)",
+      "figures": [
+        "José",
+        "Jacob"
+      ],
+      "scripture_refs": [
+        "Génesis 41–47"
+      ],
+      "quote": null,
+      "world_context": "Las hambrunas periódicas del Nilo están documentadas en inscripciones egipcias, y el almacenamiento estatal de grano era práctica estándar.",
+      "confidence": "disputed",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta el asentamiento de la familia en la tierra de Gosén, en el delta oriental.",
+        "historia": "Gosén corresponde a una zona real del delta con fuerte presencia semita en el segundo milenio a. C.",
+        "interpretacion": "La escala de los eventos administrativos del relato es objeto de debate."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "free",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-007",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Ur de los caldeos: metrópoli sumeria",
+      "type": "timeline-event",
+      "summary": "Ur fue una de las grandes ciudades de Sumer, con el zigurat dedicado al dios luna Nanna como centro religioso. Las excavaciones británicas y estadounidenses de 1922–1934 revelaron tumbas reales de extraordinaria riqueza.",
+      "era": "era-01",
+      "year_min": -2100,
+      "year_max": -2000,
+      "date_label": "c. 2100–2000 a. C. (Tercera Dinastía de Ur)",
+      "figures": [],
+      "scripture_refs": [
+        "Génesis 11:28-31"
+      ],
+      "quote": null,
+      "world_context": "La Tercera Dinastía de Ur unificó brevemente el sur de Mesopotamia antes del ascenso de Babilonia.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Museo Británico, Londres",
+        "Museo de Pérgamo (Vorderasiatisches Museum), Berlín",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta a Ur como punto de partida de la familia de Abraham.",
+        "historia": "La evidencia externa indica que Ur era una ciudad real, próspera y bien documentada arqueológicamente.",
+        "interpretacion": "La mención de 'caldeos' refleja probablemente la geografía conocida por los redactores finales del texto."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "free",
+      "facets": [
+        "arqueologia",
+        "mundo"
+      ]
+    },
+    {
+      "id": "evt-008",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "El Código de Hammurabi",
+      "type": "timeline-event",
+      "summary": "Hammurabi de Babilonia hizo grabar una de las colecciones de leyes más famosas de la antigüedad en una estela de diorita. Sus 282 artículos regulaban precios, salarios, familia y justicia con el principio de reciprocidad.",
+      "era": "era-01",
+      "year_min": -1754,
+      "year_max": -1754,
+      "date_label": "c. 1754 a. C.",
+      "figures": [
+        "Hammurabi"
+      ],
+      "scripture_refs": [],
+      "quote": null,
+      "world_context": "Babilonia dominaba Mesopotamia mientras en Canaán surgían las primeras ciudades fortificadas de la Edad del Bronce Medio.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Museo del Louvre, París — Departamento de Antigüedades Orientales",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "layers": {
+        "texto": "No aparece en el texto bíblico; es contexto del mundo que rodeaba a los patriarcas.",
+        "historia": "La evidencia externa indica un sistema legal sofisticado, conservado en la estela del Louvre.",
+        "interpretacion": "Los paralelos con leyes bíblicas posteriores muestran un fondo jurídico común del Cercano Oriente, no copia directa."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "free",
+      "facets": [
+        "mundo",
+        "arqueologia"
+      ]
+    },
+    {
+      "id": "evt-009",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Los hicsos en Egipto",
+      "type": "timeline-event",
+      "summary": "Los hicsos, gobernantes de origen semita occidental, controlaron el norte de Egipto durante el Segundo Período Intermedio con capital en Avaris. Su expulsión dio paso al Reino Nuevo y a una política más cerrada hacia los extranjeros.",
+      "era": "era-01",
+      "year_min": -1650,
+      "year_max": -1550,
+      "date_label": "c. 1650–1550 a. C.",
+      "figures": [],
+      "scripture_refs": [
+        "Éxodo 1:8"
+      ],
+      "quote": null,
+      "world_context": "La presencia semita en el delta oriental del Nilo está ampliamente documentada en Avaris (Tell el-Dab'a).",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Museo Egipcio, El Cairo",
+        "Oxford University Press — obras de referencia de historia antigua",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta un 'faraón nuevo que no conocía a José' como inicio de la opresión.",
+        "historia": "La evidencia externa indica un cambio real de dinastía y de actitud hacia las poblaciones semitas del delta.",
+        "interpretacion": "Algunos estudiosos ven aquí un eco histórico; otros advierten contra identificar directamente a los hicsos con los hebreos."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "free",
+      "facets": [
+        "mundo",
+        "imperio"
+      ]
+    },
+    {
+      "id": "evt-010",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Ebla y Mari: archivos del tercer milenio",
+      "type": "timeline-event",
+      "summary": "Los archivos de Ebla (Siria) y Mari, con decenas de miles de tablillas cuneiformes, revelaron reinos sofisticados del tercer y segundo milenio a. C.: comercio, diplomacia y leyes siglos antes de lo que se suponía.",
+      "era": "era-01",
+      "year_min": -2400,
+      "year_max": -1750,
+      "date_label": "c. 2400–1750 a. C.",
+      "figures": [],
+      "scripture_refs": [],
+      "quote": null,
+      "world_context": "Ebla comerciaba con Egipto y Mesopotamia; Mari controlaba el Éufrates medio con una cancillería de nivel imperial.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Museo del Louvre, París — Departamento de Antigüedades Orientales",
+        "Oxford University Press — obras de referencia de historia antigua",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "layers": {
+        "texto": "No aparecen en el texto bíblico; son contexto del mundo patriarcal.",
+        "historia": "La evidencia externa indica sociedades urbanas complejas contemporáneas del marco tradicional de los patriarcas.",
+        "interpretacion": "Las primeras lecturas sensacionalistas que los vinculaban directamente con los patriarcas fueron descartadas por los especialistas."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "free",
+      "facets": [
+        "arqueologia",
+        "mundo"
+      ]
+    },
+    {
+      "id": "evt-011",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Los doce hijos de Jacob: origen de las tribus",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta a los doce hijos de Jacob como antepasados epónimos de las tribus de Israel. Las listas tribales reflejan tanto memoria familiar como la organización territorial posterior del pueblo.",
+      "era": "era-01",
+      "year_min": -1950,
+      "year_max": -1750,
+      "date_label": "Marco tradicional patriarcal (fecha debatida)",
+      "figures": [
+        "Jacob",
+        "Judá",
+        "José",
+        "Leví"
+      ],
+      "scripture_refs": [
+        "Génesis 29–30",
+        "Génesis 49"
+      ],
+      "quote": null,
+      "world_context": "Las estructuras tribales con antepasados epónimos son comunes en las sociedades semitas del segundo milenio a. C.",
+      "confidence": "disputed",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta bendiciones y genealogías que explican nombres y territorios tribales.",
+        "historia": "La evidencia externa no permite verificar individuos; las tribus como entidades aparecen en fuentes posteriores.",
+        "interpretacion": "Una interpretación común ve en estas listas una mezcla de memoria antigua y geografía de la época monárquica."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "free",
+      "facets": [
+        "narrativa-biblica"
+      ]
+    },
+    {
+      "id": "evt-012",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Muerte de José en Egipto",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta la muerte de José a los 110 años y su petición de que sus huesos sean llevados a Canaán cuando Dios visite a su pueblo. El libro de Génesis cierra con esa promesa pendiente.",
+      "era": "era-01",
+      "year_min": -1850,
+      "year_max": -1650,
+      "date_label": "Final del marco patriarcal (fecha debatida)",
+      "figures": [
+        "José"
+      ],
+      "scripture_refs": [
+        "Génesis 50:22-26",
+        "Éxodo 13:19"
+      ],
+      "quote": null,
+      "world_context": "La momificación y el traslado de restos eran prácticas egipcias bien documentadas para la élite.",
+      "confidence": "disputed",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta el juramento sobre los huesos como puente narrativo hacia el Éxodo.",
+        "historia": "La evidencia externa no aporta datos sobre José como individuo.",
+        "interpretacion": "El episodio funciona literariamente como cierre del Génesis y apertura del Éxodo."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "free",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-013",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "El Imperio acadio de Sargón",
+      "type": "timeline-event",
+      "summary": "Sargón de Acad creó el primer imperio multiétnico conocido, uniendo Sumer y Acad bajo un mismo poder hacia el 2334 a. C. Su modelo de administración imperial influyó en todos los imperios posteriores de Mesopotamia.",
+      "era": "era-01",
+      "year_min": -2334,
+      "year_max": -2279,
+      "date_label": "c. 2334–2279 a. C.",
+      "figures": [
+        "Sargón de Acad"
+      ],
+      "scripture_refs": [],
+      "quote": null,
+      "world_context": "El acadio se convirtió en la lengua diplomática del Cercano Oriente durante siglos, como muestran las cartas de Amarna.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Museo del Louvre, París — Departamento de Antigüedades Orientales",
+        "Museo Británico, Londres",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "layers": {
+        "texto": "No aparece en el texto bíblico; es el trasfondo imperial más antiguo del mundo bíblico.",
+        "historia": "La evidencia externa indica un imperio real con administración centralizada y propaganda real.",
+        "interpretacion": "Su leyenda de nacimiento en una cesta de juncos tiene paralelos famosos con relatos posteriores."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "free",
+      "facets": [
+        "mundo",
+        "imperio"
+      ]
+    },
+    {
+      "id": "evt-014",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Moisés y la zarza ardiente",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta a Moisés, criado en la corte egipcia y exiliado en Madián, recibiendo el llamado divino ante una zarza que arde sin consumirse. Allí se revela el nombre divino y la misión de liberar a Israel.",
+      "era": "era-02",
+      "year_min": -1450,
+      "year_max": -1250,
+      "date_label": "Fecha debatida (cronologías alta y baja)",
+      "figures": [
+        "Moisés"
+      ],
+      "scripture_refs": [
+        "Éxodo 3–4"
+      ],
+      "quote": null,
+      "world_context": "Madián ocupaba el noroeste de Arabia; las rutas de cobre y caravanas conectaban Egipto con la región.",
+      "confidence": "disputed",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta el episodio como vocación profética con señales y objeciones.",
+        "historia": "La evidencia externa no documenta el episodio; el Sinaí y Madián son regiones reales con minería egipcia antigua.",
+        "interpretacion": "La fecha del Éxodo se debate entre una cronología 'temprana' (s. XV a. C.) y una 'tardía' (s. XIII a. C.)."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "free",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-015",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Las diez plagas de Egipto",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta diez plagas como confrontación entre el Dios de Israel y los dioses de Egipto, culminando con la muerte de los primogénitos. Cada plaga puede leerse como desafío a una deidad egipcia.",
+      "era": "era-02",
+      "year_min": -1450,
+      "year_max": -1250,
+      "date_label": "Fecha debatida (cronologías alta y baja)",
+      "figures": [
+        "Moisés",
+        "Aarón"
+      ],
+      "scripture_refs": [
+        "Éxodo 7–12"
+      ],
+      "quote": null,
+      "world_context": "Fenómenos como la crecida anómala del Nilo o plagas de insectos están documentados en la historia natural de Egipto.",
+      "confidence": "disputed",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta una secuencia creciente de prodigios ante el faraón.",
+        "historia": "La evidencia externa no registra las plagas como serie; algunos fenómenos naturales tienen paralelos documentados por separado.",
+        "interpretacion": "No existe consenso sobre el trasfondo histórico; la lectura teológica domina en el texto."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica"
+      ]
+    },
+    {
+      "id": "evt-016",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "La Pascua y la salida de Egipto",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta la Pascua como memorial de la liberación: el cordero, la sangre en los postes y la salida apresurada. Es la fiesta fundacional del calendario religioso de Israel.",
+      "era": "era-02",
+      "year_min": -1450,
+      "year_max": -1250,
+      "date_label": "Fecha debatida (cronologías alta y baja)",
+      "figures": [
+        "Moisés"
+      ],
+      "scripture_refs": [
+        "Éxodo 12–13"
+      ],
+      "quote": null,
+      "world_context": "Las migraciones de grupos semitas entre Canaán y el delta egipcio están documentadas durante todo el segundo milenio a. C.",
+      "confidence": "disputed",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta instrucciones rituales detalladas que se repiten cada año como memorial.",
+        "historia": "La evidencia externa no confirma la salida como evento único; los movimientos de población en la zona son históricos.",
+        "interpretacion": "Los modelos van desde un éxodo masivo hasta una salida de un grupo reducido que luego creció."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica"
+      ]
+    },
+    {
+      "id": "evt-017",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "El cruce del mar de los Juncos",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta la apertura de las aguas ante Israel y su cierre sobre el ejército egipcio. El hebreo dice 'mar de los Juncos' (yam suf); la identificación exacta del lugar es debatida.",
+      "era": "era-02",
+      "year_min": -1450,
+      "year_max": -1250,
+      "date_label": "Fecha debatida (cronologías alta y baja)",
+      "figures": [
+        "Moisés"
+      ],
+      "scripture_refs": [
+        "Éxodo 14–15"
+      ],
+      "quote": {
+        "text": "Jehová peleará por vosotros, y vosotros estaréis quedos.",
+        "ref": "Éxodo 14:14"
+      },
+      "world_context": "Las lagunas y marismas del istmo de Suez, con vientos fuertes del este, han sido estudiadas como posible escenario natural.",
+      "confidence": "disputed",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta el cántico de Moisés como una de las piezas poéticas más antiguas de la Biblia.",
+        "historia": "La evidencia externa no documenta la destrucción de un ejército egipcio en este contexto.",
+        "interpretacion": "Las propuestas de localización van del golfo de Suez a lagunas del norte del Sinaí; no existe consenso."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica"
+      ]
+    },
+    {
+      "id": "evt-018",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "El pacto en el Sinaí y los Diez Mandamientos",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta la entrega de la Ley en el monte Sinaí como el acto constitutivo de Israel como pueblo. Los Diez Mandamientos resumen las obligaciones del pacto en dos tablas.",
+      "era": "era-02",
+      "year_min": -1450,
+      "year_max": -1250,
+      "date_label": "Fecha debatida (cronologías alta y baja)",
+      "figures": [
+        "Moisés"
+      ],
+      "scripture_refs": [
+        "Éxodo 19–20",
+        "Deuteronomio 5"
+      ],
+      "quote": {
+        "text": "No tendrás dioses ajenos delante de mí.",
+        "ref": "Éxodo 20:3"
+      },
+      "world_context": "Los tratados de vasallaje hititas del segundo milenio a. C. comparten la estructura literaria del pacto: prólogo, estipulaciones, bendiciones y maldiciones.",
+      "confidence": "disputed",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta el Decálogo dos veces, con ligeras diferencias entre Éxodo y Deuteronomio.",
+        "historia": "La evidencia externa muestra que el formato de pacto es típico del Cercano Oriente del segundo milenio a. C.",
+        "interpretacion": "La fecha de redacción final de estos textos es uno de los grandes debates académicos."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica"
+      ]
+    },
+    {
+      "id": "evt-019",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Cuarenta años en el desierto",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta un período de peregrinación por el desierto marcado por el maná, el agua de la roca y la rebelión de la generación del éxodo. Es el marco narrativo de Números y Deuteronomio.",
+      "era": "era-02",
+      "year_min": -1450,
+      "year_max": -1210,
+      "date_label": "Marco narrativo bíblico (fecha debatida)",
+      "figures": [
+        "Moisés",
+        "Josué",
+        "Caleb"
+      ],
+      "scripture_refs": [
+        "Números 14",
+        "Deuteronomio 8"
+      ],
+      "quote": null,
+      "world_context": "El Sinaí y el Neguev tenían rutas de caravanas, minas de cobre egipcias y oasis que hacían posible la vida nómada.",
+      "confidence": "disputed",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta los cuarenta años como juicio y formación de una nueva generación.",
+        "historia": "La evidencia externa no ha identificado un campamento israelita del período en el Sinaí; la arqueología del desierto es limitada.",
+        "interpretacion": "El número cuarenta funciona también como símbolo de una generación completa."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica"
+      ]
+    },
+    {
+      "id": "evt-020",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Muerte de Moisés y Josué como sucesor",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta a Moisés contemplando la tierra prometida desde el monte Nebo sin entrar en ella, y a Josué asumiendo el liderazgo. Deuteronomio cierra con un elogio sin igual del profeta.",
+      "era": "era-02",
+      "year_min": -1410,
+      "year_max": -1210,
+      "date_label": "Marco narrativo bíblico (fecha debatida)",
+      "figures": [
+        "Moisés",
+        "Josué"
+      ],
+      "scripture_refs": [
+        "Deuteronomio 34",
+        "Josué 1"
+      ],
+      "quote": {
+        "text": "Mira que te mando que te esfuerces y seas valiente: no temas ni desmayes, porque Jehová tu Dios será contigo en donde quiera que fueres.",
+        "ref": "Josué 1:9"
+      },
+      "world_context": "El monte Nebo domina el valle del Jordán; la zona de Moab estaba bajo influencia de reinos locales documentados en la estela de Mesha.",
+      "confidence": "disputed",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta la sucesión como imposición de manos pública ante Eleazar y la congregación.",
+        "historia": "La evidencia externa no documenta a Moisés como individuo histórico.",
+        "interpretacion": "El relato legitima la continuidad del liderazgo más allá del fundador."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-021",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "La caída de Jericó",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta la caída de los muros de Jericó tras siete días de procesión y el toque de trompetas. La arqueología del sitio es famosa y debatida: las excavaciones muestran destrucciones, pero su fecha exacta se discute intensamente.",
+      "era": "era-02",
+      "year_min": -1550,
+      "year_max": -1200,
+      "date_label": "Fecha muy debatida (s. XVI–XIII a. C. según posturas)",
+      "figures": [
+        "Josué",
+        "Rahab"
+      ],
+      "scripture_refs": [
+        "Josué 6"
+      ],
+      "quote": null,
+      "world_context": "Jericó (Tell es-Sultan) es una de las ciudades continuamente habitadas más antiguas del mundo, con 10.000 años de historia.",
+      "confidence": "disputed",
+      "certainty": "disputed",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Biblical Archaeology Society"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta la toma como acto litúrgico más que militar, con Rahab salvada por su ayuda a los espías.",
+        "historia": "La evidencia externa indica destrucciones en Jericó, pero los excavadores discrepan: Garstang la fechó hacia 1400 a. C.; Kenyon, hacia 1550 a. C., sin murallas en el siglo XIII.",
+        "interpretacion": "No existe consenso: las posturas van de la conquista literal a una etiología posterior."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "arqueologia"
+      ]
+    },
+    {
+      "id": "evt-022",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "La estela de Merneptah: 'Israel' en Canaán",
+      "type": "timeline-event",
+      "summary": "La estela de victoria del faraón Merneptah (c. 1207 a. C.) contiene la mención más antigua conocida del nombre 'Israel' fuera de la Biblia: 'Israel está desolado, no tiene semilla'. Es una referencia externa clave para la presencia de Israel en Canaán.",
+      "era": "era-02",
+      "year_min": -1207,
+      "year_max": -1207,
+      "date_label": "c. 1207 a. C.",
+      "figures": [
+        "Merneptah"
+      ],
+      "scripture_refs": [],
+      "quote": null,
+      "world_context": "La estela celebra campañas en Libia y Canaán durante el declive del Reino Nuevo egipcio.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Museo Egipcio, El Cairo",
+        "Anchor Yale Bible Dictionary",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "layers": {
+        "texto": "El texto bíblico no menciona a Merneptah; la estela es evidencia externa independiente.",
+        "historia": "La evidencia externa indica que hacia 1207 a. C. ya existía una entidad llamada Israel en Canaán, descrita como pueblo, no como ciudad.",
+        "interpretacion": "Qué tamaño o estructura tenía ese Israel es objeto de debate; la mención misma no se discute."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "arqueologia",
+        "mundo"
+      ]
+    },
+    {
+      "id": "evt-023",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Débora y Barac contra Sísara",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta a Débora, profetisa y jueza, convocando a Barac para enfrentar al general cananeo Sísara junto al Quisón. El cántico de Débora (Jueces 5) es uno de los poemas más antiguos de la Biblia hebrea.",
+      "era": "era-02",
+      "year_min": -1250,
+      "year_max": -1100,
+      "date_label": "Período de los jueces (fecha aproximada y debatida)",
+      "figures": [
+        "Débora",
+        "Barac",
+        "Jael"
+      ],
+      "scripture_refs": [
+        "Jueces 4–5"
+      ],
+      "quote": null,
+      "world_context": "El final de la Edad del Bronce (c. 1200 a. C.) trajo el colapso de palacios en todo el Mediterráneo oriental y el auge de los 'pueblos del mar'.",
+      "confidence": "low",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta a Jael dando muerte a Sísara con una estaca de tienda.",
+        "historia": "La evidencia externa no confirma el episodio; el poema conserva, eso sí, geografía tribal coherente con la época.",
+        "interpretacion": "Muchos especialistas consideran el cántico una fuente muy antigua, aunque la historicidad del evento se debate."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-024",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Gedeón y los madianitas",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta a Gedeón reduciendo su ejército de 32.000 a 300 hombres para que la victoria sobre Madián se atribuya a Dios y no a la fuerza humana. El episodio del vellón se volvió proverbial.",
+      "era": "era-02",
+      "year_min": -1200,
+      "year_max": -1100,
+      "date_label": "Período de los jueces (fecha aproximada y debatida)",
+      "figures": [
+        "Gedeón"
+      ],
+      "scripture_refs": [
+        "Jueces 6–8"
+      ],
+      "quote": null,
+      "world_context": "Los madianitas controlaban rutas caravaneras del sur; su cerámica pintada ('midianite pottery') aparece en el Neguev y el Arabá.",
+      "confidence": "low",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta la famosa prueba del vellón mojado y la tierra seca, y viceversa.",
+        "historia": "La evidencia externa documenta a los madianitas como cultura real del noroeste de Arabia.",
+        "interpretacion": "El relato mezcla memoria tribal con enseñanza teológica sobre la dependencia divina."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-025",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Sansón y los filisteos",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta a Sansón, nazareo de fuerza prodigiosa, en conflicto permanente con los filisteos: la quijada de asno, las puertas de Gaza y el derrumbe del templo de Dagón. Su historia cierra el ciclo de los jueces mayores.",
+      "era": "era-02",
+      "year_min": -1150,
+      "year_max": -1050,
+      "date_label": "Período de los jueces tardío (fecha aproximada)",
+      "figures": [
+        "Sansón",
+        "Dalila"
+      ],
+      "scripture_refs": [
+        "Jueces 13–16"
+      ],
+      "quote": null,
+      "world_context": "Los filisteos, parte de los 'pueblos del mar', se asentaron en la costa sur de Canaán con cinco ciudades principales.",
+      "confidence": "low",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta el voto nazareo y el cabello como fuente de su fuerza.",
+        "historia": "La evidencia externa confirma la cultura filistea (cerámica, templos, inscripciones) pero no al personaje.",
+        "interpretacion": "El relato tiene paralelos con héroes de fuerza de otras literaturas antiguas."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-026",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Los filisteos: los 'pueblos del mar'",
+      "type": "timeline-event",
+      "summary": "Hacia 1200 a. C., grupos del Egeo conocidos como 'pueblos del mar' se asentaron en la costa de Canaán: los filisteos fundaron la pentápolis de Gaza, Ascalón, Asdod, Ecrón y Gat. Su cultura egea los distinguía de sus vecinos semitas.",
+      "era": "era-02",
+      "year_min": -1200,
+      "year_max": -1100,
+      "date_label": "c. 1200–1100 a. C.",
+      "figures": [],
+      "scripture_refs": [
+        "Jueces 13–16",
+        "1 Samuel 4–6"
+      ],
+      "quote": null,
+      "world_context": "Los relieves de Medinet Habu en Egipto muestran las batallas de Ramsés III contra los pueblos del mar.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Museo Egipcio, El Cairo",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta a los filisteos como los grandes rivales de Israel durante jueces y la monarquía temprana.",
+        "historia": "La evidencia externa indica una migración real con cerámica, arquitectura y dieta de origen egeo.",
+        "interpretacion": "El nombre 'Palestina' deriva, a través del griego y el latín, del término filisteo."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "mundo",
+        "arqueologia",
+        "imperio"
+      ]
+    },
+    {
+      "id": "evt-027",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Samuel unge a Saúl como primer rey",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta la transición de Israel de una confederación tribal a la monarquía: Samuel unge a Saúl de Benjamín ante la presión filistea. Su reinado termina en tragedia en el monte Gilboa.",
+      "era": "era-03",
+      "year_min": -1050,
+      "year_max": -1010,
+      "date_label": "c. 1050–1010 a. C. (cronología tradicional)",
+      "figures": [
+        "Samuel",
+        "Saúl"
+      ],
+      "scripture_refs": [
+        "1 Samuel 8–10",
+        "1 Samuel 31"
+      ],
+      "quote": null,
+      "world_context": "La presión filistea con monopolio del hierro empujaba a las tribus hacia una jefatura centralizada.",
+      "confidence": "low",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta dos tradiciones sobre el origen de la monarquía: petición popular y designación divina.",
+        "historia": "La evidencia externa no documenta a Saúl; la estela de Tel Dan confirma la 'casa de David' una generación después.",
+        "interpretacion": "La historicidad de Saúl se acepta por tradición, pero casi todo depende del texto bíblico."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-028",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "David y Goliat en el valle de Elah",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta al joven pastor David derrotando al gigante filisteo Goliat con honda y piedra. El episodio se convirtió en el símbolo universal del débil que vence al fuerte.",
+      "era": "era-03",
+      "year_min": -1025,
+      "year_max": -1010,
+      "date_label": "c. 1020 a. C. (cronología tradicional)",
+      "figures": [
+        "David",
+        "Goliat",
+        "Saúl"
+      ],
+      "scripture_refs": [
+        "1 Samuel 17"
+      ],
+      "quote": null,
+      "world_context": "Los filisteos dominaban la Sefela con ciudades fortificadas como Gat, la probable patria de Goliat.",
+      "confidence": "low",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta el duelo como combate representativo entre ejércitos, práctica conocida en la antigüedad.",
+        "historia": "La evidencia externa no confirma el duelo; la honda era un arma militar real y temida.",
+        "interpretacion": "El relato combina memoria de conflictos fronterizos con elaboración literaria."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-029",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "David toma Jerusalén",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta la conquista de la fortaleza jebusea de Jerusalén por David, que la convierte en su capital: una ciudad neutral entre el norte y el sur. Allí traslada el arca de la alianza.",
+      "era": "era-03",
+      "year_min": -1010,
+      "year_max": -1000,
+      "date_label": "c. 1000 a. C. (cronología tradicional)",
+      "figures": [
+        "David",
+        "Joab"
+      ],
+      "scripture_refs": [
+        "2 Samuel 5:6-10",
+        "2 Samuel 6"
+      ],
+      "quote": null,
+      "world_context": "Jerusalén controlaba la ruta de la cresta montañosa entre el norte y el sur de Canaán.",
+      "confidence": "medium",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta la toma a través del 'canal' de agua, quizá el sistema del manantial de Gihón.",
+        "historia": "La evidencia externa indica una Jerusalén pequeña pero fortificada en la Edad del Hierro I; la 'estructura de piedra escalonada' se debate.",
+        "interpretacion": "La magnitud del reino davídico es uno de los debates centrales: del gran imperio bíblico a una jefatura regional."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "arqueologia"
+      ]
+    },
+    {
+      "id": "evt-030",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "El pacto davídico",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta la promesa divina a David de una dinastía perpetua (2 Samuel 7). Este pacto se volvió la base de la esperanza mesiánica: un futuro rey de la línea de David.",
+      "era": "era-03",
+      "year_min": -1000,
+      "year_max": -970,
+      "date_label": "c. 1000–970 a. C. (marco tradicional)",
+      "figures": [
+        "David",
+        "Natán"
+      ],
+      "scripture_refs": [
+        "2 Samuel 7",
+        "Salmo 89"
+      ],
+      "quote": null,
+      "world_context": "Las promesas dinásticas divinas a reyes eran un género conocido en el Cercano Oriente antiguo.",
+      "confidence": "low",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta el oráculo de Natán como respuesta a la intención de David de construir un templo.",
+        "historia": "La evidencia externa confirma que la dinastía davídica gobernó Judá durante siglos (estela de Tel Dan).",
+        "interpretacion": "La formulación exacta del pacto refleja probablemente desarrollos teológicos posteriores."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica"
+      ]
+    },
+    {
+      "id": "evt-031",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Salomón construye el Templo de Jerusalén",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta la construcción del Templo por Salomón con ayuda de artesanos fenicios de Tiro: siete años de obra y un edificio de piedra, cedro y oro. Fue el centro religioso de Israel hasta el 586 a. C.",
+      "era": "era-03",
+      "year_min": -970,
+      "year_max": -960,
+      "date_label": "c. 960 a. C. (cronología tradicional)",
+      "figures": [
+        "Salomón",
+        "Hiram de Tiro"
+      ],
+      "scripture_refs": [
+        "1 Reyes 6–8"
+      ],
+      "quote": null,
+      "world_context": "Los templos de planta tripartita (vestíbulo, sala, santuario) tienen paralelos en Siria, como el templo de Ain Dara.",
+      "confidence": "medium",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta medidas detalladas y la oración de dedicación de Salomón.",
+        "historia": "La evidencia externa no ha hallado restos del templo (la explanada no es excavable); su plano coincide con templos sirios de la época.",
+        "interpretacion": "La descripción detallada sugiere una fuente antigua, aunque su fecha exacta se debate."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "arqueologia"
+      ]
+    },
+    {
+      "id": "evt-032",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "La reina de Sabá visita a Salomón",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta la visita de la reina de Sabá, que llega con camellos cargados de especias y oro para probar la sabiduría de Salomón. Sabá corresponde al reino sabeo del sur de Arabia, centro del comercio de incienso.",
+      "era": "era-03",
+      "year_min": -960,
+      "year_max": -940,
+      "date_label": "c. 950 a. C. (marco tradicional)",
+      "figures": [
+        "Salomón",
+        "Reina de Sabá"
+      ],
+      "scripture_refs": [
+        "1 Reyes 10:1-13"
+      ],
+      "quote": null,
+      "world_context": "El reino de Saba (Yemen) dominaba la ruta del incienso entre Arabia y el Mediterráneo desde el siglo VIII a. C.",
+      "confidence": "low",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta el intercambio de enigmas y regalos como diplomacia de prestigio.",
+        "historia": "La evidencia externa confirma el reino sabeo, aunque su auge documentado es algo posterior al marco tradicional salomónico.",
+        "interpretacion": "El relato puede reflejar contactos comerciales reales embellecidos por la tradición."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "mundo"
+      ]
+    },
+    {
+      "id": "evt-033",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "La estela de Tel Dan: la 'casa de David'",
+      "type": "timeline-event",
+      "summary": "Fragmentos de una estela aramea hallada en Tel Dan (1993–1994) mencionan la 'casa de David' en el contexto de una victoria de un rey de Damasco sobre Israel y Judá. Es la referencia extrabíblica más importante a la dinastía davídica.",
+      "era": "era-03",
+      "year_min": -850,
+      "year_max": -800,
+      "date_label": "c. 850–800 a. C. (época del reino dividido)",
+      "figures": [
+        "David (dinastía)",
+        "Hazael de Damasco"
+      ],
+      "scripture_refs": [
+        "2 Samuel 7"
+      ],
+      "quote": null,
+      "world_context": "Las estelas de victoria arameas celebraban triunfos sobre reinos vecinos con fórmulas estereotipadas.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Museo de Israel, Jerusalén",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "layers": {
+        "texto": "El texto bíblico no menciona la estela; confirma indirectamente la existencia de la dinastía.",
+        "historia": "La evidencia externa indica que hacia el siglo IX a. C. 'la casa de David' era el nombre reconocido de la dinastía de Judá.",
+        "interpretacion": "La lectura 'casa de David' es ampliamente aceptada; la identidad del rey autor se atribuye a Hazael."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "arqueologia"
+      ]
+    },
+    {
+      "id": "evt-034",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "La estela de Mesha, rey de Moab",
+      "type": "timeline-event",
+      "summary": "La estela del rey moabita Mesha (c. 840 a. C.) celebra su rebelión contra Israel con un lenguaje sorprendentemente parecido al de la Biblia hebrea. Menciona a Omri, a su hijo y al dios Quemos; es el paralelo extrabíblico más cercano al estilo bíblico.",
+      "era": "era-03",
+      "year_min": -840,
+      "year_max": -840,
+      "date_label": "c. 840 a. C.",
+      "figures": [
+        "Mesha",
+        "Omri"
+      ],
+      "scripture_refs": [
+        "2 Reyes 3"
+      ],
+      "quote": null,
+      "world_context": "Moab controlaba la meseta al este del mar Muerto y las rutas del comercio de lana y grano.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Museo del Louvre, París — Departamento de Antigüedades Orientales",
+        "Anchor Yale Bible Dictionary",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "layers": {
+        "texto": "El texto bíblico (2 Reyes 3) presenta la misma guerra desde el lado israelita, con desenlace distinto.",
+        "historia": "La evidencia externa indica un reino moabita real, con lengua y escritura hermanas del hebreo.",
+        "interpretacion": "Los dos relatos muestran cómo cada bando narraba la misma guerra a su favor."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "arqueologia",
+        "mundo"
+      ]
+    },
+    {
+      "id": "evt-035",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Sisac invade Judá",
+      "type": "timeline-event",
+      "summary": "El faraón Sisac (Shoshenq I) invadió Canaán hacia el 925 a. C. y el texto bíblico presenta el saqueo de los tesoros del Templo bajo Roboam. Su lista de ciudades conquistadas está grabada en el templo de Karnak.",
+      "era": "era-03",
+      "year_min": -925,
+      "year_max": -925,
+      "date_label": "c. 925 a. C.",
+      "figures": [
+        "Sisac (Shoshenq I)",
+        "Roboam"
+      ],
+      "scripture_refs": [
+        "1 Reyes 14:25-28"
+      ],
+      "quote": null,
+      "world_context": "Egipto, bajo la dinastía XXII libia, intentaba recuperar influencia en el Levante tras siglos de repliegue.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Museo Egipcio, El Cairo",
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta la invasión como castigo divino y el botín del Templo.",
+        "historia": "La evidencia externa indica una campaña real: la inscripción de Karnak lista decenas de localidades de Judá e Israel.",
+        "interpretacion": "Jerusalén no aparece con claridad en la lista; el alcance exacto del saqueo se debate."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "arqueologia",
+        "imperio"
+      ]
+    },
+    {
+      "id": "evt-036",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Los fenicios y la ciudad de Tiro",
+      "type": "timeline-event",
+      "summary": "Tiro y Sidón, ciudades fenicias de la costa libanesa, dominaron el comercio mediterráneo del primer milenio a. C. con púrpura, vidrio y madera de cedro. Hiram de Tiro fue aliado de David y Salomón según el texto bíblico.",
+      "era": "era-03",
+      "year_min": -1000,
+      "year_max": -900,
+      "date_label": "c. 1000–900 a. C.",
+      "figures": [
+        "Hiram de Tiro"
+      ],
+      "scripture_refs": [
+        "1 Reyes 5",
+        "2 Samuel 5:11"
+      ],
+      "quote": null,
+      "world_context": "Los fenicios fundaron colonias como Cartago y difundieron el alfabeto por todo el Mediterráneo.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Museo del Louvre, París — Departamento de Antigüedades Orientales",
+        "Oxford University Press — obras de referencia de historia antigua",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta a Hiram enviando cedro, oro y artesanos para el Templo y el palacio.",
+        "historia": "La evidencia externa indica una Tiro próspera y expansionista en los siglos X–IX a. C.",
+        "interpretacion": "La alianza con Tiro explica el acceso de Israel al comercio internacional."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "mundo",
+        "arqueologia"
+      ]
+    },
+    {
+      "id": "evt-037",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "El calendario de Gézer",
+      "type": "timeline-event",
+      "summary": "Una pequeña tablilla de piedra caliza hallada en Gézer (c. 925 a. C.) lista los meses del año agrícola en hebreo antiguo: siembra, cosecha, poda. Es uno de los textos hebreos más antiguos conocidos.",
+      "era": "era-03",
+      "year_min": -925,
+      "year_max": -925,
+      "date_label": "c. 925 a. C.",
+      "figures": [],
+      "scripture_refs": [],
+      "quote": null,
+      "world_context": "Gézer era una ciudad cananea estratégica en la ruta entre Egipto y Mesopotamia.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Museos Arqueológicos de Estambul",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "layers": {
+        "texto": "El texto bíblico no lo menciona; es evidencia externa del mundo de la monarquía temprana.",
+        "historia": "La evidencia externa indica el uso de la escritura hebrea para la vida agrícola cotidiana.",
+        "interpretacion": "Su función exacta (ejercicio escolar o memorando) se debate, pero su fecha no."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "arqueologia"
+      ]
+    },
+    {
+      "id": "evt-038",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Absalón se rebela contra David",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta la rebelión de Absalón, hijo de David, que toma Jerusalén y obliga a su padre a huir al otro lado del Jordán. La revuelta termina con la muerte de Absalón en el bosque de Efraín.",
+      "era": "era-03",
+      "year_min": -1000,
+      "year_max": -970,
+      "date_label": "Reinado de David (marco tradicional)",
+      "figures": [
+        "David",
+        "Absalón",
+        "Joab"
+      ],
+      "scripture_refs": [
+        "2 Samuel 15–18"
+      ],
+      "quote": null,
+      "world_context": "Las sucesiones disputadas eran la principal causa de inestabilidad en las monarquías del Cercano Oriente.",
+      "confidence": "low",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta el lamento de David —'¡Hijo mío Absalón!'— como uno de los pasajes más humanos de la Biblia.",
+        "historia": "La evidencia externa no documenta el episodio; la narración de la sucesión se considera literatura de corte antigua.",
+        "interpretacion": "Los especialistas valoran el relato por su realismo político más que por su verificabilidad."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-039",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "David y Betsabé: el profeta Natán confronta al rey",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta el adulterio de David con Betsabé y el asesinato de Urías, seguidos de la parábola de Natán que confronta al rey. El Salmo 51 se vincula tradicionalmente con su arrepentimiento.",
+      "era": "era-03",
+      "year_min": -1000,
+      "year_max": -970,
+      "date_label": "Reinado de David (marco tradicional)",
+      "figures": [
+        "David",
+        "Betsabé",
+        "Natán",
+        "Urías"
+      ],
+      "scripture_refs": [
+        "2 Samuel 11–12",
+        "Salmo 51"
+      ],
+      "quote": null,
+      "world_context": "La figura del profeta cortesano que confronta al rey tiene paralelos en Mari y otras cortes del Cercano Oriente.",
+      "confidence": "low",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta la parábola de la oveja del pobre como instrumento de confrontación moral.",
+        "historia": "La evidencia externa no documenta el episodio; el género de crítica profética al poder sí está atestiguado.",
+        "interpretacion": "El relato muestra que, en la teología bíblica, ni el rey está por encima de la ley."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-040",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "La división del reino: Jeroboam y Roboam",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta la ruptura tras la muerte de Salomón: las diez tribus del norte siguen a Jeroboam (Israel, capital Samaria) y Judá queda con Roboam en Jerusalén. La fecha convencional es el 930 a. C.",
+      "era": "era-04",
+      "year_min": -930,
+      "year_max": -930,
+      "date_label": "c. 930 a. C. (fecha convencional)",
+      "figures": [
+        "Jeroboam I",
+        "Roboam"
+      ],
+      "scripture_refs": [
+        "1 Reyes 12"
+      ],
+      "quote": null,
+      "world_context": "Egipto bajo Sisac aprovechó la división para reafirmar su presencia en Canaán.",
+      "confidence": "medium",
+      "certainty": "consensus",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta la división como juicio divino por la idolatría salomónica y como resultado de impuestos opresivos.",
+        "historia": "La evidencia externa indica dos reinos reales y diferenciados desde el siglo IX a. C.; Israel fue el más grande y rico.",
+        "interpretacion": "La fecha exacta (930 frente a 931) depende del sistema cronológico usado."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica"
+      ]
+    },
+    {
+      "id": "evt-041",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Elías en el monte Carmelo",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta el desafío de Elías a los 450 profetas de Baal en el Carmelo: el fuego que consume el holocausto mojado decide quién es Dios. Es el relato clásico de la confrontación entre el yahvismo y el baalismo.",
+      "era": "era-04",
+      "year_min": -870,
+      "year_max": -850,
+      "date_label": "c. 860 a. C. (marco tradicional)",
+      "figures": [
+        "Elías",
+        "Acab",
+        "Jezabel"
+      ],
+      "scripture_refs": [
+        "1 Reyes 18"
+      ],
+      "quote": null,
+      "world_context": "El culto a Baal, dios de la tormenta, llegó a Israel con la alianza matrimonial con la princesa fenicia Jezabel.",
+      "confidence": "low",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta el sarcasmo de Elías —'gritad en alta voz, porque dios es'— como pieza literaria memorable.",
+        "historia": "La evidencia externa confirma la presencia del baalismo en Israel (nombres, inscripciones) pero no el evento.",
+        "interpretacion": "El relato refleja la lucha real entre cultos que la arqueología documenta durante siglos."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-042",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Eliseo y Naamán el sirio",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta la curación de Naamán, general arameo leproso, tras bañarse siete veces en el Jordán por orden de Eliseo. Su confesión —'no hay Dios en toda la tierra sino en Israel'— anticipa la apertura a las naciones.",
+      "era": "era-04",
+      "year_min": -850,
+      "year_max": -800,
+      "date_label": "c. 830 a. C. (marco tradicional)",
+      "figures": [
+        "Eliseo",
+        "Naamán"
+      ],
+      "scripture_refs": [
+        "2 Reyes 5"
+      ],
+      "quote": null,
+      "world_context": "Damasco, capital aramea, era la potencia regional que disputaba a Israel el control del norte.",
+      "confidence": "low",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta el enojo inicial de Naamán ante una orden tan simple.",
+        "historia": "La evidencia externa no documenta el episodio; los archivos arameos confirman el poder de Damasco en la época.",
+        "interpretacion": "El relato subraya que la gracia divina no conoce fronteras nacionales."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-043",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "La dinastía de Omri y la fundación de Samaria",
+      "type": "timeline-event",
+      "summary": "Omri fundó la dinastía más poderosa del reino del norte e hizo de Samaria su capital (c. 880 a. C.). La estela de Mesha lo llama 'rey de Israel' y los anales asirios llamaron a Israel 'la casa de Omri' durante un siglo.",
+      "era": "era-04",
+      "year_min": -880,
+      "year_max": -870,
+      "date_label": "c. 880 a. C.",
+      "figures": [
+        "Omri",
+        "Acab"
+      ],
+      "scripture_refs": [
+        "1 Reyes 16:23-28"
+      ],
+      "quote": null,
+      "world_context": "Samaria, en una colina estratégica, controlaba las rutas entre la costa y el valle del Jordán.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Museo del Louvre, París — Departamento de Antigüedades Orientales",
+        "Museo Británico, Londres",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)"
+      ],
+      "layers": {
+        "texto": "El texto bíblico le dedica pocos versículos pese a su importancia, por juzgarlo negativamente en lo religioso.",
+        "historia": "La evidencia externa indica un reino fuerte: ostraca de Samaria, marfiles y menciones asirias.",
+        "interpretacion": "El contraste entre la brevedad bíblica y la grandeza arqueológica es un caso de estudio clásico."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "arqueologia"
+      ]
+    },
+    {
+      "id": "evt-044",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Acab, Jezabel y la batalla de Qarqar",
+      "type": "timeline-event",
+      "summary": "La estela de Kurkh de Salmanasar III registra que Acab de Israel aportó 2.000 carros y 10.000 soldados a la coalición que enfrentó a Asiria en Qarqar (853 a. C.): el contingente más grande de la alianza. El texto bíblico presenta a Acab bajo la sombra de Jezabel.",
+      "era": "era-04",
+      "year_min": -853,
+      "year_max": -853,
+      "date_label": "853 a. C.",
+      "figures": [
+        "Acab",
+        "Jezabel",
+        "Salmanasar III"
+      ],
+      "scripture_refs": [
+        "1 Reyes 16:29–22:40"
+      ],
+      "quote": null,
+      "world_context": "Asiria iniciaba su expansión hacia el oeste; los reinos del Levante formaron coaliciones para detenerla.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Museo Británico, Londres",
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta a Acab negativamente por el culto a Baal, aunque reconoce su poder militar.",
+        "historia": "La evidencia externa indica que Israel era una potencia militar regional de primer orden.",
+        "interpretacion": "Qarqar muestra un Israel mucho más fuerte de lo que sugiere la narrativa bíblica centrada en lo religioso."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "arqueologia",
+        "imperio"
+      ]
+    },
+    {
+      "id": "evt-045",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "El Obelisco Negro: Jehú ante Salmanasar III",
+      "type": "timeline-event",
+      "summary": "El Obelisco Negro de Salmanasar III (c. 827 a. C.) muestra a Jehú, rey de Israel, postrado ante el rey asirio entregando tributo: la representación más antigua de un israelita en el arte. La inscripción lo llama 'Jehú, hijo de Omri'.",
+      "era": "era-04",
+      "year_min": -841,
+      "year_max": -841,
+      "date_label": "c. 841 a. C.",
+      "figures": [
+        "Jehú",
+        "Salmanasar III"
+      ],
+      "scripture_refs": [
+        "2 Reyes 9–10"
+      ],
+      "quote": null,
+      "world_context": "Asiria exigía tributo a los reinos del Levante como alternativa a la destrucción.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Museo Británico, Londres",
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta a Jehú como el ungido que extermina la casa de Acab.",
+        "historia": "La evidencia externa indica que Jehú pagó tributo a Asiria, probablemente para asegurar su golpe de Estado.",
+        "interpretacion": "'Hijo de Omri' era el término asirio para 'rey de Israel', no una filiación literal."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "arqueologia",
+        "imperio"
+      ]
+    },
+    {
+      "id": "evt-046",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Amós y Oseas: profetas del siglo VIII",
+      "type": "timeline-event",
+      "summary": "Amós, pastor de Tecoa, y Oseas profetizaron en el próspero pero injusto Israel del siglo VIII a. C. Sus oráculos contra la opresión del pobre y el culto vacío son la primera gran literatura profética escrita.",
+      "era": "era-04",
+      "year_min": -760,
+      "year_max": -730,
+      "date_label": "c. 760–730 a. C.",
+      "figures": [
+        "Amós",
+        "Oseas",
+        "Jeroboam II"
+      ],
+      "scripture_refs": [
+        "Amós 1–9",
+        "Oseas 1–14"
+      ],
+      "quote": null,
+      "world_context": "Bajo Jeroboam II, Israel alcanzó su máxima extensión territorial y prosperidad... justo antes del embate asirio.",
+      "confidence": "medium",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta a Amós denunciando que 'venden al justo por dinero'.",
+        "historia": "La evidencia externa (marfiles de Samaria, ostraca) confirma una élite rica y una desigualdad marcada.",
+        "interpretacion": "La crítica social de los profetas tiene correlato arqueológico en la cultura material de Samaria."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-047",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Caída de Samaria ante Asiria",
+      "type": "timeline-event",
+      "summary": "Tras tres años de asedio, Samaria cayó ante Asiria en el 722 a. C. y el reino del norte desapareció: parte de la población fue deportada y repoblada con extranjeros. Es el fin de Israel como reino independiente.",
+      "era": "era-04",
+      "year_min": -722,
+      "year_max": -722,
+      "date_label": "722 a. C.",
+      "figures": [
+        "Oseas (rey)",
+        "Salmanasar V",
+        "Sargón II"
+      ],
+      "scripture_refs": [
+        "2 Reyes 17"
+      ],
+      "quote": null,
+      "world_context": "La política asiria de deportaciones masivas buscaba romper identidades nacionales y prevenir rebeliones.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Museo Británico, Londres",
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta la caída como juicio por la idolatría y la violación del pacto.",
+        "historia": "La evidencia externa indica asedio, deportación y repoblación, confirmados por anales asirios.",
+        "interpretacion": "El destino de los deportados originó la leyenda de las 'tribus perdidas'."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "imperio",
+        "arqueologia"
+      ]
+    },
+    {
+      "id": "evt-048",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Senaquerib asedia Jerusalén",
+      "type": "timeline-event",
+      "summary": "En el 701 a. C., Senaquerib devastó Judá y sitió Jerusalén. El texto bíblico presenta la liberación milagrosa de la ciudad; el prisma de Senaquerib presume de haber encerrado a Ezequías 'como pájaro en jaula'. Jerusalén no cayó.",
+      "era": "era-04",
+      "year_min": -701,
+      "year_max": -701,
+      "date_label": "701 a. C.",
+      "figures": [
+        "Ezequías",
+        "Senaquerib",
+        "Isaías"
+      ],
+      "scripture_refs": [
+        "2 Reyes 18–19",
+        "Isaías 36–37"
+      ],
+      "quote": null,
+      "world_context": "Los relieves del palacio de Senaquerib en Nínive muestran con detalle el asedio de Laquis.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Museo Británico, Londres",
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta la muerte de 185.000 asirios en una noche por intervención divina.",
+        "historia": "La evidencia externa indica una campaña real devastadora; ambas fuentes coinciden en que Jerusalén sobrevivió.",
+        "interpretacion": "La causa del levantamiento del asedio (peste, soborno, revuelta) se debate; el hecho del asedio, no."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "arqueologia",
+        "imperio"
+      ]
+    },
+    {
+      "id": "evt-049",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Ezequías y el túnel de Siloé",
+      "type": "timeline-event",
+      "summary": "Para resistir el asedio asirio, Ezequías mandó excavar un túnel de 533 metros que llevó el agua del manantial de Gihón al estanque de Siloé dentro de las murallas. La inscripción de Siloé narra el encuentro de los dos equipos de excavadores.",
+      "era": "era-04",
+      "year_min": -701,
+      "year_max": -701,
+      "date_label": "c. 701 a. C.",
+      "figures": [
+        "Ezequías"
+      ],
+      "scripture_refs": [
+        "2 Reyes 20:20",
+        "2 Crónicas 32:30"
+      ],
+      "quote": null,
+      "world_context": "El control del agua era decisivo en la guerra de asedio del Cercano Oriente antiguo.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "Museos Arqueológicos de Estambul",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta la obra hidráulica entre los logros de Ezequías.",
+        "historia": "La evidencia externa indica una obra de ingeniería real, datada por la inscripción y la cerámica: el túnel existe y se puede recorrer.",
+        "interpretacion": "La inscripción, en hebreo antiguo, es uno de los textos más largos de la época monárquica."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "arqueologia",
+        "narrativa-biblica"
+      ]
+    },
+    {
+      "id": "evt-050",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "La reforma de Josías y el hallazgo del libro",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta que durante reparaciones del Templo (622 a. C.) se halló 'el libro de la ley', lo que desató la gran reforma de Josías: centralización del culto en Jerusalén y purga de la idolatría. Muchos lo identifican con el núcleo de Deuteronomio.",
+      "era": "era-04",
+      "year_min": -622,
+      "year_max": -622,
+      "date_label": "622 a. C.",
+      "figures": [
+        "Josías",
+        "Hilkías",
+        "Hulda"
+      ],
+      "scripture_refs": [
+        "2 Reyes 22–23"
+      ],
+      "quote": null,
+      "world_context": "Asiria se derrumbaba y Egipto intentaba ocupar su lugar: una ventana de independencia para Judá.",
+      "confidence": "medium",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta la lectura pública del libro y el pacto nacional de renovación.",
+        "historia": "La evidencia externa no confirma el hallazgo; la reforma encaja en el vacío de poder tras la caída asiria.",
+        "interpretacion": "La identificación del libro con Deuteronomio es una hipótesis influyente pero debatida."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-051",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Muerte de Josías en Megido",
+      "type": "timeline-event",
+      "summary": "Josías murió en la batalla de Megido (609 a. C.) al intentar detener al faraón Necao II, que marchaba a auxiliar a Asiria contra Babilonia. Su muerte truncó la independencia de Judá y fue llorada como tragedia nacional.",
+      "era": "era-04",
+      "year_min": -609,
+      "year_max": -609,
+      "date_label": "609 a. C.",
+      "figures": [
+        "Josías",
+        "Necao II"
+      ],
+      "scripture_refs": [
+        "2 Reyes 23:29-30",
+        "2 Crónicas 35:20-27"
+      ],
+      "quote": null,
+      "world_context": "Babilonia ascendía como nueva potencia; Egipto y Asiria formaron una alianza desesperada.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta la muerte como lamento nacional que perduró en la memoria.",
+        "historia": "La evidencia externa indica el choque de potencias en el Levante; la batalla se enmarca en la caída del imperio asirio.",
+        "interpretacion": "Tras Josías, Judá quedó a merced de Egipto y luego de Babilonia."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "imperio"
+      ]
+    },
+    {
+      "id": "evt-052",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Jeremías anuncia el juicio sobre Judá",
+      "type": "timeline-event",
+      "summary": "Jeremías profetizó durante los últimos cuarenta años de Judá, anunciando la caída ante Babilonia y llamando a la sumisión como voluntad divina. Fue perseguido, encarcelado y arrojado a una cisterna por su mensaje impopular.",
+      "era": "era-04",
+      "year_min": -627,
+      "year_max": -586,
+      "date_label": "c. 627–586 a. C.",
+      "figures": [
+        "Jeremías",
+        "Baruc"
+      ],
+      "scripture_refs": [
+        "Jeremías 1",
+        "Jeremías 36–38"
+      ],
+      "quote": null,
+      "world_context": "Las cartas de Laquis, escritas en los últimos días de Judá, muestran el pánico ante el avance babilónico.",
+      "confidence": "medium",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Museo Británico, Londres"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta a Baruc, su escriba, poniendo por escrito los oráculos tras la quema del rollo por Joacim.",
+        "historia": "La evidencia externa (cartas de Laquis, sellos con nombres bíblicos) confirma el ambiente de los últimos días del reino.",
+        "interpretacion": "La autenticidad de cada sección del libro de Jeremías se debate intensamente."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "persona",
+        "arqueologia"
+      ]
+    },
+    {
+      "id": "evt-053",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Primera deportación a Babilonia",
+      "type": "timeline-event",
+      "summary": "Tras la rebelión de Joacim, Nabucodonosor II tomó Jerusalén en el 597 a. C. y deportó al rey Joaquín, la corte y los artesanos. Ezequiel estuvo entre los exiliados asentados junto al río Quebar.",
+      "era": "era-05",
+      "year_min": -597,
+      "year_max": -597,
+      "date_label": "597 a. C.",
+      "figures": [
+        "Joaquín",
+        "Nabucodonosor II",
+        "Ezequiel"
+      ],
+      "scripture_refs": [
+        "2 Reyes 24:10-17",
+        "Ezequiel 1:1-3"
+      ],
+      "quote": null,
+      "world_context": "Babilonia aplicaba la deportación selectiva de élites, la misma técnica que había usado Asiria.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Museo Británico, Londres",
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta la deportación como cumplimiento de las advertencias proféticas.",
+        "historia": "La evidencia externa indica deportaciones reales: la Crónica Babilónica registra la toma de Jerusalén en 597.",
+        "interpretacion": "Las tablillas de raciones de Joaquín en Babilonia confirman el trato de la familia real exiliada."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "imperio"
+      ]
+    },
+    {
+      "id": "evt-054",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Caída de Jerusalén y destrucción del Templo",
+      "type": "timeline-event",
+      "summary": "En el verano del 586 a. C., tras un asedio de casi dos años, los babilonios destruyeron Jerusalén y el Templo de Salomón. La élite fue deportada; Judá se convirtió en provincia babilónica. Es el trauma fundacional del judaísmo.",
+      "era": "era-05",
+      "year_min": -586,
+      "year_max": -586,
+      "date_label": "586 a. C.",
+      "figures": [
+        "Sedequías",
+        "Nabucodonosor II",
+        "Nabuzaradán"
+      ],
+      "scripture_refs": [
+        "2 Reyes 25",
+        "Lamentaciones 1"
+      ],
+      "quote": null,
+      "world_context": "La destrucción dejó una capa de ceniza que la arqueología ha identificado en varios puntos de la Ciudad de David.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "Museo Británico, Londres",
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta la catástrofe como juicio divino largamente anunciado.",
+        "historia": "La evidencia externa indica destrucción masiva: la Crónica Babilónica y la arqueología de Jerusalén coinciden.",
+        "interpretacion": "El exilio forzó una reinvención religiosa: sin templo ni rey, la Torá y la sinagoga ganaron centralidad."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "arqueologia",
+        "imperio"
+      ]
+    },
+    {
+      "id": "evt-055",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Las cartas de Laquis",
+      "type": "timeline-event",
+      "summary": "Veintiún ostraca hallados en Laquis (c. 588 a. C.) recogen la correspondencia militar de los últimos días de Judá: puestos de vigilancia que dejan de responder, el avance babilónico y la angustia de los defensores. Están escritos en hebreo clásico.",
+      "era": "era-05",
+      "year_min": -588,
+      "year_max": -588,
+      "date_label": "c. 588 a. C.",
+      "figures": [],
+      "scripture_refs": [
+        "Jeremías 34:7"
+      ],
+      "quote": null,
+      "world_context": "Laquis era la segunda ciudad fortificada de Judá después de Jerusalén.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Museo Británico, Londres",
+        "Museo de Israel, Jerusalén",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "layers": {
+        "texto": "El texto bíblico menciona Laquis entre las últimas ciudades en resistir (Jeremías 34:7).",
+        "historia": "La evidencia externa indica una red de señales de fuego entre fortalezas, tal como describen las cartas.",
+        "interpretacion": "Son la voz más directa de los protagonistas del desastre: soldados, no reyes ni profetas."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "arqueologia"
+      ]
+    },
+    {
+      "id": "evt-056",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Ezequiel entre los exiliados",
+      "type": "timeline-event",
+      "summary": "Ezequiel, sacerdote deportado en el 597 a. C., profetizó junto al río Quebar en Babilonia. Sus visiones —el valle de los huesos secos, el templo futuro— dieron esperanza a los exiliados y forma teológica a la restauración.",
+      "era": "era-05",
+      "year_min": -593,
+      "year_max": -571,
+      "date_label": "c. 593–571 a. C.",
+      "figures": [
+        "Ezequiel"
+      ],
+      "scripture_refs": [
+        "Ezequiel 1",
+        "Ezequiel 37"
+      ],
+      "quote": null,
+      "world_context": "Los exiliados de Judá vivían en comunidades agrícolas como Tel Abib, con notable autonomía interna.",
+      "confidence": "medium",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta visiones de enorme fuerza visual: ruedas, huesos, un río que sale del templo.",
+        "historia": "La evidencia externa confirma comunidades judías organizadas en Babilonia (archivos Murashu, un siglo después).",
+        "interpretacion": "Ezequiel es clave para entender cómo el exilio transformó la religión de Israel."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-057",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Daniel en la corte de Babilonia",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta a Daniel y sus compañeros como jóvenes judíos educados en la corte babilónica que alcanzan altos cargos sin renunciar a su fe. Sus relatos —el foso de los leones, el horno— y sus visiones apocalípticas marcaron la literatura posterior.",
+      "era": "era-05",
+      "year_min": -605,
+      "year_max": -530,
+      "date_label": "Época del exilio (marco tradicional)",
+      "figures": [
+        "Daniel"
+      ],
+      "scripture_refs": [
+        "Daniel 1–6"
+      ],
+      "quote": null,
+      "world_context": "Babilonia formaba a jóvenes de las élites extranjeras en su administración, práctica documentada en sus archivos.",
+      "confidence": "low",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta los relatos de corte en arameo y las visiones en un estilo apocalíptico.",
+        "historia": "La evidencia externa no documenta a Daniel; la corte babilónica descrita coincide con lo conocido por los archivos.",
+        "interpretacion": "La fecha de composición del libro (época babilónica o macabea) es uno de los grandes debates."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-058",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Nabucodonosor II y la Babilonia imperial",
+      "type": "timeline-event",
+      "summary": "Nabucodonosor II (605–562 a. C.) convirtió Babilonia en la ciudad más espléndida del mundo antiguo: la puerta de Ishtar, los jardines colgantes de la leyenda y el zigurat Etemenanki. Sus anales registran campañas hasta el Mediterráneo.",
+      "era": "era-05",
+      "year_min": -605,
+      "year_max": -562,
+      "date_label": "605–562 a. C.",
+      "figures": [
+        "Nabucodonosor II"
+      ],
+      "scripture_refs": [
+        "2 Reyes 24–25",
+        "Daniel 4"
+      ],
+      "quote": null,
+      "world_context": "La Babilonia de Nabucodonosor tenía unos 200.000 habitantes y murallas entre las maravillas de la antigüedad.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Museo Británico, Londres",
+        "Museo de Pérgamo (Vorderasiatisches Museum), Berlín",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "layers": {
+        "texto": "El texto bíblico lo presenta como instrumento del juicio divino y, en Daniel, como rey humillado y restaurado.",
+        "historia": "La evidencia externa indica un constructor incansable: miles de ladrillos llevan su nombre.",
+        "interpretacion": "Su imagen bíblica de déspota contrasta con la de gran administrador en las fuentes babilónicas."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "mundo",
+        "imperio",
+        "arqueologia"
+      ]
+    },
+    {
+      "id": "evt-059",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Ciro toma Babilonia: el Cilindro de Ciro",
+      "type": "timeline-event",
+      "summary": "En el 539 a. C., Ciro el Grande tomó Babilonia casi sin resistencia. Su famoso cilindro de arcilla proclama una política de tolerancia: restaurar templos y devolver dioses —y pueblos— a sus tierras. El texto bíblico lo llama 'ungido' de Dios.",
+      "era": "era-05",
+      "year_min": -539,
+      "year_max": -539,
+      "date_label": "539 a. C.",
+      "figures": [
+        "Ciro el Grande"
+      ],
+      "scripture_refs": [
+        "Isaías 45:1",
+        "Esdras 1:1-4"
+      ],
+      "quote": null,
+      "world_context": "La caída de Babilonia se debió en parte al descontento con Nabónido, que había descuidado el culto a Marduk.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Museo Británico, Londres",
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta a Ciro como instrumento divino para la restauración de Judá.",
+        "historia": "La evidencia externa indica una política imperial real de repatriaciones; el cilindro se conserva en el Museo Británico.",
+        "interpretacion": "El cilindro no menciona a los judíos por nombre: era un edicto general, no un favor particular."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "arqueologia",
+        "imperio",
+        "narrativa-biblica"
+      ]
+    },
+    {
+      "id": "evt-060",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "El edicto de Ciro y el retorno",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta el decreto de Ciro (538 a. C.) autorizando a los judíos a regresar y reconstruir el Templo. Un primer grupo volvió bajo Sesbasar y Zorobabel. Muchos exiliados, sin embargo, permanecieron en Babilonia.",
+      "era": "era-05",
+      "year_min": -538,
+      "year_max": -538,
+      "date_label": "538 a. C.",
+      "figures": [
+        "Ciro el Grande",
+        "Zorobabel",
+        "Sesbasar"
+      ],
+      "scripture_refs": [
+        "Esdras 1",
+        "2 Crónicas 36:22-23"
+      ],
+      "quote": null,
+      "world_context": "El imperio persa organizaba sus territorios en satrapías con amplia autonomía local: Judá fue la satrapía de Yehud.",
+      "confidence": "medium",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Museo Británico, Londres"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta el edicto en hebreo y arameo, con inventario de los utensilios del Templo devueltos.",
+        "historia": "La evidencia externa no conserva el decreto específico para Judá, pero la política persa de restauraciones está documentada.",
+        "interpretacion": "El retorno fue gradual y parcial: la diáspora babilónica siguió siendo numerosa e influyente."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "imperio"
+      ]
+    },
+    {
+      "id": "evt-061",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Zorobabel y el Segundo Templo",
+      "type": "timeline-event",
+      "summary": "Bajo Zorobabel y el sumo sacerdote Josué, los retornados reconstruyeron el Templo, dedicado en el 516 a. C. El texto bíblico presenta el llanto de los ancianos que habían visto el primero y la alegría de los jóvenes.",
+      "era": "era-05",
+      "year_min": -520,
+      "year_max": -516,
+      "date_label": "c. 520–516 a. C.",
+      "figures": [
+        "Zorobabel",
+        "Josué",
+        "Hageo",
+        "Zacarías"
+      ],
+      "scripture_refs": [
+        "Esdras 3–6",
+        "Hageo 1–2"
+      ],
+      "quote": null,
+      "world_context": "Darío I consolidaba el imperio persa con una administración eficiente que favorecía la estabilidad local.",
+      "confidence": "medium",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta la oposición de los samaritanos y la intervención final de Darío a favor de la obra.",
+        "historia": "La evidencia externa no ha identificado restos seguros del Segundo Templo temprano bajo la explanada actual.",
+        "interpretacion": "El templo reconstruido fue más modesto; su esplendor llegaría con Herodes, cinco siglos después."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica"
+      ]
+    },
+    {
+      "id": "evt-062",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Ester en la corte de Susa",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta a Ester, judía que llega a reina de Persia, frustrando el plan de Amán de exterminar a los judíos. La fiesta de Purim conmemora la liberación. El libro no menciona a Dios por nombre, algo único en la Biblia.",
+      "era": "era-05",
+      "year_min": -480,
+      "year_max": -460,
+      "date_label": "Época persa (marco tradicional; historicidad debatida)",
+      "figures": [
+        "Ester",
+        "Mardoqueo",
+        "Amán",
+        "Asuero"
+      ],
+      "scripture_refs": [
+        "Ester 1–10"
+      ],
+      "quote": null,
+      "world_context": "Susa era una de las capitales persas; su palacio ha sido excavado por arqueólogos franceses.",
+      "confidence": "disputed",
+      "certainty": "disputed",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Museo del Louvre, París — Departamento de Antigüedades Orientales"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta una trama cortesana de intriga, banquetes y reversos de fortuna.",
+        "historia": "La evidencia externa no confirma los personajes; ningún rey persa tuvo una reina llamada Ester según los registros.",
+        "interpretacion": "Las lecturas van de la historia novelada a la fiesta de origen posterior con ropaje persa."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-063",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Esdras y la lectura pública de la Ley",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta a Esdras, escriba llegado de Babilonia, leyendo la Ley ante todo el pueblo reunido en Jerusalén, con los levitas explicando el sentido. Es la escena fundacional de la lectura pública de las Escrituras.",
+      "era": "era-05",
+      "year_min": -458,
+      "year_max": -398,
+      "date_label": "Fecha debatida (458 o 398 a. C.)",
+      "figures": [
+        "Esdras",
+        "Nehemías"
+      ],
+      "scripture_refs": [
+        "Nehemías 8"
+      ],
+      "quote": null,
+      "world_context": "El imperio persa promovía códigos legales locales escritos: la 'ley de tu Dios y la ley del rey'.",
+      "confidence": "medium",
+      "certainty": "disputed",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta al pueblo llorando al oír la Ley y luego celebrando la fiesta de los Tabernáculos.",
+        "historia": "La evidencia externa no documenta la misión; la figura del escriba imperial es plausible en el contexto persa.",
+        "interpretacion": "La fecha de Esdras (antes o después de Nehemías) es uno de los debates clásicos."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-064",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Nehemías reconstruye los muros de Jerusalén",
+      "type": "timeline-event",
+      "summary": "Nehemías, copero del rey persa Artajerjes, obtuvo permiso para reconstruir los muros de Jerusalén. El texto bíblico presenta la obra terminada en 52 días pese a la oposición de los gobernadores vecinos. Sus memorias son una fuente de primera mano única.",
+      "era": "era-05",
+      "year_min": -445,
+      "year_max": -445,
+      "date_label": "445 a. C.",
+      "figures": [
+        "Nehemías",
+        "Sanbalat",
+        "Tobías"
+      ],
+      "scripture_refs": [
+        "Nehemías 1–6"
+      ],
+      "quote": null,
+      "world_context": "Los muros definían la ciudad legal y fiscal en el imperio persa: sin murallas no había plena autonomía urbana.",
+      "confidence": "medium",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta turnos de trabajo con la espada en una mano y la herramienta en la otra.",
+        "historia": "La evidencia externa ha identificado tramos de muralla persa en la Ciudad de David; la cronología exacta se debate.",
+        "interpretacion": "Las memorias de Nehemías se consideran entre los textos más cercanos a los hechos en la Biblia hebrea."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "arqueologia",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-065",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Los papiros de Elefantina: judíos en Egipto",
+      "type": "timeline-event",
+      "summary": "Una guarnición judía en la isla de Elefantina (sur de Egipto) dejó un archivo de papiros en arameo (siglo V a. C.): tenían su propio templo a Yahvé, escribían a Jerusalén y se casaban con egipcias. Revelan un judaísmo muy distinto al de los textos bíblicos.",
+      "era": "era-05",
+      "year_min": -500,
+      "year_max": -400,
+      "date_label": "c. 500–400 a. C.",
+      "figures": [],
+      "scripture_refs": [],
+      "quote": null,
+      "world_context": "Persia usaba guarniciones de mercenarios extranjeros para custodiar su frontera sur en Egipto.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Museo Egipcio, Berlín",
+        "Museo Británico, Londres",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "layers": {
+        "texto": "El texto bíblico no los menciona; son evidencia externa independiente.",
+        "historia": "La evidencia externa indica una comunidad judía real con templo propio, algo impensable según Deuteronomio.",
+        "interpretacion": "Muestran la diversidad del judaísmo antiguo frente a la imagen uniforme de los textos."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "arqueologia",
+        "mundo"
+      ]
+    },
+    {
+      "id": "evt-066",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Alejandro Magno y la llegada del helenismo",
+      "type": "timeline-event",
+      "summary": "Alejandro Magno conquistó el imperio persa y Judea pasó a la órbita griega (332 a. C.). El griego se convirtió en la lengua del comercio y la cultura, y la Biblia hebrea se tradujo al griego (la Septuaginta) en Alejandría.",
+      "era": "era-06",
+      "year_min": -336,
+      "year_max": -323,
+      "date_label": "336–323 a. C.",
+      "figures": [
+        "Alejandro Magno"
+      ],
+      "scripture_refs": [
+        "Daniel 8",
+        "Zacarías 9"
+      ],
+      "quote": null,
+      "world_context": "Alejandría, fundada por Alejandro en Egipto, se convirtió en el mayor centro cultural del mundo antiguo.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Oxford University Press — obras de referencia de historia antigua",
+        "Museo Metropolitano de Arte, Nueva York",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico alude a Grecia en las visiones de Daniel como el 'macho cabrío' veloz.",
+        "historia": "La evidencia externa indica una helenización profunda: monedas, gimnasios y nombres griegos en Judea.",
+        "interpretacion": "El Nuevo Testamento se escribió en griego precisamente por este mundo helenístico."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "mundo",
+        "imperio"
+      ]
+    },
+    {
+      "id": "evt-067",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "La revuelta macabea y la fiesta de Janucá",
+      "type": "timeline-event",
+      "summary": "Antíoco IV Epífanes prohibió el judaísmo y profanó el Templo; la familia de Matatías se rebeló y Judas Macabeo retomó Jerusalén en el 164 a. C. La purificación del Templo se conmemora en Janucá, la fiesta de las luces.",
+      "era": "era-06",
+      "year_min": -167,
+      "year_max": -160,
+      "date_label": "167–160 a. C.",
+      "figures": [
+        "Matatías",
+        "Judas Macabeo",
+        "Antíoco IV"
+      ],
+      "scripture_refs": [
+        "Daniel 11",
+        "Juan 10:22"
+      ],
+      "quote": null,
+      "world_context": "El imperio seléucida intentaba unificar su reino con la cultura griega como pegamento.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua",
+        "Museo de Israel, Jerusalén"
+      ],
+      "layers": {
+        "texto": "El texto bíblico no narra la revuelta (está en los libros de los Macabeos); Juan 10:22 menciona la fiesta de la Dedicación.",
+        "historia": "La evidencia externa indica una guerra real de guerrillas y un reino asmoneo independiente posterior.",
+        "interpretacion": "Fue la última independencia judía antes de 1948: por eso es memoria nacional en Israel."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "mundo"
+      ]
+    },
+    {
+      "id": "evt-068",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Pompeyo toma Jerusalén",
+      "type": "timeline-event",
+      "summary": "El general romano Pompeyo tomó Jerusalén en el 63 a. C., interviniendo en una guerra civil entre los últimos asmonenos. Judea pasó a la órbita de Roma: comenzaba la era que enmarcaría la vida de Jesús.",
+      "era": "era-06",
+      "year_min": -63,
+      "year_max": -63,
+      "date_label": "63 a. C.",
+      "figures": [
+        "Pompeyo",
+        "Hircano II",
+        "Aristóbulo II"
+      ],
+      "scripture_refs": [],
+      "quote": null,
+      "world_context": "Roma estaba en plena expansión republicana: el mismo Pompeyo había sometido el Ponto y Siria.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Oxford University Press — obras de referencia de historia antigua",
+        "Anchor Yale Bible Dictionary",
+        "Museo Metropolitano de Arte, Nueva York"
+      ],
+      "layers": {
+        "texto": "El texto bíblico no lo narra; lo cuentan los historiadores Josefo y los autores romanos.",
+        "historia": "La evidencia externa indica la entrada de Pompeyo al Lugar Santísimo y un tributo impuesto a Judea.",
+        "interpretacion": "La llegada de Roma creó el marco político de todo el Nuevo Testamento."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "mundo",
+        "imperio"
+      ]
+    },
+    {
+      "id": "evt-069",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Herodes el Grande reconstruye el Templo",
+      "type": "timeline-event",
+      "summary": "Herodes el Grande (37–4 a. C.), rey cliente de Roma, reconstruyó el Templo de Jerusalén a escala monumental: una explanada de 144.000 m² con muros de contención, cuyo Muro Occidental sobrevive hoy. También construyó Cesarea, Masada y el Herodión.",
+      "era": "era-06",
+      "year_min": -20,
+      "year_max": -19,
+      "date_label": "Obras desde c. 20–19 a. C.; reinado 37–4 a. C.",
+      "figures": [
+        "Herodes el Grande"
+      ],
+      "scripture_refs": [
+        "Mateo 2",
+        "Lucas 1:5",
+        "Juan 2:20"
+      ],
+      "quote": null,
+      "world_context": "Augusto transformaba Roma en mármol; Herodes hizo lo propio en Judea con arquitectura grecorromana.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "Oxford University Press — obras de referencia de historia antigua",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta a Herodes en el relato de la matanza de los inocentes (Mateo 2).",
+        "historia": "La evidencia externa indica un constructor colosal: sus obras se excavan y visitan hoy.",
+        "interpretacion": "Su reinado mezcla esplendor arquitectónico y brutalidad política documentada por Josefo."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "arqueologia",
+        "imperio",
+        "narrativa-biblica"
+      ]
+    },
+    {
+      "id": "evt-070",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "El censo de Quirino",
+      "type": "timeline-event",
+      "summary": "Lucas sitúa el nacimiento de Jesús durante un censo de Quirino, gobernador de Siria. La fecha es debatida: el censo documentado de Quirino es del 6 d. C., posterior a la muerte de Herodes (4 a. C.), lo que genera un conocido problema cronológico.",
+      "era": "era-06",
+      "year_min": -4,
+      "year_max": 6,
+      "date_label": "Fecha debatida (entre 4 a. C. y 6 d. C.)",
+      "figures": [
+        "Quirino",
+        "Augusto"
+      ],
+      "scripture_refs": [
+        "Lucas 2:1-5"
+      ],
+      "quote": null,
+      "world_context": "Roma realizaba censos provinciales para impuestos; el de Quirino provocó la revuelta de Judas el Galileo.",
+      "confidence": "disputed",
+      "certainty": "disputed",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta el viaje de José y María de Nazaret a Belén por el empadronamiento.",
+        "historia": "La evidencia externa documenta el censo de Quirino en el 6 d. C., tras la destitución de Arquelao.",
+        "interpretacion": "No existe consenso: las propuestas van de un censo anterior no documentado a un uso teológico de Lucas."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "imperio"
+      ]
+    },
+    {
+      "id": "evt-071",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Nacimiento de Jesús en Belén",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta el nacimiento de Jesús en Belén, la ciudad de David, hijo de María. Mateo y Lucas ofrecen relatos de la infancia con énfasis distintos; Marcos y Juan comienzan con el ministerio adulto.",
+      "era": "era-06",
+      "year_min": -6,
+      "year_max": -4,
+      "date_label": "c. 6–4 a. C. (fecha tradicional; debatida)",
+      "figures": [
+        "Jesús",
+        "María",
+        "José"
+      ],
+      "scripture_refs": [
+        "Mateo 1–2",
+        "Lucas 1–2"
+      ],
+      "quote": {
+        "text": "Que os ha nacido hoy, en la ciudad de David, un Salvador, que es Cristo el Señor.",
+        "ref": "Lucas 2:11"
+      },
+      "world_context": "El mundo mediterráneo vivía la 'paz romana' de Augusto, con rutas seguras y lengua griega común.",
+      "confidence": "disputed",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta genealogías, el anuncio a los pastores y la visita de los magos.",
+        "historia": "La evidencia externa no documenta el nacimiento; la fecha se calcula por la muerte de Herodes y otros indicios.",
+        "interpretacion": "La fecha exacta (y el año del calendario cristiano) es convencional, no documentada."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-072",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Juan el Bautista en el Jordán",
+      "type": "timeline-event",
+      "summary": "Juan el Bautista predicó el arrepentimiento y bautizó en el Jordán, atrayendo multitudes y la atención de Herodes Antipas, que lo encarceló y ejecutó. El historiador judío Josefo lo menciona como figura popular.",
+      "era": "era-06",
+      "year_min": 26,
+      "year_max": 30,
+      "date_label": "c. 26–30 d. C.",
+      "figures": [
+        "Juan el Bautista",
+        "Herodes Antipas"
+      ],
+      "scripture_refs": [
+        "Marcos 1:1-8",
+        "Lucas 3:1-20"
+      ],
+      "quote": null,
+      "world_context": "Los movimientos bautismales eran frecuentes en el judaísmo del Segundo Templo; Qumrán practicaba abluciones rituales.",
+      "confidence": "medium",
+      "certainty": "consensus",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta a Juan como el precursor que bautiza a Jesús.",
+        "historia": "La evidencia externa (Josefo, Antigüedades 18) confirma a Juan como figura histórica ejecutada por Antipas.",
+        "interpretacion": "Es uno de los pocos personajes del Nuevo Testamento atestiguados por una fuente no cristiana del siglo I."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-073",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "El ministerio de Jesús en Galilea",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta unos tres años de ministerio centrado en Galilea: parábolas, milagros y el Sermón del Monte, con Cafarnaúm como base. Su mensaje del Reino de Dios atrajo multitudes y oposición creciente.",
+      "era": "era-06",
+      "year_min": 27,
+      "year_max": 30,
+      "date_label": "c. 27–30 d. C.",
+      "figures": [
+        "Jesús",
+        "Pedro",
+        "María Magdalena"
+      ],
+      "scripture_refs": [
+        "Marcos 1–9",
+        "Mateo 5–7",
+        "Lucas 4–9"
+      ],
+      "quote": {
+        "text": "Así alumbre vuestra luz delante de los hombres, para que vean vuestras obras buenas, y glorifiquen á vuestro Padre que está en los cielos.",
+        "ref": "Mateo 5:16"
+      },
+      "world_context": "Galilea era una región judía próspera bajo Herodes Antipas, que construía las ciudades helenizadas de Séforis y Tiberíades.",
+      "confidence": "medium",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta parábolas, controversias con fariseos y la confesión de Pedro en Cesarea de Filipo.",
+        "historia": "La evidencia externa confirma el escenario: sinagogas galileas del siglo I y la barca de Genesaret hallada en 1986.",
+        "interpretacion": "La cronología exacta del ministerio (uno o tres años) depende de cómo se lea Juan."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "persona",
+        "arqueologia"
+      ]
+    },
+    {
+      "id": "evt-074",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "La inscripción de Pilato en Cesarea",
+      "type": "timeline-event",
+      "summary": "Una inscripción en piedra hallada en Cesarea Marítima (1961) nombra a 'Poncio Pilato, prefecto de Judea': la única evidencia contemporánea del juez de Jesús. Confirma su título exacto, 'prefecto', no 'procurador'.",
+      "era": "era-06",
+      "year_min": 26,
+      "year_max": 36,
+      "date_label": "26–36 d. C. (prefectura de Pilato)",
+      "figures": [
+        "Poncio Pilato"
+      ],
+      "scripture_refs": [
+        "Mateo 27",
+        "Juan 18–19"
+      ],
+      "quote": null,
+      "world_context": "Cesarea era la capital administrativa romana de Judea, con puerto artificial y templo a Augusto.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Museo de Israel, Jerusalén",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta el juicio ante Pilato durante la Pascua.",
+        "historia": "La evidencia externa indica un prefecto real del orden ecuestre, conocido también por monedas y por Filón y Josefo.",
+        "interpretacion": "La inscripción corrigió el título que daban los textos posteriores: prefecto, no procurador."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "arqueologia"
+      ]
+    },
+    {
+      "id": "evt-075",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "La última semana en Jerusalén",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta la entrada a Jerusalén, la purificación del Templo, la última cena pascual con sus discípulos y la oración en Getsemaní. La cronología de la semana difiere ligeramente entre los evangelios sinópticos y Juan.",
+      "era": "era-06",
+      "year_min": 30,
+      "year_max": 33,
+      "date_label": "c. 30 o 33 d. C. (año debatido)",
+      "figures": [
+        "Jesús",
+        "Pedro",
+        "Judas Iscariote",
+        "Caifás"
+      ],
+      "scripture_refs": [
+        "Marcos 11–14",
+        "Juan 12–17"
+      ],
+      "quote": null,
+      "world_context": "La Pascua reunía decenas de miles de peregrinos; la guarnición romana se reforzaba ante el riesgo de disturbios.",
+      "confidence": "medium",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta la institución de la cena memorial durante la Pascua judía.",
+        "historia": "La evidencia externa confirma el contexto: prefecto romano, sumo sacerdocio saduceo y peregrinación masiva.",
+        "interpretacion": "El año exacto (30 o 33) depende de cálculos astronómicos sobre la Pascua y de Tiberio."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-076",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Crucifixión y resurrección de Jesús",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta la crucifixión bajo Poncio Pilato y, al tercer día, la tumba vacía y las apariciones del Resucitado. Es el centro de la fe cristiana y el evento más debatido entre historia y teología.",
+      "era": "era-06",
+      "year_min": 30,
+      "year_max": 33,
+      "date_label": "c. 30 o 33 d. C. (año debatido)",
+      "figures": [
+        "Jesús",
+        "Poncio Pilato",
+        "María Magdalena"
+      ],
+      "scripture_refs": [
+        "Marcos 15–16",
+        "Juan 19–20",
+        "1 Corintios 15:3-8"
+      ],
+      "quote": null,
+      "world_context": "La crucifixión era el suplicio romano para esclavos y rebeldes; Tácito menciona la ejecución bajo Pilato.",
+      "confidence": "medium",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta el credo de 1 Corintios 15 como tradición recibida pocos años después de los hechos.",
+        "historia": "La evidencia externa confirma la crucifixión bajo Pilato (Tácito, Josefo); la resurrección pertenece al ámbito de la fe.",
+        "interpretacion": "Los historiadores distinguen entre el hecho de la ejecución (ampliamente aceptado) y su significado teológico."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-077",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Los rollos del Mar Muerto en Qumrán",
+      "type": "timeline-event",
+      "summary": "Entre 1947 y 1956 se hallaron en cuevas de Qumrán unos 900 manuscritos: copias bíblicas mil años más antiguas que las conocidas, más reglas y comentarios de una comunidad judía del Segundo Templo. Revolucionaron el estudio de la Biblia hebrea.",
+      "era": "era-06",
+      "year_min": -250,
+      "year_max": 68,
+      "date_label": "Textos c. 250 a. C.–68 d. C.; hallazgo 1947–1956",
+      "figures": [],
+      "scripture_refs": [],
+      "quote": null,
+      "world_context": "La comunidad de Qumrán vivió el paso del helenismo a Roma esperando un fin de los tiempos inminente.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Museo de Israel, Jerusalén",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "layers": {
+        "texto": "El texto bíblico no los menciona; son el contexto judío más cercano al Nuevo Testamento.",
+        "historia": "La evidencia externa indica una transmisión bíblica notablemente estable durante mil años.",
+        "interpretacion": "Muestran la diversidad del judaísmo en tiempos de Jesús: fariseos, saduceos, esenios y más."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "arqueologia",
+        "mundo"
+      ]
+    },
+    {
+      "id": "evt-078",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "La destrucción del Segundo Templo",
+      "type": "timeline-event",
+      "summary": "En el 70 d. C., tras cuatro años de revuelta judía, Tito tomó Jerusalén y destruyó el Templo de Herodes. El arco de Tito en Roma muestra el botín: la menorá y las trompetas. El judaísmo rabínico nació de esta catástrofe.",
+      "era": "era-06",
+      "year_min": 70,
+      "year_max": 70,
+      "date_label": "70 d. C.",
+      "figures": [
+        "Tito",
+        "Josefo"
+      ],
+      "scripture_refs": [
+        "Marcos 13",
+        "Lucas 21"
+      ],
+      "quote": null,
+      "world_context": "La guerra judía (66–73 d. C.) incluyó el asedio de Masada, cuyo final narró Josefo.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "Oxford University Press — obras de referencia de historia antigua",
+        "Museo Metropolitano de Arte, Nueva York"
+      ],
+      "layers": {
+        "texto": "El texto bíblico (evangelios) presenta la predicción de la destrucción del Templo.",
+        "historia": "La evidencia externa indica destrucción total: Josefo la narró como testigo; la arqueología la confirma.",
+        "interpretacion": "Sin templo, el cristianismo y el judaísmo rabínico redefinieron por separado su identidad."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "arqueologia",
+        "imperio",
+        "narrativa-biblica"
+      ]
+    },
+    {
+      "id": "evt-079",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Pentecostés y la iglesia en Jerusalén",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta el derramamiento del Espíritu en Pentecostés y el sermón de Pedro con unas 3.000 conversiones. La comunidad compartía bienes y se reunía en el Templo y por las casas.",
+      "era": "era-07",
+      "year_min": 30,
+      "year_max": 33,
+      "date_label": "c. 30–33 d. C.",
+      "figures": [
+        "Pedro",
+        "Juan"
+      ],
+      "scripture_refs": [
+        "Hechos 2–4"
+      ],
+      "quote": {
+        "text": "Mas recibiréis la virtud del Espíritu Santo que vendrá sobre vosotros; y me seréis testigos en Jerusalem, y en toda Judea y Samaria, y hasta lo último de la tierra.",
+        "ref": "Hechos 1:8"
+      },
+      "world_context": "Jerusalén en fiesta reunía judíos de toda la diáspora: partos, medos, egipcios y romanos.",
+      "confidence": "medium",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta la lista de naciones como mapa de la misión universal.",
+        "historia": "La evidencia externa no documenta el evento; la existencia de la comunidad jerosolimitana es aceptada.",
+        "interpretacion": "Hechos es tanto historia como teología de la expansión cristiana."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica"
+      ]
+    },
+    {
+      "id": "evt-080",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Esteban, primer mártir, y la dispersión",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta el discurso de Esteban ante el Sanedrín y su lapidación, con Saulo aprobando. La persecución dispersó a los creyentes por Judea y Samaria, extendiendo paradójicamente el mensaje.",
+      "era": "era-07",
+      "year_min": 31,
+      "year_max": 35,
+      "date_label": "c. 31–35 d. C.",
+      "figures": [
+        "Esteban",
+        "Saulo (Pablo)"
+      ],
+      "scripture_refs": [
+        "Hechos 6–8"
+      ],
+      "quote": null,
+      "world_context": "La lapidación era el castigo judío por la blasfemia según la ley mosaica.",
+      "confidence": "medium",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta el discurso de Esteban como repaso de la historia de Israel.",
+        "historia": "La evidencia externa no documenta el proceso; el conflicto interno judío del siglo I es histórico.",
+        "interpretacion": "La dispersión marca el paso de un movimiento jerosolimitano a una misión regional."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-081",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "La conversión de Saulo en Damasco",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta al perseguidor Saulo derribado camino a Damasco por una luz del cielo y la voz de Jesús. Bautizado por Ananías, se convirtió en Pablo, el apóstol a los gentiles y autor de gran parte del Nuevo Testamento.",
+      "era": "era-07",
+      "year_min": 33,
+      "year_max": 36,
+      "date_label": "c. 33–36 d. C.",
+      "figures": [
+        "Pablo",
+        "Ananías"
+      ],
+      "scripture_refs": [
+        "Hechos 9",
+        "Gálatas 1:11-17"
+      ],
+      "quote": null,
+      "world_context": "Damasco era una metrópoli comercial con una importante comunidad judía de la diáspora.",
+      "confidence": "medium",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta tres relatos del evento (Hechos 9, 22 y 26) con detalles complementarios.",
+        "historia": "La evidencia externa no documenta el evento; el cambio de Saulo a Pablo es aceptado por sus propias cartas.",
+        "interpretacion": "Pablo mismo lo describe como revelación y llamado, no solo como cambio de ideas."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-082",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Pedro y Cornelio: el evangelio a los gentiles",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta la visión de Pedro en Jope y su visita al centurión Cornelio en Cesarea, donde el Espíritu cae sobre gentiles. Fue el precedente teológico para la misión sin circuncisión.",
+      "era": "era-07",
+      "year_min": 38,
+      "year_max": 42,
+      "date_label": "c. 40 d. C.",
+      "figures": [
+        "Pedro",
+        "Cornelio"
+      ],
+      "scripture_refs": [
+        "Hechos 10–11"
+      ],
+      "quote": null,
+      "world_context": "Cesarea era sede del prefecto romano y de cohortes auxiliares como la Itálica de Cornelio.",
+      "confidence": "medium",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta la conclusión de Pedro: 'Dios no hace acepción de personas'.",
+        "historia": "La evidencia externa confirma el marco: centuriones y cohortes en Cesarea están documentados.",
+        "interpretacion": "El episodio legitimó la misión gentil antes del concilio de Jerusalén."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-083",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "El concilio de Jerusalén",
+      "type": "timeline-event",
+      "summary": "Hacia el 49 d. C., apóstoles y ancianos se reunieron en Jerusalén para decidir si los gentiles debían circuncidarse. El texto bíblico presenta el acuerdo: no imponer la ley mosaica, solo unas abstinencias básicas. Fue la primera gran decisión colectiva de la Iglesia.",
+      "era": "era-07",
+      "year_min": 48,
+      "year_max": 50,
+      "date_label": "c. 49 d. C.",
+      "figures": [
+        "Pedro",
+        "Pablo",
+        "Santiago (el Justo)"
+      ],
+      "scripture_refs": [
+        "Hechos 15",
+        "Gálatas 2"
+      ],
+      "quote": null,
+      "world_context": "La circuncisión era la marca de identidad judía más visible y polémica en el mundo grecorromano.",
+      "confidence": "medium",
+      "certainty": "consensus",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Eerdmans Dictionary of the Bible"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta el discurso de Santiago citando a Amós 9 sobre la restauración de la tienda de David.",
+        "historia": "La evidencia externa no documenta la reunión; Pablo la menciona en Gálatas, lo que la respalda indirectamente.",
+        "interpretacion": "Sin esta decisión, el cristianismo habría quedado como secta judía."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica"
+      ]
+    },
+    {
+      "id": "evt-084",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Pablo en Corinto y la inscripción de Galión",
+      "type": "timeline-event",
+      "summary": "Una inscripción en Delfos menciona a Galión como procónsul de Acaya, lo que permite fechar la estancia de Pablo en Corinto hacia el 51–52 d. C. Es el punto de anclaje cronológico más firme de la vida de Pablo.",
+      "era": "era-07",
+      "year_min": 51,
+      "year_max": 52,
+      "date_label": "51–52 d. C.",
+      "figures": [
+        "Pablo",
+        "Galión"
+      ],
+      "scripture_refs": [
+        "Hechos 18:12-17"
+      ],
+      "quote": null,
+      "world_context": "Corinto, refundada por Roma, era una ciudad comercial cosmopolita famosa por su diversidad religiosa.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Museo Arqueológico de Delfos, Grecia",
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta a Galión desestimando la acusación contra Pablo como asunto interno judío.",
+        "historia": "La evidencia externa indica que Galión fue procónsul en 51–52 d. C.: la inscripción de Delfos lo confirma.",
+        "interpretacion": "Desde esta fecha se calculan las demás etapas de los viajes paulinos."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "arqueologia",
+        "narrativa-biblica"
+      ]
+    },
+    {
+      "id": "evt-085",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Pablo en Éfeso y el tumulto de Demetrio",
+      "type": "timeline-event",
+      "summary": "Pablo pasó unos tres años en Éfeso, tercera ciudad del imperio. El texto bíblico presenta el tumulto del platero Demetrio, que veía peligrar el negocio de templetes de Artemisa. El teatro de Éfeso, donde gritaron '¡Grande es Artemisa!', aún se visita.",
+      "era": "era-07",
+      "year_min": 53,
+      "year_max": 56,
+      "date_label": "c. 53–56 d. C.",
+      "figures": [
+        "Pablo",
+        "Demetrio"
+      ],
+      "scripture_refs": [
+        "Hechos 19"
+      ],
+      "quote": null,
+      "world_context": "El Artemision de Éfeso era una de las siete maravillas del mundo antiguo.",
+      "confidence": "medium",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta al escribano de la ciudad calmando a la multitud con un discurso legal.",
+        "historia": "La evidencia externa confirma el teatro, el culto a Artemisa y los gremios de plateros efesios.",
+        "interpretacion": "El episodio muestra el choque económico y religioso de la misión cristiana."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "arqueologia"
+      ]
+    },
+    {
+      "id": "evt-086",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Pablo, prisionero rumbo a Roma",
+      "type": "timeline-event",
+      "summary": "Arrestado en Jerusalén, Pablo apeló al César como ciudadano romano y fue enviado a Roma. El texto bíblico presenta el naufragio en Malta con detalle náutico preciso. En Roma predicó dos años bajo arresto domiciliario.",
+      "era": "era-07",
+      "year_min": 57,
+      "year_max": 62,
+      "date_label": "c. 57–62 d. C.",
+      "figures": [
+        "Pablo",
+        "Festo",
+        "Agripa II"
+      ],
+      "scripture_refs": [
+        "Hechos 21–28"
+      ],
+      "quote": null,
+      "world_context": "La apelación al emperador era un derecho de todo ciudadano romano en provincias.",
+      "confidence": "medium",
+      "certainty": "traditional",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta el relato del naufragio (Hechos 27) con vocabulario marinero técnico.",
+        "historia": "La evidencia externa confirma rutas, puertos y prácticas navales del relato; el naufragio mismo no es verificable.",
+        "interpretacion": "Hechos termina abruptamente: el final de Pablo lo cuenta la tradición posterior."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-087",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Nerón y la primera persecución en Roma",
+      "type": "timeline-event",
+      "summary": "Tras el gran incendio de Roma (64 d. C.), Nerón culpó a los cristianos y los sometió a suplicios atroces, según Tácito. La tradición sitúa en esta persecución la muerte de Pedro y Pablo en Roma.",
+      "era": "era-07",
+      "year_min": 64,
+      "year_max": 68,
+      "date_label": "64–68 d. C.",
+      "figures": [
+        "Nerón",
+        "Pedro",
+        "Pablo"
+      ],
+      "scripture_refs": [],
+      "quote": null,
+      "world_context": "Tácito, historiador romano hostil, describe los suplicios con detalle: antorchas humanas en los jardines imperiales.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Oxford University Press — obras de referencia de historia antigua",
+        "Anchor Yale Bible Dictionary",
+        "Museo Metropolitano de Arte, Nueva York"
+      ],
+      "layers": {
+        "texto": "El texto bíblico no narra la persecución; la documentan Tácito, Suetonio y la tradición cristiana.",
+        "historia": "La evidencia externa indica una persecución real y brutal, aunque localizada en Roma.",
+        "interpretacion": "La muerte de Pedro y Pablo en Roma es tradición firme, no documento contemporáneo."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "mundo",
+        "imperio"
+      ]
+    },
+    {
+      "id": "evt-088",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Pablo escribe la carta a los Romanos",
+      "type": "timeline-event",
+      "summary": "Desde Corinto (c. 57 d. C.), Pablo escribió a la iglesia de Roma su exposición más sistemática: la justificación por la fe, el plan de Dios para judíos y gentiles, y la vida nueva en el Espíritu. Es la carta más influyente de la historia cristiana.",
+      "era": "era-07",
+      "year_min": 57,
+      "year_max": 57,
+      "date_label": "c. 57 d. C.",
+      "figures": [
+        "Pablo",
+        "Febe"
+      ],
+      "scripture_refs": [
+        "Romanos 1–16"
+      ],
+      "quote": {
+        "text": "Porque no me avergüenzo del evangelio: porque es potencia de Dios para salud á todo aquel que cree; al Judío primeramente y también al Griego.",
+        "ref": "Romanos 1:16"
+      },
+      "world_context": "Roma tenía una comunidad cristiana anterior a Pablo, compuesta por judíos y gentiles.",
+      "confidence": "high",
+      "certainty": "consensus",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Eerdmans Dictionary of the Bible"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta a Febe, diaconisa de Cencrea, como portadora de la carta.",
+        "historia": "La evidencia externa no aporta datos directos; la autoría paulina de Romanos no se discute.",
+        "interpretacion": "Agustín, Lutero y Wesley dataron sus conversiones teológicas de esta carta."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "persona"
+      ]
+    },
+    {
+      "id": "evt-089",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "La inscripción de Erasto en Corinto",
+      "type": "timeline-event",
+      "summary": "Una losa en el pavimento junto al teatro de Corinto dice: 'Erasto, edil, puso este pavimento con su propio dinero'. Pablo menciona a 'Erasto, tesorero de la ciudad' (Romanos 16:23): la coincidencia de nombre, cargo, lugar y fecha es notable.",
+      "era": "era-07",
+      "year_min": 50,
+      "year_max": 60,
+      "date_label": "c. 50–60 d. C.",
+      "figures": [
+        "Erasto"
+      ],
+      "scripture_refs": [
+        "Romanos 16:23",
+        "Hechos 19:22"
+      ],
+      "quote": null,
+      "world_context": "Los ediles financiaban obras públicas para ganar prestigio: el evergetismo era la política social romana.",
+      "confidence": "medium",
+      "certainty": "disputed",
+      "sources": [
+        "Museo Arqueológico de la Antigua Corinto",
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta a Erasto entre los colaboradores enviados por Pablo a Macedonia.",
+        "historia": "La evidencia externa indica un Erasto edil en la Corinto de mediados del siglo I.",
+        "interpretacion": "La identificación entre ambos Erastos es probable pero no demostrable: el nombre era común."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "arqueologia"
+      ]
+    },
+    {
+      "id": "evt-090",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Juan en Patmos y el Apocalipsis",
+      "type": "timeline-event",
+      "summary": "El texto bíblico presenta a Juan desterrado en Patmos recibiendo las visiones del Apocalipsis, dirigidas a siete iglesias de Asia Menor. La tradición lo fecha bajo Domiciano (c. 95 d. C.); una minoría lo sitúa bajo Nerón.",
+      "era": "era-07",
+      "year_min": 90,
+      "year_max": 96,
+      "date_label": "c. 95 d. C. (fecha tradicional; debatida)",
+      "figures": [
+        "Juan"
+      ],
+      "scripture_refs": [
+        "Apocalipsis 1–3"
+      ],
+      "quote": {
+        "text": "Y limpiará Dios toda lágrima de los ojos de ellos; y la muerte no será más; y no habrá más llanto, ni clamor, ni dolor: porque las primeras cosas son pasadas.",
+        "ref": "Apocalipsis 21:4"
+      },
+      "world_context": "El culto imperial exigía honores divinos al emperador: el trasfondo probable de la 'bestia'.",
+      "confidence": "medium",
+      "certainty": "disputed",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Eerdmans Dictionary of the Bible"
+      ],
+      "layers": {
+        "texto": "El texto bíblico presenta cartas a siete iglesias reales de la provincia de Asia, todas excavadas.",
+        "historia": "La evidencia externa confirma las siete ciudades; la fecha depende de interpretar 'Babilonia' y la bestia.",
+        "interpretacion": "El género apocalíptico usa símbolos codificados: su lectura literal es moderna, no original."
+      },
+      "image_rights": "original-illustration-needed",
+      "tier": "premium",
+      "facets": [
+        "narrativa-biblica",
+        "persona",
+        "arqueologia"
+      ]
+    }
+  ]
+}

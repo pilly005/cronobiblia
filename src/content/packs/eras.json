@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "pack": "eras",
+    "version": 1,
+    "status": "DRAFT-AWAITING-REVIEW",
+    "generated": "2026-10-03",
+    "count": 7,
+    "notes": "7 eras, ordenadas cronológicamente.",
+    "review": "AI-DRAFT-AWAITING-REVIEW: borrador generado por IA. Requiere revisión histórica, de neutralidad y de estilo antes de publicarse. Nunca presentarlo como verificado."
+  },
+  "items": [
+    {
+      "id": "era-01",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Orígenes y patriarcas",
+      "type": "era",
+      "summary": "Abraham, Isaac, Jacob y José: los relatos fundacionales de Israel en el mundo del segundo milenio a. C., entre Sumer, Egipto y Canaán. Las fechas de los patriarcas son debatidas; el contexto cultural está bien documentado.",
+      "order": 1,
+      "year_min": -2100,
+      "year_max": -1550,
+      "date_label": "c. 2100–1550 a. C.",
+      "certainty": "disputed",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "free"
+    },
+    {
+      "id": "era-02",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Éxodo y asentamiento",
+      "type": "era",
+      "summary": "Moisés, la salida de Egipto, el Sinaí y la llegada a Canaán: el relato constitutivo de Israel como pueblo. La cronología y las rutas se presentan como debatidas donde corresponde.",
+      "order": 2,
+      "year_min": -1550,
+      "year_max": -1050,
+      "date_label": "c. 1550–1050 a. C.",
+      "certainty": "disputed",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "free"
+    },
+    {
+      "id": "era-03",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Monarquía unida",
+      "type": "era",
+      "summary": "Saúl, David y Salomón: el siglo del reino unificado con capital en Jerusalén. La magnitud del reino davídico es objeto de debate; la dinastía está confirmada por la estela de Tel Dan.",
+      "order": 3,
+      "year_min": -1050,
+      "year_max": -930,
+      "date_label": "c. 1050–930 a. C.",
+      "certainty": "disputed",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "premium"
+    },
+    {
+      "id": "era-04",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Reinos divididos",
+      "type": "era",
+      "summary": "Israel en el norte y Judá en el sur, entre la presión de Aram, Asiria y Babilonia. Profetas, guerras y asedios: la época mejor documentada por fuentes externas del Antiguo Testamento.",
+      "order": 4,
+      "year_min": -930,
+      "year_max": -586,
+      "date_label": "930–586 a. C.",
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Museo Británico, Londres",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "premium"
+    },
+    {
+      "id": "era-05",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Exilio y retorno",
+      "type": "era",
+      "summary": "La destrucción de Jerusalén, el destierro en Babilonia y el regreso bajo Persia. El trauma que transformó la religión de Israel: sin templo ni rey, nacieron la sinagoga y el judaísmo centrado en la Torá.",
+      "order": 5,
+      "year_min": -586,
+      "year_max": -332,
+      "date_label": "586–332 a. C.",
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Museo Británico, Londres",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "premium"
+    },
+    {
+      "id": "era-06",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Mundo de Jesús",
+      "type": "era",
+      "summary": "Del helenismo a Roma: macabeos, Herodes y la Galilea del siglo I. El escenario histórico, geográfico y cultural en el que vivió Jesús de Nazaret.",
+      "order": 6,
+      "year_min": -332,
+      "year_max": 70,
+      "date_label": "332 a. C.–70 d. C.",
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Oxford University Press — obras de referencia de historia antigua",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "premium"
+    },
+    {
+      "id": "era-07",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Iglesia primitiva",
+      "type": "era",
+      "summary": "De Pentecostés a Patmos: la expansión del movimiento cristiano desde Jerusalén por todo el Mediterráneo romano, con Pablo como gran viajero y las primeras persecuciones.",
+      "order": 7,
+      "year_min": 30,
+      "year_max": 100,
+      "date_label": "c. 30–100 d. C.",
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "premium"
+    }
+  ]
+}

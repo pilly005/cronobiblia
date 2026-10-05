@@ -1,0 +1,6273 @@
+{
+  "meta": {
+    "pack": "quizzes",
+    "version": 1,
+    "status": "DRAFT-AWAITING-REVIEW",
+    "generated": "2026-10-03",
+    "count": 150,
+    "notes": "150 preguntas: opción múltiple, ordenar eventos e identificar lugares, con explicación.",
+    "review": "AI-DRAFT-AWAITING-REVIEW: borrador generado por IA. Requiere revisión histórica, de neutralidad y de estilo antes de publicarse. Nunca presentarlo como verificado."
+  },
+  "items": [
+    {
+      "id": "quiz-001",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Repaso: el viaje de Abraham",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "Según el relato bíblico, ¿de qué ciudad partió Abraham?",
+      "era": "era-01",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ur de los caldeos"
+        },
+        {
+          "id": "b",
+          "text": "Babilonia"
+        },
+        {
+          "id": "c",
+          "text": "Harán"
+        },
+        {
+          "id": "d",
+          "text": "Nínive"
+        }
+      ],
+      "correct_option_id": "a",
+      "explanation": "El texto bíblico presenta la partida desde Ur de los caldeos (Génesis 11:28-31), la metrópoli sumeria.",
+      "related_ids": [
+        "evt-001",
+        "map-01"
+      ],
+      "certainty": "traditional",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "free"
+    },
+    {
+      "id": "quiz-002",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: la era de «Primera deportación a Babilonia»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "«Primera deportación a Babilonia» pertenece a la era de…",
+      "era": "era-05",
+      "options": [
+        {
+          "id": "a",
+          "text": "Exilio y retorno"
+        },
+        {
+          "id": "b",
+          "text": "Mundo de Jesús"
+        },
+        {
+          "id": "c",
+          "text": "Orígenes y patriarcas"
+        },
+        {
+          "id": "d",
+          "text": "Monarquía unida"
+        }
+      ],
+      "correct_option_id": "a",
+      "explanation": "«Primera deportación a Babilonia» (597 a. C.) pertenece a «Exilio y retorno».",
+      "related_ids": [
+        "evt-053"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo Británico, Londres",
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "free"
+    },
+    {
+      "id": "quiz-003",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: fecha de «La destrucción del Segundo Templo»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿En qué rango de fechas se sitúa «La destrucción del Segundo Templo»?",
+      "era": "era-06",
+      "options": [
+        {
+          "id": "a",
+          "text": "c. 760–730 a. C."
+        },
+        {
+          "id": "b",
+          "text": "70 d. C."
+        },
+        {
+          "id": "c",
+          "text": "c. 57–62 d. C."
+        },
+        {
+          "id": "d",
+          "text": "Fecha debatida (cronologías alta y baja)"
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "«La destrucción del Segundo Templo»: 70 d. C.. ",
+      "related_ids": [
+        "evt-078"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "Oxford University Press — obras de referencia de historia antigua",
+        "Museo Metropolitano de Arte, Nueva York"
+      ],
+      "tier": "free"
+    },
+    {
+      "id": "quiz-004",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: personaje de «Nacimiento de Jesús en Belén»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué personaje se asocia principalmente con «Nacimiento de Jesús en Belén»?",
+      "era": "era-06",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pedro"
+        },
+        {
+          "id": "b",
+          "text": "Ester"
+        },
+        {
+          "id": "c",
+          "text": "Jesús"
+        },
+        {
+          "id": "d",
+          "text": "David (dinastía)"
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "«Nacimiento de Jesús en Belén» se asocia con Jesús (Mateo 1–2; Lucas 1–2).",
+      "related_ids": [
+        "evt-071"
+      ],
+      "certainty": "traditional",
+      "confidence": "disputed",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "free"
+    },
+    {
+      "id": "quiz-005",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: pasaje de «Nabucodonosor II y la Babilonia imperial»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué pasaje bíblico se asocia con «Nabucodonosor II y la Babilonia imperial»?",
+      "era": "era-05",
+      "options": [
+        {
+          "id": "a",
+          "text": "Marcos 15–16"
+        },
+        {
+          "id": "b",
+          "text": "Marcos 1–9"
+        },
+        {
+          "id": "c",
+          "text": "2 Reyes 24–25"
+        },
+        {
+          "id": "d",
+          "text": "1 Reyes 6–8"
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "«Nabucodonosor II y la Babilonia imperial» → 2 Reyes 24–25.",
+      "related_ids": [
+        "evt-058"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo Británico, Londres",
+        "Museo de Pérgamo (Vorderasiatisches Museum), Berlín",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "free"
+    },
+    {
+      "id": "quiz-006",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: la era de «Moisés y la zarza ardiente»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "«Moisés y la zarza ardiente» pertenece a la era de…",
+      "era": "era-02",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mundo de Jesús"
+        },
+        {
+          "id": "b",
+          "text": "Éxodo y asentamiento"
+        },
+        {
+          "id": "c",
+          "text": "Monarquía unida"
+        },
+        {
+          "id": "d",
+          "text": "Iglesia primitiva"
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "«Moisés y la zarza ardiente» (Fecha debatida (cronologías alta y baja)) pertenece a «Éxodo y asentamiento».",
+      "related_ids": [
+        "evt-014"
+      ],
+      "certainty": "traditional",
+      "confidence": "disputed",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "free"
+    },
+    {
+      "id": "quiz-007",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: fecha de «Acab, Jezabel y la batalla de Qarqar»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿En qué rango de fechas se sitúa «Acab, Jezabel y la batalla de Qarqar»?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "c. 40 d. C."
+        },
+        {
+          "id": "b",
+          "text": "853 a. C."
+        },
+        {
+          "id": "c",
+          "text": "26–36 d. C. (prefectura de Pilato)"
+        },
+        {
+          "id": "d",
+          "text": "c. 1050–1010 a. C. (cronología tradicional)"
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "«Acab, Jezabel y la batalla de Qarqar»: 853 a. C.. ",
+      "related_ids": [
+        "evt-044"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo Británico, Londres",
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "free"
+    },
+    {
+      "id": "quiz-008",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: personaje de «Débora y Barac contra Sísara»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué personaje se asocia principalmente con «Débora y Barac contra Sísara»?",
+      "era": "era-02",
+      "options": [
+        {
+          "id": "a",
+          "text": "Débora"
+        },
+        {
+          "id": "b",
+          "text": "Sisac (Shoshenq I)"
+        },
+        {
+          "id": "c",
+          "text": "Moisés"
+        },
+        {
+          "id": "d",
+          "text": "Moisés"
+        }
+      ],
+      "correct_option_id": "a",
+      "explanation": "«Débora y Barac contra Sísara» se asocia con Débora (Jueces 4–5).",
+      "related_ids": [
+        "evt-023"
+      ],
+      "certainty": "traditional",
+      "confidence": "low",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "free"
+    },
+    {
+      "id": "quiz-009",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: pasaje de «Muerte de Moisés y Josué como sucesor»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué pasaje bíblico se asocia con «Muerte de Moisés y Josué como sucesor»?",
+      "era": "era-02",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 Reyes 5"
+        },
+        {
+          "id": "b",
+          "text": "2 Samuel 7"
+        },
+        {
+          "id": "c",
+          "text": "2 Reyes 22–23"
+        },
+        {
+          "id": "d",
+          "text": "Deuteronomio 34"
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "«Muerte de Moisés y Josué como sucesor» → Deuteronomio 34.",
+      "related_ids": [
+        "evt-020"
+      ],
+      "certainty": "traditional",
+      "confidence": "disputed",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "free"
+    },
+    {
+      "id": "quiz-010",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Repaso: el Éxodo y la evidencia",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué objeto confirma externamente el nombre 'Israel' hacia el 1207 a. C.?",
+      "era": "era-02",
+      "options": [
+        {
+          "id": "a",
+          "text": "El Código de Hammurabi"
+        },
+        {
+          "id": "b",
+          "text": "La estela de Merneptah"
+        },
+        {
+          "id": "c",
+          "text": "La piedra Rosetta"
+        },
+        {
+          "id": "d",
+          "text": "Las cartas de Amarna"
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "La estela de Merneptah (c. 1207 a. C.) contiene la mención más antigua de 'Israel' fuera de la Biblia.",
+      "related_ids": [
+        "evid-001",
+        "evt-022"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo Egipcio, El Cairo",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "free"
+    },
+    {
+      "id": "quiz-011",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: la era de «Elías en el monte Carmelo»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "«Elías en el monte Carmelo» pertenece a la era de…",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "Reinos divididos"
+        },
+        {
+          "id": "b",
+          "text": "Monarquía unida"
+        },
+        {
+          "id": "c",
+          "text": "Iglesia primitiva"
+        },
+        {
+          "id": "d",
+          "text": "Exilio y retorno"
+        }
+      ],
+      "correct_option_id": "a",
+      "explanation": "«Elías en el monte Carmelo» (c. 860 a. C. (marco tradicional)) pertenece a «Reinos divididos».",
+      "related_ids": [
+        "evt-041"
+      ],
+      "certainty": "traditional",
+      "confidence": "low",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "free"
+    },
+    {
+      "id": "quiz-012",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: fecha de «José es vendido y llevado a Egipto»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿En qué rango de fechas se sitúa «José es vendido y llevado a Egipto»?",
+      "era": "era-01",
+      "options": [
+        {
+          "id": "a",
+          "text": "Segundo milenio a. C. (fecha debatida)"
+        },
+        {
+          "id": "b",
+          "text": "c. 30 o 33 d. C. (año debatido)"
+        },
+        {
+          "id": "c",
+          "text": "c. 760–730 a. C."
+        },
+        {
+          "id": "d",
+          "text": "c. 95 d. C. (fecha tradicional; debatida)"
+        }
+      ],
+      "correct_option_id": "a",
+      "explanation": "«José es vendido y llevado a Egipto»: Segundo milenio a. C. (fecha debatida). ",
+      "related_ids": [
+        "evt-005"
+      ],
+      "certainty": "traditional",
+      "confidence": "disputed",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "free"
+    },
+    {
+      "id": "quiz-013",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: personaje de «Cuarenta años en el desierto»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué personaje se asocia principalmente con «Cuarenta años en el desierto»?",
+      "era": "era-02",
+      "options": [
+        {
+          "id": "a",
+          "text": "Moisés"
+        },
+        {
+          "id": "b",
+          "text": "Pompeyo"
+        },
+        {
+          "id": "c",
+          "text": "Herodes el Grande"
+        },
+        {
+          "id": "d",
+          "text": "Abraham"
+        }
+      ],
+      "correct_option_id": "a",
+      "explanation": "«Cuarenta años en el desierto» se asocia con Moisés (Números 14; Deuteronomio 8).",
+      "related_ids": [
+        "evt-019"
+      ],
+      "certainty": "traditional",
+      "confidence": "disputed",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "free"
+    },
+    {
+      "id": "quiz-014",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: pasaje de «Gedeón y los madianitas»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué pasaje bíblico se asocia con «Gedeón y los madianitas»?",
+      "era": "era-02",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mateo 1–2"
+        },
+        {
+          "id": "b",
+          "text": "2 Samuel 15–18"
+        },
+        {
+          "id": "c",
+          "text": "2 Samuel 7"
+        },
+        {
+          "id": "d",
+          "text": "Jueces 6–8"
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "«Gedeón y los madianitas» → Jueces 6–8.",
+      "related_ids": [
+        "evt-024"
+      ],
+      "certainty": "traditional",
+      "confidence": "low",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "free"
+    },
+    {
+      "id": "quiz-015",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: la era de «Esdras y la lectura pública de la Ley»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "«Esdras y la lectura pública de la Ley» pertenece a la era de…",
+      "era": "era-05",
+      "options": [
+        {
+          "id": "a",
+          "text": "Iglesia primitiva"
+        },
+        {
+          "id": "b",
+          "text": "Mundo de Jesús"
+        },
+        {
+          "id": "c",
+          "text": "Exilio y retorno"
+        },
+        {
+          "id": "d",
+          "text": "Reinos divididos"
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "«Esdras y la lectura pública de la Ley» (Fecha debatida (458 o 398 a. C.)) pertenece a «Exilio y retorno».",
+      "related_ids": [
+        "evt-063"
+      ],
+      "certainty": "disputed",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "free"
+    },
+    {
+      "id": "quiz-016",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: fecha de «El concilio de Jerusalén»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿En qué rango de fechas se sitúa «El concilio de Jerusalén»?",
+      "era": "era-07",
+      "options": [
+        {
+          "id": "a",
+          "text": "c. 588 a. C."
+        },
+        {
+          "id": "b",
+          "text": "701 a. C."
+        },
+        {
+          "id": "c",
+          "text": "c. 49 d. C."
+        },
+        {
+          "id": "d",
+          "text": "336–323 a. C."
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "«El concilio de Jerusalén»: c. 49 d. C.. ",
+      "related_ids": [
+        "evt-083"
+      ],
+      "certainty": "consensus",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Eerdmans Dictionary of the Bible"
+      ],
+      "tier": "free"
+    },
+    {
+      "id": "quiz-017",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: personaje de «Jeremías anuncia el juicio sobre Judá»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué personaje se asocia principalmente con «Jeremías anuncia el juicio sobre Judá»?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "Samuel"
+        },
+        {
+          "id": "b",
+          "text": "Abraham"
+        },
+        {
+          "id": "c",
+          "text": "Jesús"
+        },
+        {
+          "id": "d",
+          "text": "Jeremías"
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "«Jeremías anuncia el juicio sobre Judá» se asocia con Jeremías (Jeremías 1; Jeremías 36–38).",
+      "related_ids": [
+        "evt-052"
+      ],
+      "certainty": "traditional",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Museo Británico, Londres"
+      ],
+      "tier": "free"
+    },
+    {
+      "id": "quiz-018",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: pasaje de «Juan en Patmos y el Apocalipsis»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué pasaje bíblico se asocia con «Juan en Patmos y el Apocalipsis»?",
+      "era": "era-07",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jueces 13–16"
+        },
+        {
+          "id": "b",
+          "text": "Jeremías 34:7"
+        },
+        {
+          "id": "c",
+          "text": "Apocalipsis 1–3"
+        },
+        {
+          "id": "d",
+          "text": "Hechos 10–11"
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "«Juan en Patmos y el Apocalipsis» → Apocalipsis 1–3.",
+      "related_ids": [
+        "evt-090"
+      ],
+      "certainty": "disputed",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Eerdmans Dictionary of the Bible"
+      ],
+      "tier": "free"
+    },
+    {
+      "id": "quiz-019",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: la era de «Samuel unge a Saúl como primer rey»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "«Samuel unge a Saúl como primer rey» pertenece a la era de…",
+      "era": "era-03",
+      "options": [
+        {
+          "id": "a",
+          "text": "Monarquía unida"
+        },
+        {
+          "id": "b",
+          "text": "Reinos divididos"
+        },
+        {
+          "id": "c",
+          "text": "Iglesia primitiva"
+        },
+        {
+          "id": "d",
+          "text": "Exilio y retorno"
+        }
+      ],
+      "correct_option_id": "a",
+      "explanation": "«Samuel unge a Saúl como primer rey» (c. 1050–1010 a. C. (cronología tradicional)) pertenece a «Monarquía unida».",
+      "related_ids": [
+        "evt-027"
+      ],
+      "certainty": "traditional",
+      "confidence": "low",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "free"
+    },
+    {
+      "id": "quiz-020",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Repaso: David y Tel Dan",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué demuestra la estela de Tel Dan?",
+      "era": "era-03",
+      "options": [
+        {
+          "id": "a",
+          "text": "Que David construyó el primer Templo"
+        },
+        {
+          "id": "b",
+          "text": "Que 'la casa de David' era el nombre reconocido de la dinastía de Judá"
+        },
+        {
+          "id": "c",
+          "text": "El tamaño del reino unido"
+        },
+        {
+          "id": "d",
+          "text": "La fecha exacta del reinado de David"
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "La estela (siglo IX a. C.) menciona la 'casa de David'. No demuestra la existencia individual de David ni el tamaño de su reino.",
+      "related_ids": [
+        "evid-006",
+        "evt-033"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo de Israel, Jerusalén",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)"
+      ],
+      "tier": "free"
+    },
+    {
+      "id": "quiz-021",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: fecha de «Herodes el Grande reconstruye el Templo»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿En qué rango de fechas se sitúa «Herodes el Grande reconstruye el Templo»?",
+      "era": "era-06",
+      "options": [
+        {
+          "id": "a",
+          "text": "c. 627–586 a. C."
+        },
+        {
+          "id": "b",
+          "text": "c. 880 a. C."
+        },
+        {
+          "id": "c",
+          "text": "Obras desde c. 20–19 a. C.; reinado 37–4 a. C."
+        },
+        {
+          "id": "d",
+          "text": "Marco narrativo bíblico (fecha debatida)"
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "«Herodes el Grande reconstruye el Templo»: Obras desde c. 20–19 a. C.; reinado 37–4 a. C.. ",
+      "related_ids": [
+        "evt-069"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "Oxford University Press — obras de referencia de historia antigua",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "free"
+    },
+    {
+      "id": "quiz-022",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: personaje de «Pablo en Corinto y la inscripción de Galión»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué personaje se asocia principalmente con «Pablo en Corinto y la inscripción de Galión»?",
+      "era": "era-07",
+      "options": [
+        {
+          "id": "a",
+          "text": "Moisés"
+        },
+        {
+          "id": "b",
+          "text": "Pablo"
+        },
+        {
+          "id": "c",
+          "text": "Sansón"
+        },
+        {
+          "id": "d",
+          "text": "Amós"
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "«Pablo en Corinto y la inscripción de Galión» se asocia con Pablo (Hechos 18:12-17).",
+      "related_ids": [
+        "evt-084"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo Arqueológico de Delfos, Grecia",
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "tier": "free"
+    },
+    {
+      "id": "quiz-023",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: pasaje de «Daniel en la corte de Babilonia»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué pasaje bíblico se asocia con «Daniel en la corte de Babilonia»?",
+      "era": "era-05",
+      "options": [
+        {
+          "id": "a",
+          "text": "Marcos 15–16"
+        },
+        {
+          "id": "b",
+          "text": "Daniel 1–6"
+        },
+        {
+          "id": "c",
+          "text": "Hechos 2–4"
+        },
+        {
+          "id": "d",
+          "text": "Hechos 19"
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "«Daniel en la corte de Babilonia» → Daniel 1–6.",
+      "related_ids": [
+        "evt-057"
+      ],
+      "certainty": "traditional",
+      "confidence": "low",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "free"
+    },
+    {
+      "id": "quiz-024",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: la era de «La estela de Mesha, rey de Moab»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "«La estela de Mesha, rey de Moab» pertenece a la era de…",
+      "era": "era-03",
+      "options": [
+        {
+          "id": "a",
+          "text": "Monarquía unida"
+        },
+        {
+          "id": "b",
+          "text": "Exilio y retorno"
+        },
+        {
+          "id": "c",
+          "text": "Éxodo y asentamiento"
+        },
+        {
+          "id": "d",
+          "text": "Reinos divididos"
+        }
+      ],
+      "correct_option_id": "a",
+      "explanation": "«La estela de Mesha, rey de Moab» (c. 840 a. C.) pertenece a «Monarquía unida».",
+      "related_ids": [
+        "evt-034"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo del Louvre, París — Departamento de Antigüedades Orientales",
+        "Anchor Yale Bible Dictionary",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "tier": "free"
+    },
+    {
+      "id": "quiz-025",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Repaso: Salomón y Tiro",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué ciudad aportó el cedro y los artesanos para el Templo de Salomón?",
+      "era": "era-03",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tiro"
+        },
+        {
+          "id": "b",
+          "text": "Gaza"
+        },
+        {
+          "id": "c",
+          "text": "Damasco"
+        },
+        {
+          "id": "d",
+          "text": "Sidón"
+        }
+      ],
+      "correct_option_id": "a",
+      "explanation": "El texto bíblico presenta a Hiram de Tiro enviando cedro, oro y artesanos (1 Reyes 5).",
+      "related_ids": [
+        "evt-031",
+        "evt-036"
+      ],
+      "certainty": "traditional",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "free"
+    },
+    {
+      "id": "quiz-026",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: fecha de «Los doce hijos de Jacob: origen de las tribus»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿En qué rango de fechas se sitúa «Los doce hijos de Jacob: origen de las tribus»?",
+      "era": "era-01",
+      "options": [
+        {
+          "id": "a",
+          "text": "Marco tradicional patriarcal (fecha debatida)"
+        },
+        {
+          "id": "b",
+          "text": "c. 1020 a. C. (cronología tradicional)"
+        },
+        {
+          "id": "c",
+          "text": "336–323 a. C."
+        },
+        {
+          "id": "d",
+          "text": "c. 33–36 d. C."
+        }
+      ],
+      "correct_option_id": "a",
+      "explanation": "«Los doce hijos de Jacob: origen de las tribus»: Marco tradicional patriarcal (fecha debatida). ",
+      "related_ids": [
+        "evt-011"
+      ],
+      "certainty": "traditional",
+      "confidence": "disputed",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-027",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: personaje de «Las diez plagas de Egipto»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué personaje se asocia principalmente con «Las diez plagas de Egipto»?",
+      "era": "era-02",
+      "options": [
+        {
+          "id": "a",
+          "text": "Moisés"
+        },
+        {
+          "id": "b",
+          "text": "Erasto"
+        },
+        {
+          "id": "c",
+          "text": "Nabucodonosor II"
+        },
+        {
+          "id": "d",
+          "text": "José"
+        }
+      ],
+      "correct_option_id": "a",
+      "explanation": "«Las diez plagas de Egipto» se asocia con Moisés (Éxodo 7–12).",
+      "related_ids": [
+        "evt-015"
+      ],
+      "certainty": "traditional",
+      "confidence": "disputed",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-028",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: pasaje de «El Obelisco Negro: Jehú ante Salmanasar III»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué pasaje bíblico se asocia con «El Obelisco Negro: Jehú ante Salmanasar III»?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hechos 9"
+        },
+        {
+          "id": "b",
+          "text": "2 Reyes 5"
+        },
+        {
+          "id": "c",
+          "text": "2 Reyes 9–10"
+        },
+        {
+          "id": "d",
+          "text": "Génesis 28:10-22"
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "«El Obelisco Negro: Jehú ante Salmanasar III» → 2 Reyes 9–10.",
+      "related_ids": [
+        "evt-045"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo Británico, Londres",
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-029",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: la era de «Crucifixión y resurrección de Jesús»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "«Crucifixión y resurrección de Jesús» pertenece a la era de…",
+      "era": "era-06",
+      "options": [
+        {
+          "id": "a",
+          "text": "Exilio y retorno"
+        },
+        {
+          "id": "b",
+          "text": "Mundo de Jesús"
+        },
+        {
+          "id": "c",
+          "text": "Iglesia primitiva"
+        },
+        {
+          "id": "d",
+          "text": "Éxodo y asentamiento"
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "«Crucifixión y resurrección de Jesús» (c. 30 o 33 d. C. (año debatido)) pertenece a «Mundo de Jesús».",
+      "related_ids": [
+        "evt-076"
+      ],
+      "certainty": "traditional",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-030",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Repaso: Elías en el Carmelo",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "En el monte Carmelo, Elías se enfrentó a los profetas de…",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dagón"
+        },
+        {
+          "id": "b",
+          "text": "Baal"
+        },
+        {
+          "id": "c",
+          "text": "Quemos"
+        },
+        {
+          "id": "d",
+          "text": "Moloc"
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "El texto bíblico presenta el desafío contra los 450 profetas de Baal (1 Reyes 18).",
+      "related_ids": [
+        "evt-041"
+      ],
+      "certainty": "traditional",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-031",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: fecha de «Alejandro Magno y la llegada del helenismo»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿En qué rango de fechas se sitúa «Alejandro Magno y la llegada del helenismo»?",
+      "era": "era-06",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fecha muy debatida (s. XVI–XIII a. C. según posturas)"
+        },
+        {
+          "id": "b",
+          "text": "336–323 a. C."
+        },
+        {
+          "id": "c",
+          "text": "c. 49 d. C."
+        },
+        {
+          "id": "d",
+          "text": "c. 31–35 d. C."
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "«Alejandro Magno y la llegada del helenismo»: 336–323 a. C.. ",
+      "related_ids": [
+        "evt-066"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Oxford University Press — obras de referencia de historia antigua",
+        "Museo Metropolitano de Arte, Nueva York",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-032",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: personaje de «El pacto davídico»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué personaje se asocia principalmente con «El pacto davídico»?",
+      "era": "era-03",
+      "options": [
+        {
+          "id": "a",
+          "text": "Josías"
+        },
+        {
+          "id": "b",
+          "text": "David"
+        },
+        {
+          "id": "c",
+          "text": "Pedro"
+        },
+        {
+          "id": "d",
+          "text": "Pablo"
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "«El pacto davídico» se asocia con David (2 Samuel 7; Salmo 89).",
+      "related_ids": [
+        "evt-030"
+      ],
+      "certainty": "traditional",
+      "confidence": "low",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-033",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: pasaje de «Ester en la corte de Susa»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué pasaje bíblico se asocia con «Ester en la corte de Susa»?",
+      "era": "era-05",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mateo 27"
+        },
+        {
+          "id": "b",
+          "text": "Génesis 11:28-31"
+        },
+        {
+          "id": "c",
+          "text": "Mateo 2"
+        },
+        {
+          "id": "d",
+          "text": "Ester 1–10"
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "«Ester en la corte de Susa» → Ester 1–10.",
+      "related_ids": [
+        "evt-062"
+      ],
+      "certainty": "disputed",
+      "confidence": "disputed",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Museo del Louvre, París — Departamento de Antigüedades Orientales"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-034",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: la era de «Pablo escribe la carta a los Romanos»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "«Pablo escribe la carta a los Romanos» pertenece a la era de…",
+      "era": "era-07",
+      "options": [
+        {
+          "id": "a",
+          "text": "Orígenes y patriarcas"
+        },
+        {
+          "id": "b",
+          "text": "Iglesia primitiva"
+        },
+        {
+          "id": "c",
+          "text": "Reinos divididos"
+        },
+        {
+          "id": "d",
+          "text": "Mundo de Jesús"
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "«Pablo escribe la carta a los Romanos» (c. 57 d. C.) pertenece a «Iglesia primitiva».",
+      "related_ids": [
+        "evt-088"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Eerdmans Dictionary of the Bible"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-035",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Repaso: Senaquerib ante Jerusalén",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿En qué coinciden el prisma de Senaquerib y el texto bíblico sobre el 701 a. C.?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "En el número de defensores"
+        },
+        {
+          "id": "b",
+          "text": "En la fecha exacta del asedio"
+        },
+        {
+          "id": "c",
+          "text": "En la causa del levantamiento del asedio"
+        },
+        {
+          "id": "d",
+          "text": "En que Jerusalén no cayó"
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "Ambas fuentes describen la campaña devastadora; ambas coinciden en que Jerusalén sobrevivió. La causa del levantamiento se debate.",
+      "related_ids": [
+        "evt-048",
+        "evid-004"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo Británico, Londres",
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-036",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: fecha de «La última semana en Jerusalén»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿En qué rango de fechas se sitúa «La última semana en Jerusalén»?",
+      "era": "era-06",
+      "options": [
+        {
+          "id": "a",
+          "text": "c. 30–33 d. C."
+        },
+        {
+          "id": "b",
+          "text": "c. 1200–1100 a. C."
+        },
+        {
+          "id": "c",
+          "text": "Período de los jueces (fecha aproximada y debatida)"
+        },
+        {
+          "id": "d",
+          "text": "c. 30 o 33 d. C. (año debatido)"
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "«La última semana en Jerusalén»: c. 30 o 33 d. C. (año debatido). ",
+      "related_ids": [
+        "evt-075"
+      ],
+      "certainty": "traditional",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-037",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: pasaje de «Los rollos del Mar Muerto en Qumrán»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué pasaje bíblico se asocia con «Los rollos del Mar Muerto en Qumrán»?",
+      "era": "era-06",
+      "options": [
+        {
+          "id": "a",
+          "text": "Génesis 21:1-7"
+        },
+        {
+          "id": "b",
+          "text": "Ester 1–10"
+        },
+        {
+          "id": "c",
+          "text": "Sin referencia bíblica"
+        },
+        {
+          "id": "d",
+          "text": "Esdras 3–6"
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "«Los rollos del Mar Muerto en Qumrán» → Sin referencia bíblica.",
+      "related_ids": [
+        "evt-077"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo de Israel, Jerusalén",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-038",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: pasaje de «La estela de Tel Dan: la 'casa de David'»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué pasaje bíblico se asocia con «La estela de Tel Dan: la 'casa de David'»?",
+      "era": "era-03",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mateo 2"
+        },
+        {
+          "id": "b",
+          "text": "2 Samuel 7"
+        },
+        {
+          "id": "c",
+          "text": "2 Reyes 24–25"
+        },
+        {
+          "id": "d",
+          "text": "Éxodo 1:8"
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "«La estela de Tel Dan: la 'casa de David'» → 2 Samuel 7.",
+      "related_ids": [
+        "evt-033"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo de Israel, Jerusalén",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-039",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: la era de «David y Goliat en el valle de Elah»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "«David y Goliat en el valle de Elah» pertenece a la era de…",
+      "era": "era-03",
+      "options": [
+        {
+          "id": "a",
+          "text": "Exilio y retorno"
+        },
+        {
+          "id": "b",
+          "text": "Mundo de Jesús"
+        },
+        {
+          "id": "c",
+          "text": "Orígenes y patriarcas"
+        },
+        {
+          "id": "d",
+          "text": "Monarquía unida"
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "«David y Goliat en el valle de Elah» (c. 1020 a. C. (cronología tradicional)) pertenece a «Monarquía unida».",
+      "related_ids": [
+        "evt-028"
+      ],
+      "certainty": "traditional",
+      "confidence": "low",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-040",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Repaso: el Cilindro de Ciro",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué proclama el Cilindro de Ciro?",
+      "era": "era-05",
+      "options": [
+        {
+          "id": "a",
+          "text": "La derrota de Babilonia ante Egipto"
+        },
+        {
+          "id": "b",
+          "text": "La construcción del Segundo Templo por orden de Ciro"
+        },
+        {
+          "id": "c",
+          "text": "La restauración de templos y el retorno de pueblos deportados"
+        },
+        {
+          "id": "d",
+          "text": "Un tributo anual de Judá a Persia"
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "El cilindro (538 a. C.) proclama tolerancia imperial general; no menciona a los judíos por nombre.",
+      "related_ids": [
+        "evt-059",
+        "evid-005"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo Británico, Londres",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-041",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: fecha de «Ur de los caldeos: metrópoli sumeria»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿En qué rango de fechas se sitúa «Ur de los caldeos: metrópoli sumeria»?",
+      "era": "era-01",
+      "options": [
+        {
+          "id": "a",
+          "text": "722 a. C."
+        },
+        {
+          "id": "b",
+          "text": "c. 2100–2000 a. C. (Tercera Dinastía de Ur)"
+        },
+        {
+          "id": "c",
+          "text": "Época del exilio (marco tradicional)"
+        },
+        {
+          "id": "d",
+          "text": "Época persa (marco tradicional; historicidad debatida)"
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "«Ur de los caldeos: metrópoli sumeria»: c. 2100–2000 a. C. (Tercera Dinastía de Ur). ",
+      "related_ids": [
+        "evt-007"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo Británico, Londres",
+        "Museo de Pérgamo (Vorderasiatisches Museum), Berlín",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-042",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: personaje de «La división del reino: Jeroboam y Roboam»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué personaje se asocia principalmente con «La división del reino: Jeroboam y Roboam»?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "Merneptah"
+        },
+        {
+          "id": "b",
+          "text": "Salomón"
+        },
+        {
+          "id": "c",
+          "text": "Jeroboam I"
+        },
+        {
+          "id": "d",
+          "text": "Quirino"
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "«La división del reino: Jeroboam y Roboam» se asocia con Jeroboam I (1 Reyes 12).",
+      "related_ids": [
+        "evt-040"
+      ],
+      "certainty": "consensus",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-043",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: pasaje de «Senaquerib asedia Jerusalén»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué pasaje bíblico se asocia con «Senaquerib asedia Jerusalén»?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "Génesis 29–30"
+        },
+        {
+          "id": "b",
+          "text": "2 Reyes 5"
+        },
+        {
+          "id": "c",
+          "text": "2 Reyes 18–19"
+        },
+        {
+          "id": "d",
+          "text": "Nehemías 8"
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "«Senaquerib asedia Jerusalén» → 2 Reyes 18–19.",
+      "related_ids": [
+        "evt-048"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo Británico, Londres",
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-044",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: la era de «Nerón y la primera persecución en Roma»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "«Nerón y la primera persecución en Roma» pertenece a la era de…",
+      "era": "era-07",
+      "options": [
+        {
+          "id": "a",
+          "text": "Éxodo y asentamiento"
+        },
+        {
+          "id": "b",
+          "text": "Reinos divididos"
+        },
+        {
+          "id": "c",
+          "text": "Iglesia primitiva"
+        },
+        {
+          "id": "d",
+          "text": "Monarquía unida"
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "«Nerón y la primera persecución en Roma» (64–68 d. C.) pertenece a «Iglesia primitiva».",
+      "related_ids": [
+        "evt-087"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Oxford University Press — obras de referencia de historia antigua",
+        "Anchor Yale Bible Dictionary",
+        "Museo Metropolitano de Arte, Nueva York"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-045",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Repaso: Nehemías",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "Según el texto bíblico, ¿en cuántos días se reconstruyeron los muros de Jerusalén?",
+      "era": "era-05",
+      "options": [
+        {
+          "id": "a",
+          "text": "40 días"
+        },
+        {
+          "id": "b",
+          "text": "7 meses"
+        },
+        {
+          "id": "c",
+          "text": "3 años"
+        },
+        {
+          "id": "d",
+          "text": "52 días"
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "Nehemías 6:15 presenta la obra terminada en 52 días, pese a la oposición vecina.",
+      "related_ids": [
+        "evt-064"
+      ],
+      "certainty": "traditional",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-046",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: fecha de «Esteban, primer mártir, y la dispersión»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿En qué rango de fechas se sitúa «Esteban, primer mártir, y la dispersión»?",
+      "era": "era-07",
+      "options": [
+        {
+          "id": "a",
+          "text": "c. 2100–1900 a. C. (fecha debatida)"
+        },
+        {
+          "id": "b",
+          "text": "c. 2100–2000 a. C. (Tercera Dinastía de Ur)"
+        },
+        {
+          "id": "c",
+          "text": "c. 1000–970 a. C. (marco tradicional)"
+        },
+        {
+          "id": "d",
+          "text": "c. 31–35 d. C."
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "«Esteban, primer mártir, y la dispersión»: c. 31–35 d. C.. ",
+      "related_ids": [
+        "evt-080"
+      ],
+      "certainty": "traditional",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-047",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: personaje de «El edicto de Ciro y el retorno»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué personaje se asocia principalmente con «El edicto de Ciro y el retorno»?",
+      "era": "era-05",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nehemías"
+        },
+        {
+          "id": "b",
+          "text": "Hammurabi"
+        },
+        {
+          "id": "c",
+          "text": "Ciro el Grande"
+        },
+        {
+          "id": "d",
+          "text": "Zorobabel"
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "«El edicto de Ciro y el retorno» se asocia con Ciro el Grande (Esdras 1; 2 Crónicas 36:22-23).",
+      "related_ids": [
+        "evt-060"
+      ],
+      "certainty": "traditional",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Museo Británico, Londres"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-048",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: pasaje de «Caída de Jerusalén y destrucción del Templo»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué pasaje bíblico se asocia con «Caída de Jerusalén y destrucción del Templo»?",
+      "era": "era-05",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mateo 1–2"
+        },
+        {
+          "id": "b",
+          "text": "2 Reyes 25"
+        },
+        {
+          "id": "c",
+          "text": "Éxodo 12–13"
+        },
+        {
+          "id": "d",
+          "text": "Génesis 28:10-22"
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "«Caída de Jerusalén y destrucción del Templo» → 2 Reyes 25.",
+      "related_ids": [
+        "evt-054"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "Museo Británico, Londres",
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-049",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: la era de «Pablo en Éfeso y el tumulto de Demetrio»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "«Pablo en Éfeso y el tumulto de Demetrio» pertenece a la era de…",
+      "era": "era-07",
+      "options": [
+        {
+          "id": "a",
+          "text": "Éxodo y asentamiento"
+        },
+        {
+          "id": "b",
+          "text": "Orígenes y patriarcas"
+        },
+        {
+          "id": "c",
+          "text": "Exilio y retorno"
+        },
+        {
+          "id": "d",
+          "text": "Iglesia primitiva"
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "«Pablo en Éfeso y el tumulto de Demetrio» (c. 53–56 d. C.) pertenece a «Iglesia primitiva».",
+      "related_ids": [
+        "evt-085"
+      ],
+      "certainty": "traditional",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-050",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Repaso: Juan el Bautista",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué historiador no cristiano del siglo I menciona a Juan el Bautista?",
+      "era": "era-06",
+      "options": [
+        {
+          "id": "a",
+          "text": "Filón de Alejandría"
+        },
+        {
+          "id": "b",
+          "text": "Tácito"
+        },
+        {
+          "id": "c",
+          "text": "Suetonio"
+        },
+        {
+          "id": "d",
+          "text": "Flavio Josefo"
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "Josefo (Antigüedades 18) describe a Juan como figura popular ejecutada por Herodes Antipas.",
+      "related_ids": [
+        "evt-072"
+      ],
+      "certainty": "consensus",
+      "confidence": "medium",
+      "sources": [
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-051",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: fecha de «La conversión de Saulo en Damasco»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿En qué rango de fechas se sitúa «La conversión de Saulo en Damasco»?",
+      "era": "era-07",
+      "options": [
+        {
+          "id": "a",
+          "text": "c. 2100–1900 a. C. (fecha debatida)"
+        },
+        {
+          "id": "b",
+          "text": "Período de los jueces tardío (fecha aproximada)"
+        },
+        {
+          "id": "c",
+          "text": "c. 2000 a. C. (marco tradicional; fecha debatida)"
+        },
+        {
+          "id": "d",
+          "text": "c. 33–36 d. C."
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "«La conversión de Saulo en Damasco»: c. 33–36 d. C.. ",
+      "related_ids": [
+        "evt-081"
+      ],
+      "certainty": "traditional",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-052",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: pasaje de «Los hicsos en Egipto»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué pasaje bíblico se asocia con «Los hicsos en Egipto»?",
+      "era": "era-01",
+      "options": [
+        {
+          "id": "a",
+          "text": "Génesis 37"
+        },
+        {
+          "id": "b",
+          "text": "Éxodo 1:8"
+        },
+        {
+          "id": "c",
+          "text": "Hechos 21–28"
+        },
+        {
+          "id": "d",
+          "text": "2 Samuel 11–12"
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "«Los hicsos en Egipto» → Éxodo 1:8.",
+      "related_ids": [
+        "evt-009"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo Egipcio, El Cairo",
+        "Oxford University Press — obras de referencia de historia antigua",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-053",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: pasaje de «El Imperio acadio de Sargón»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué pasaje bíblico se asocia con «El Imperio acadio de Sargón»?",
+      "era": "era-01",
+      "options": [
+        {
+          "id": "a",
+          "text": "Éxodo 14–15"
+        },
+        {
+          "id": "b",
+          "text": "Jueces 13–16"
+        },
+        {
+          "id": "c",
+          "text": "Éxodo 19–20"
+        },
+        {
+          "id": "d",
+          "text": "Sin referencia bíblica"
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "«El Imperio acadio de Sargón» → Sin referencia bíblica.",
+      "related_ids": [
+        "evt-013"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo del Louvre, París — Departamento de Antigüedades Orientales",
+        "Museo Británico, Londres",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-054",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: la era de «El pacto en el Sinaí y los Diez Mandamientos»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "«El pacto en el Sinaí y los Diez Mandamientos» pertenece a la era de…",
+      "era": "era-02",
+      "options": [
+        {
+          "id": "a",
+          "text": "Orígenes y patriarcas"
+        },
+        {
+          "id": "b",
+          "text": "Exilio y retorno"
+        },
+        {
+          "id": "c",
+          "text": "Monarquía unida"
+        },
+        {
+          "id": "d",
+          "text": "Éxodo y asentamiento"
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "«El pacto en el Sinaí y los Diez Mandamientos» (Fecha debatida (cronologías alta y baja)) pertenece a «Éxodo y asentamiento».",
+      "related_ids": [
+        "evt-018"
+      ],
+      "certainty": "traditional",
+      "confidence": "disputed",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-055",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Repaso: el título de Pilato",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué título correcto de Pilato reveló la inscripción de Cesarea?",
+      "era": "era-06",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rey de Judea"
+        },
+        {
+          "id": "b",
+          "text": "Prefecto de Judea"
+        },
+        {
+          "id": "c",
+          "text": "Procónsul de Siria"
+        },
+        {
+          "id": "d",
+          "text": "Sumo sacerdote"
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "La inscripción dice 'prefecto', corrigiendo el 'procurador' de textos posteriores.",
+      "related_ids": [
+        "evt-074",
+        "evid-021"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo de Israel, Jerusalén",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-056",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: fecha de «Juan el Bautista en el Jordán»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿En qué rango de fechas se sitúa «Juan el Bautista en el Jordán»?",
+      "era": "era-06",
+      "options": [
+        {
+          "id": "a",
+          "text": "c. 26–30 d. C."
+        },
+        {
+          "id": "b",
+          "text": "c. 840 a. C."
+        },
+        {
+          "id": "c",
+          "text": "c. 53–56 d. C."
+        },
+        {
+          "id": "d",
+          "text": "853 a. C."
+        }
+      ],
+      "correct_option_id": "a",
+      "explanation": "«Juan el Bautista en el Jordán»: c. 26–30 d. C.. ",
+      "related_ids": [
+        "evt-072"
+      ],
+      "certainty": "consensus",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-057",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: personaje de «Abraham sale de Ur hacia Canaán»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué personaje se asocia principalmente con «Abraham sale de Ur hacia Canaán»?",
+      "era": "era-01",
+      "options": [
+        {
+          "id": "a",
+          "text": "Abraham"
+        },
+        {
+          "id": "b",
+          "text": "David"
+        },
+        {
+          "id": "c",
+          "text": "Josías"
+        },
+        {
+          "id": "d",
+          "text": "Moisés"
+        }
+      ],
+      "correct_option_id": "a",
+      "explanation": "«Abraham sale de Ur hacia Canaán» se asocia con Abraham (Génesis 11:27–12:9).",
+      "related_ids": [
+        "evt-001"
+      ],
+      "certainty": "traditional",
+      "confidence": "disputed",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-058",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: pasaje de «La inscripción de Pilato en Cesarea»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué pasaje bíblico se asocia con «La inscripción de Pilato en Cesarea»?",
+      "era": "era-06",
+      "options": [
+        {
+          "id": "a",
+          "text": "Marcos 13"
+        },
+        {
+          "id": "b",
+          "text": "Apocalipsis 1–3"
+        },
+        {
+          "id": "c",
+          "text": "Hechos 6–8"
+        },
+        {
+          "id": "d",
+          "text": "Mateo 27"
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "«La inscripción de Pilato en Cesarea» → Mateo 27.",
+      "related_ids": [
+        "evt-074"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo de Israel, Jerusalén",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-059",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: dónde está «Estela de Merneptah»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Dónde se conserva hoy «Estela de Merneptah»?",
+      "era": "era-02",
+      "options": [
+        {
+          "id": "a",
+          "text": "Museo Egipcio, El Cairo."
+        },
+        {
+          "id": "b",
+          "text": "Museo Británico, Londres."
+        },
+        {
+          "id": "c",
+          "text": "Museo de Israel, Jerusalén."
+        },
+        {
+          "id": "d",
+          "text": "Museo de Israel, Jerusalén."
+        }
+      ],
+      "correct_option_id": "a",
+      "explanation": "«Estela de Merneptah» (c. 1207 a. C. (año 5 de Merneptah).) se conserva en: Museo Egipcio, El Cairo..",
+      "related_ids": [
+        "evid-001",
+        "evt-022"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo Egipcio, El Cairo",
+        "Anchor Yale Bible Dictionary",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-060",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Repaso: el concilio de Jerusalén",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué decidió el concilio de Jerusalén (c. 49 d. C.)?",
+      "era": "era-07",
+      "options": [
+        {
+          "id": "a",
+          "text": "Trasladar la iglesia a Antioquía"
+        },
+        {
+          "id": "b",
+          "text": "Exigir la ley mosaica a todos"
+        },
+        {
+          "id": "c",
+          "text": "No imponer la circuncisión a los gentiles creyentes"
+        },
+        {
+          "id": "d",
+          "text": "Separar a Pablo de la misión"
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "Hechos 15 presenta el acuerdo: solo unas abstinencias básicas para los gentiles.",
+      "related_ids": [
+        "evt-083"
+      ],
+      "certainty": "consensus",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-061",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: límites de «Estela de Mesha (piedra moabita)»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué NO demuestra «Estela de Mesha (piedra moabita)»?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "No demuestra los detalles del relato bíblico: cada bando cuenta la guerra a su favor y los desenlaces difieren."
+        },
+        {
+          "id": "b",
+          "text": "No demuestra que estos sean los restos del Caifás histórico: el nombre era común y la identificación es probable, no…"
+        },
+        {
+          "id": "c",
+          "text": "No demuestra la fecha de composición de Isaías ni resuelve el debate sobre su autoría múltiple."
+        },
+        {
+          "id": "d",
+          "text": "No demuestran los detalles del relato bíblico sobre Joaquín: son listas administrativas de palacio."
+        }
+      ],
+      "correct_option_id": "a",
+      "explanation": "Qué aporta: Aporta el relato moabita de la misma guerra que narra 2 Reyes 3, y menciona a Omri y a su 'casa'. Es el texto más cercano en lengua y estilo a la Biblia hebrea. Qué no demuestra: No demuestra los detalles del relato bíblico: cada bando cuenta la guerra a su favor y los desenlaces difieren.",
+      "related_ids": [
+        "evid-002",
+        "evt-034",
+        "evt-043"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo del Louvre, París — Departamento de Antigüedades Orientales",
+        "Anchor Yale Bible Dictionary",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-062",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: dónde está «Obelisco Negro de Salmanasar III»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Dónde se conserva hoy «Obelisco Negro de Salmanasar III»?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "Museo del Louvre, París."
+        },
+        {
+          "id": "b",
+          "text": "Museo Británico, Londres."
+        },
+        {
+          "id": "c",
+          "text": "Museo de Israel, Jerusalén."
+        },
+        {
+          "id": "d",
+          "text": "Museo Británico, Museo Egipcio de Berlín y Museo Egipcio de El Cairo."
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "«Obelisco Negro de Salmanasar III» (c. 827 a. C.) se conserva en: Museo Británico, Londres..",
+      "related_ids": [
+        "evid-003",
+        "evt-045"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo Británico, Londres",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-063",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: límites de «Prisma de Taylor (anales de Senaquerib)»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué NO demuestra «Prisma de Taylor (anales de Senaquerib)»?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "No demuestran la antigüedad de todo el Pentateuco: solo atestiguan ese pasaje concreto en esa fecha."
+        },
+        {
+          "id": "b",
+          "text": "No demuestra el banquete de Belsasar como evento: la crónica es un documento oficial, no una crónica de corte."
+        },
+        {
+          "id": "c",
+          "text": "No demuestra eventos bíblicos concretos: es un texto dedicatorio filisteo, no una crónica."
+        },
+        {
+          "id": "d",
+          "text": "No demuestra la causa del levantamiento del asedio ni los detalles del relato bíblico sobre la liberación."
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "Qué aporta: Aporta la versión asiria de la campaña del 701 a. C.: 46 ciudades de Judá tomadas y Ezequías 'encerrado como pájaro en jaula'. Coincide con la Biblia en que… Qué no demuestra: No demuestra la causa del levantamiento del asedio ni los detalles del relato bíblico sobre la liberación.",
+      "related_ids": [
+        "evid-004",
+        "evt-048"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo Británico, Londres",
+        "Oxford University Press — obras de referencia de historia antigua",
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-064",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: dónde está «Cilindro de Ciro»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Dónde se conserva hoy «Cilindro de Ciro»?",
+      "era": "era-05",
+      "options": [
+        {
+          "id": "a",
+          "text": "Museo Británico, Londres."
+        },
+        {
+          "id": "b",
+          "text": "Museo de Israel, Jerusalén."
+        },
+        {
+          "id": "c",
+          "text": "Ciudad de David, Jerusalén (visitable)."
+        },
+        {
+          "id": "d",
+          "text": "Museo Británico, Londres."
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "«Cilindro de Ciro» (538 a. C.) se conserva en: Museo Británico, Londres..",
+      "related_ids": [
+        "evid-005",
+        "evt-059",
+        "evt-060"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo Británico, Londres",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-065",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Repaso: Pablo en Corinto",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué inscripción permite fechar la estancia de Pablo en Corinto en el 51–52 d. C.?",
+      "era": "era-07",
+      "options": [
+        {
+          "id": "a",
+          "text": "La de Erasto en Corinto"
+        },
+        {
+          "id": "b",
+          "text": "La de Pilato en Cesarea"
+        },
+        {
+          "id": "c",
+          "text": "La piedra Rosetta"
+        },
+        {
+          "id": "d",
+          "text": "La de Galión en Delfos"
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "La carta de Claudio que menciona a Galión como procónsul de Acaya es el anclaje cronológico de Pablo.",
+      "related_ids": [
+        "evt-084",
+        "evid-022"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo Arqueológico de Delfos, Grecia",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-066",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: límites de «Estela de Tel Dan»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué NO demuestra «Estela de Tel Dan»?",
+      "era": "era-03",
+      "options": [
+        {
+          "id": "a",
+          "text": "No demuestra la existencia histórica de David como individuo ni la magnitud de su reino."
+        },
+        {
+          "id": "b",
+          "text": "No demuestran que esta fuera la norma: era una comunidad militar fronteriza, no necesariamente representativa."
+        },
+        {
+          "id": "c",
+          "text": "No demuestran la conquista de Josué: los 'habiru' no son 'los hebreos' en sentido directo, aunque el debate continúa."
+        },
+        {
+          "id": "d",
+          "text": "No demuestra el Éxodo ni describe el tamaño, la religión o la organización de ese Israel temprano."
+        }
+      ],
+      "correct_option_id": "a",
+      "explanation": "Qué aporta: Demuestra que un siglo después de David, 'la casa de David' era el nombre reconocido de la dinastía reinante en Judá. Qué no demuestra: No demuestra la existencia histórica de David como individuo ni la magnitud de su reino.",
+      "related_ids": [
+        "evid-006",
+        "evt-033",
+        "evt-030"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo de Israel, Jerusalén",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-067",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: dónde está «Inscripción de Siloé»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Dónde se conserva hoy «Inscripción de Siloé»?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "Museos Arqueológicos de Estambul."
+        },
+        {
+          "id": "b",
+          "text": "Museo Egipcio, El Cairo."
+        },
+        {
+          "id": "c",
+          "text": "Museo Egipcio de Berlín y Museo Británico."
+        },
+        {
+          "id": "d",
+          "text": "Museo de Israel, Jerusalén."
+        }
+      ],
+      "correct_option_id": "a",
+      "explanation": "«Inscripción de Siloé» (c. 700 a. C. (época de Ezequías).) se conserva en: Museos Arqueológicos de Estambul..",
+      "related_ids": [
+        "evid-007",
+        "evt-049"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museos Arqueológicos de Estambul",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-068",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: límites de «Relieves del asedio de Laquis»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué NO demuestra «Relieves del asedio de Laquis»?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "No demuestran lo ocurrido en Jerusalén: los relieves celebran Laquis, no el desenlace del asedio a la capital."
+        },
+        {
+          "id": "b",
+          "text": "No demuestran la antigüedad de todo el Pentateuco: solo atestiguan ese pasaje concreto en esa fecha."
+        },
+        {
+          "id": "c",
+          "text": "No menciona a los judíos: es propaganda imperial persa, valiosa como contexto, no como evidencia directa."
+        },
+        {
+          "id": "d",
+          "text": "No demuestra dependencia directa de las leyes bíblicas: los paralelos muestran un mundo legal compartido, no copia."
+        }
+      ],
+      "correct_option_id": "a",
+      "explanation": "Qué aporta: Aportan la imagen asiria de la campaña del 701 a. C.: rampas de asedio, deportados y el rey en su trono recibiendo el botín. Qué no demuestra: No demuestran lo ocurrido en Jerusalén: los relieves celebran Laquis, no el desenlace del asedio a la capital.",
+      "related_ids": [
+        "evid-008",
+        "evt-048"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo Británico, Londres",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-069",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: dónde está «Amuletos de plata de Ketef Hinnom»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Dónde se conserva hoy «Amuletos de plata de Ketef Hinnom»?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "Museo de Israel, Jerusalén."
+        },
+        {
+          "id": "b",
+          "text": "Museo Británico, Londres."
+        },
+        {
+          "id": "c",
+          "text": "Museo Británico, Londres."
+        },
+        {
+          "id": "d",
+          "text": "Museo Británico, Londres."
+        }
+      ],
+      "correct_option_id": "a",
+      "explanation": "«Amuletos de plata de Ketef Hinnom» (c. 600 a. C. (finales del reino de Judá).) se conserva en: Museo de Israel, Jerusalén..",
+      "related_ids": [
+        "evid-009",
+        "evt-052"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo de Israel, Jerusalén",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "Biblical Archaeology Society"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-070",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: límites de «El túnel de Ezequías»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué NO demuestra «El túnel de Ezequías»?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "No demuestra por sí sola la fecha exacta del túnel: la datación combina paleografía, contexto y el relato bíblico."
+        },
+        {
+          "id": "b",
+          "text": "No demuestran los detalles de la narrativa de Jeremías: confirman el ambiente y la red militar, no los diálogos."
+        },
+        {
+          "id": "c",
+          "text": "No demuestra por sí solo la autoría de Ezequías: la atribución combina el texto bíblico, la inscripción y la datación."
+        },
+        {
+          "id": "d",
+          "text": "No demuestra dependencia directa de las leyes bíblicas: los paralelos muestran un mundo legal compartido, no copia."
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "Qué aporta: Aporta una obra de ingeniería real del Judá monárquico, mencionada en 2 Reyes 20:20, que puede recorrerse a pie. Qué no demuestra: No demuestra por sí solo la autoría de Ezequías: la atribución combina el texto bíblico, la inscripción y la datación.",
+      "related_ids": [
+        "evid-010",
+        "evt-049",
+        "evt-048"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-071",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: dónde está «El Gran Rollo de Isaías»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Dónde se conserva hoy «El Gran Rollo de Isaías»?",
+      "era": "era-06",
+      "options": [
+        {
+          "id": "a",
+          "text": "Museo Británico, Londres."
+        },
+        {
+          "id": "b",
+          "text": "Autoridad de Antigüedades de Israel / Museo de Israel."
+        },
+        {
+          "id": "c",
+          "text": "Santuario del Libro, Museo de Israel, Jerusalén."
+        },
+        {
+          "id": "d",
+          "text": "Museos Arqueológicos de Estambul."
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "«El Gran Rollo de Isaías» (c. 125 a. C. (copia); el texto es muy anterior.) se conserva en: Santuario del Libro, Museo de Israel, Jerusalén..",
+      "related_ids": [
+        "evid-011",
+        "evt-077"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo de Israel, Jerusalén",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-072",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: límites de «Los rollos del Mar Muerto (Qumrán)»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué NO demuestra «Los rollos del Mar Muerto (Qumrán)»?",
+      "era": "era-06",
+      "options": [
+        {
+          "id": "a",
+          "text": "No demuestran lo ocurrido en Jerusalén: los relieves celebran Laquis, no el desenlace del asedio a la capital."
+        },
+        {
+          "id": "b",
+          "text": "No demuestra por sí solo la autoría de Ezequías: la atribución combina el texto bíblico, la inscripción y la datación."
+        },
+        {
+          "id": "c",
+          "text": "No demuestran contacto directo entre la comunidad de Qumrán y Jesús o los primeros cristianos."
+        },
+        {
+          "id": "d",
+          "text": "No demuestra la autoría de textos bíblicos en esa fecha: es un memorando agrícola, no literatura."
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "Qué aporta: Aportan el contexto judío más cercano al Nuevo Testamento y manuscritos bíblicos mil años más antiguos que los conocidos. Qué no demuestra: No demuestran contacto directo entre la comunidad de Qumrán y Jesús o los primeros cristianos.",
+      "related_ids": [
+        "evid-012",
+        "evt-077",
+        "evt-072"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo de Israel, Jerusalén",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-073",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: dónde está «La piedra Rosetta»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Dónde se conserva hoy «La piedra Rosetta»?",
+      "era": "era-06",
+      "options": [
+        {
+          "id": "a",
+          "text": "Museo del Louvre, París."
+        },
+        {
+          "id": "b",
+          "text": "Museo Británico, Londres."
+        },
+        {
+          "id": "c",
+          "text": "Museo Británico, Londres."
+        },
+        {
+          "id": "d",
+          "text": "Museo de Israel y Autoridad de Antigüedades de Israel, Jerusalén."
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "«La piedra Rosetta» (196 a. C. (decreto de Ptolomeo V).) se conserva en: Museo Británico, Londres..",
+      "related_ids": [
+        "evid-013",
+        "evt-066"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo Británico, Londres",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-074",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: límites de «La inscripción de Behistún»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué NO demuestra «La inscripción de Behistún»?",
+      "era": "era-05",
+      "options": [
+        {
+          "id": "a",
+          "text": "No demuestra eventos bíblicos concretos: es un texto dedicatorio filisteo, no una crónica."
+        },
+        {
+          "id": "b",
+          "text": "No demuestran la extensión de la alfabetización popular: son documentos de una élite militar-administrativa."
+        },
+        {
+          "id": "c",
+          "text": "No menciona a los judíos: es propaganda imperial persa, valiosa como contexto, no como evidencia directa."
+        },
+        {
+          "id": "d",
+          "text": "No demuestra que sea el mismo Erasto: el nombre era común y la identificación, aunque probable, no es segura."
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "Qué aporta: Aportó la clave del desciframiento del cuneiforme y la versión persa oficial del ascenso de Darío I. Qué no demuestra: No menciona a los judíos: es propaganda imperial persa, valiosa como contexto, no como evidencia directa.",
+      "related_ids": [
+        "evid-014",
+        "evt-060",
+        "evt-061"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "UNESCO — Lista del Patrimonio Mundial",
+        "Museo Británico, Londres",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-075",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: dónde está «El Código de Hammurabi»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Dónde se conserva hoy «El Código de Hammurabi»?",
+      "era": "era-01",
+      "options": [
+        {
+          "id": "a",
+          "text": "In situ / Museo de la Antigua Corinto."
+        },
+        {
+          "id": "b",
+          "text": "Museo Británico, Londres."
+        },
+        {
+          "id": "c",
+          "text": "Museo de Israel, Jerusalén."
+        },
+        {
+          "id": "d",
+          "text": "Museo del Louvre, París."
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "«El Código de Hammurabi» (c. 1754 a. C.) se conserva en: Museo del Louvre, París..",
+      "related_ids": [
+        "evid-015",
+        "evt-008"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo del Louvre, París — Departamento de Antigüedades Orientales",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-076",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: límites de «Las cartas de Amarna»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué NO demuestra «Las cartas de Amarna»?",
+      "era": "era-02",
+      "options": [
+        {
+          "id": "a",
+          "text": "No demuestra la autoría de textos bíblicos en esa fecha: es un memorando agrícola, no literatura."
+        },
+        {
+          "id": "b",
+          "text": "No demuestran la conquista de Josué: los 'habiru' no son 'los hebreos' en sentido directo, aunque el debate continúa."
+        },
+        {
+          "id": "c",
+          "text": "No demuestran la extensión de la alfabetización popular: son documentos de una élite militar-administrativa."
+        },
+        {
+          "id": "d",
+          "text": "No demuestran que los dueños de los sellos sean los personajes bíblicos: los nombres eran comunes y la identificación es…"
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "Qué aporta: Aportan una radiografía de Canaán en el siglo XIV a. C.: ciudades-estado, bandas de 'habiru' y la administración egipcia de la zona. Qué no demuestra: No demuestran la conquista de Josué: los 'habiru' no son 'los hebreos' en sentido directo, aunque el debate continúa.",
+      "related_ids": [
+        "evid-016",
+        "evt-021"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo Británico, Londres",
+        "Museo Egipcio, Berlín",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-077",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: dónde está «Las cartas de Laquis»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Dónde se conserva hoy «Las cartas de Laquis»?",
+      "era": "era-05",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ciudad de David, Jerusalén (visitable)."
+        },
+        {
+          "id": "b",
+          "text": "Museo Británico y Museo de Israel."
+        },
+        {
+          "id": "c",
+          "text": "Autoridad de Antigüedades de Israel / Museo de Israel."
+        },
+        {
+          "id": "d",
+          "text": "Museo Egipcio, El Cairo."
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "«Las cartas de Laquis» (c. 588 a. C.) se conserva en: Museo Británico y Museo de Israel..",
+      "related_ids": [
+        "evid-017",
+        "evt-055",
+        "evt-052"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo Británico, Londres",
+        "Museo de Israel, Jerusalén",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-078",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: límites de «Los ostraca de Arad»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué NO demuestra «Los ostraca de Arad»?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "No demuestra que sea el mismo Erasto: el nombre era común y la identificación, aunque probable, no es segura."
+        },
+        {
+          "id": "b",
+          "text": "No demuestra el Éxodo ni describe el tamaño, la religión o la organización de ese Israel temprano."
+        },
+        {
+          "id": "c",
+          "text": "No demuestran que esta fuera la norma: era una comunidad militar fronteriza, no necesariamente representativa."
+        },
+        {
+          "id": "d",
+          "text": "No demuestran la extensión de la alfabetización popular: son documentos de una élite militar-administrativa."
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "Qué aporta: Aportan evidencia de alfabetización administrativa en Judá: hasta los intendentes de una fortaleza remota escribían hebreo. Qué no demuestra: No demuestran la extensión de la alfabetización popular: son documentos de una élite militar-administrativa.",
+      "related_ids": [
+        "evid-018",
+        "evt-052"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo de Israel, Jerusalén",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-079",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: dónde está «El calendario de Gézer»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Dónde se conserva hoy «El calendario de Gézer»?",
+      "era": "era-03",
+      "options": [
+        {
+          "id": "a",
+          "text": "Museo Británico y Museo de Israel."
+        },
+        {
+          "id": "b",
+          "text": "Museo Británico, Museo Egipcio de Berlín y Museo Egipcio de El Cairo."
+        },
+        {
+          "id": "c",
+          "text": "Museos Arqueológicos de Estambul."
+        },
+        {
+          "id": "d",
+          "text": "In situ / Museo de la Antigua Corinto."
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "«El calendario de Gézer» (c. 925 a. C.) se conserva en: Museos Arqueológicos de Estambul..",
+      "related_ids": [
+        "evid-019",
+        "evt-037"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museos Arqueológicos de Estambul",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-080",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: límites de «El osario de Caifás»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué NO demuestra «El osario de Caifás»?",
+      "era": "era-06",
+      "options": [
+        {
+          "id": "a",
+          "text": "No demuestra que sea el mismo Erasto: el nombre era común y la identificación, aunque probable, no es segura."
+        },
+        {
+          "id": "b",
+          "text": "No demuestra que estos sean los restos del Caifás histórico: el nombre era común y la identificación es probable, no…"
+        },
+        {
+          "id": "c",
+          "text": "No demuestra los eventos de Hechos 18: es un documento administrativo romano, no una crónica de la misión."
+        },
+        {
+          "id": "d",
+          "text": "No demuestra eventos bíblicos concretos: es un texto dedicatorio filisteo, no una crónica."
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "Qué aporta: Aporta el nombre exacto del sumo sacerdote de los evangelios en un contexto funerario del siglo I jerosolimitano. Qué no demuestra: No demuestra que estos sean los restos del Caifás histórico: el nombre era común y la identificación es probable, no segura.",
+      "related_ids": [
+        "evid-020",
+        "evt-075"
+      ],
+      "certainty": "disputed",
+      "confidence": "medium",
+      "sources": [
+        "Museo de Israel, Jerusalén",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "Biblical Archaeology Society"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-081",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: dónde está «La inscripción de Poncio Pilato»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Dónde se conserva hoy «La inscripción de Poncio Pilato»?",
+      "era": "era-06",
+      "options": [
+        {
+          "id": "a",
+          "text": "Museo del Louvre, París."
+        },
+        {
+          "id": "b",
+          "text": "Museo de Pérgamo (Vorderasiatisches Museum), Berlín."
+        },
+        {
+          "id": "c",
+          "text": "Museos Arqueológicos de Estambul."
+        },
+        {
+          "id": "d",
+          "text": "Museo de Israel, Jerusalén."
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "«La inscripción de Poncio Pilato» (26–36 d. C.) se conserva en: Museo de Israel, Jerusalén..",
+      "related_ids": [
+        "evid-021",
+        "evt-074"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo de Israel, Jerusalén",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-082",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: límites de «La inscripción de Galión en Delfos»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué NO demuestra «La inscripción de Galión en Delfos»?",
+      "era": "era-07",
+      "options": [
+        {
+          "id": "a",
+          "text": "No demuestran que esta fuera la norma: era una comunidad militar fronteriza, no necesariamente representativa."
+        },
+        {
+          "id": "b",
+          "text": "No demuestran la antigüedad de todo el Pentateuco: solo atestiguan ese pasaje concreto en esa fecha."
+        },
+        {
+          "id": "c",
+          "text": "No demuestra los eventos de Hechos 18: es un documento administrativo romano, no una crónica de la misión."
+        },
+        {
+          "id": "d",
+          "text": "No demuestra dependencia directa de las leyes bíblicas: los paralelos muestran un mundo legal compartido, no copia."
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "Qué aporta: Aporta el anclaje cronológico más firme de la vida de Pablo: desde el 51–52 se calculan sus demás viajes. Qué no demuestra: No demuestra los eventos de Hechos 18: es un documento administrativo romano, no una crónica de la misión.",
+      "related_ids": [
+        "evid-022",
+        "evt-084"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo Arqueológico de Delfos, Grecia",
+        "American Schools of Oriental Research (ASOR)",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-083",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: dónde está «La inscripción de Erasto en Corinto»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Dónde se conserva hoy «La inscripción de Erasto en Corinto»?",
+      "era": "era-07",
+      "options": [
+        {
+          "id": "a",
+          "text": "Museo Británico, Londres."
+        },
+        {
+          "id": "b",
+          "text": "Museo de Israel, Jerusalén."
+        },
+        {
+          "id": "c",
+          "text": "In situ / Museo de la Antigua Corinto."
+        },
+        {
+          "id": "d",
+          "text": "Museos Arqueológicos de Estambul."
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "«La inscripción de Erasto en Corinto» (Mediados del siglo I d. C.) se conserva en: In situ / Museo de la Antigua Corinto..",
+      "related_ids": [
+        "evid-023",
+        "evt-089",
+        "evt-088"
+      ],
+      "certainty": "disputed",
+      "confidence": "medium",
+      "sources": [
+        "Museo Arqueológico de la Antigua Corinto",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-084",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: límites de «Tablillas de raciones de Joaquín»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué NO demuestra «Tablillas de raciones de Joaquín»?",
+      "era": "era-05",
+      "options": [
+        {
+          "id": "a",
+          "text": "No demuestra la autoría de textos bíblicos en esa fecha: es un memorando agrícola, no literatura."
+        },
+        {
+          "id": "b",
+          "text": "No demuestran los detalles del relato bíblico sobre Joaquín: son listas administrativas de palacio."
+        },
+        {
+          "id": "c",
+          "text": "No menciona a los judíos por nombre: era una proclamación general de Babilonia, no un decreto particular para Judá."
+        },
+        {
+          "id": "d",
+          "text": "No demuestra los eventos de Hechos 18: es un documento administrativo romano, no una crónica de la misión."
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "Qué aporta: Aportan confirmación externa del exilio de la familia real de Judá y de su mantenimiento en Babilonia, como indica 2 Reyes 25:27-30. Qué no demuestra: No demuestran los detalles del relato bíblico sobre Joaquín: son listas administrativas de palacio.",
+      "related_ids": [
+        "evid-024",
+        "evt-053",
+        "evt-054"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo de Pérgamo (Vorderasiatisches Museum), Berlín",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-085",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: dónde está «Los papiros de Elefantina»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Dónde se conserva hoy «Los papiros de Elefantina»?",
+      "era": "era-05",
+      "options": [
+        {
+          "id": "a",
+          "text": "Museo de Israel, Jerusalén."
+        },
+        {
+          "id": "b",
+          "text": "Museo Egipcio de Berlín y Museo Británico."
+        },
+        {
+          "id": "c",
+          "text": "Museo Británico, Londres."
+        },
+        {
+          "id": "d",
+          "text": "Ciudad de David, Jerusalén (visitable)."
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "«Los papiros de Elefantina» (Siglo V a. C. (época persa).) se conserva en: Museo Egipcio de Berlín y Museo Británico..",
+      "related_ids": [
+        "evid-025",
+        "evt-065"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo Egipcio, Berlín",
+        "Museo Británico, Londres",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-086",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: límites de «La Crónica de Nabónido»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué NO demuestra «La Crónica de Nabónido»?",
+      "era": "era-05",
+      "options": [
+        {
+          "id": "a",
+          "text": "No demuestra eventos bíblicos concretos: es un texto dedicatorio filisteo, no una crónica."
+        },
+        {
+          "id": "b",
+          "text": "No demuestran contacto directo entre la comunidad de Qumrán y Jesús o los primeros cristianos."
+        },
+        {
+          "id": "c",
+          "text": "No demuestra el banquete de Belsasar como evento: la crónica es un documento oficial, no una crónica de corte."
+        },
+        {
+          "id": "d",
+          "text": "No demuestra los detalles del relato bíblico: cada bando cuenta la guerra a su favor y los desenlaces difieren."
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "Qué aporta: Aporta la versión babilónica de la caída de Babilonia, coherente con el relato de Daniel 5 sobre Belsasar y Nabónido. Qué no demuestra: No demuestra el banquete de Belsasar como evento: la crónica es un documento oficial, no una crónica de corte.",
+      "related_ids": [
+        "evid-026",
+        "evt-059",
+        "evt-057"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo Británico, Londres",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-087",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: dónde está «La inscripción de Ecrón»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Dónde se conserva hoy «La inscripción de Ecrón»?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "Museo de Israel, Jerusalén."
+        },
+        {
+          "id": "b",
+          "text": "Museo Británico, Londres."
+        },
+        {
+          "id": "c",
+          "text": "Museo Británico, Londres."
+        },
+        {
+          "id": "d",
+          "text": "Museo Británico, Londres."
+        }
+      ],
+      "correct_option_id": "a",
+      "explanation": "«La inscripción de Ecrón» (c. 700 a. C.) se conserva en: Museo de Israel, Jerusalén..",
+      "related_ids": [
+        "evid-027",
+        "evt-026"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo de Israel, Jerusalén",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-088",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: límites de «Sellos y bulas de la Jerusalén monárquica»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué NO demuestra «Sellos y bulas de la Jerusalén monárquica»?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "No demuestran lo ocurrido en Jerusalén: los relieves celebran Laquis, no el desenlace del asedio a la capital."
+        },
+        {
+          "id": "b",
+          "text": "No demuestran que los dueños de los sellos sean los personajes bíblicos: los nombres eran comunes y la identificación es…"
+        },
+        {
+          "id": "c",
+          "text": "No demuestran la conquista de Josué: los 'habiru' no son 'los hebreos' en sentido directo, aunque el debate continúa."
+        },
+        {
+          "id": "d",
+          "text": "No demuestra los eventos de Hechos 18: es un documento administrativo romano, no una crónica de la misión."
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "Qué aporta: Aportan evidencia de una administración letrada en la Jerusalén monárquica, con nombres que coinciden con el entorno de Jeremías. Qué no demuestra: No demuestran que los dueños de los sellos sean los personajes bíblicos: los nombres eran comunes y la identificación es circunstancial.",
+      "related_ids": [
+        "evid-028",
+        "evt-052"
+      ],
+      "certainty": "disputed",
+      "confidence": "medium",
+      "sources": [
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "Museo de Israel, Jerusalén",
+        "Biblical Archaeology Society"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-089",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: dónde está «El osario de Santiago»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Dónde se conserva hoy «El osario de Santiago»?",
+      "era": "era-07",
+      "options": [
+        {
+          "id": "a",
+          "text": "Museo de Israel, Jerusalén."
+        },
+        {
+          "id": "b",
+          "text": "Museo Arqueológico de Delfos, Grecia."
+        },
+        {
+          "id": "c",
+          "text": "Colección privada (Israel)."
+        },
+        {
+          "id": "d",
+          "text": "Museo del Louvre, París."
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "«El osario de Santiago» (El osario es del siglo I; la inscripción es disputada.) se conserva en: Colección privada (Israel)..",
+      "related_ids": [
+        "evid-029",
+        "evt-079"
+      ],
+      "certainty": "disputed",
+      "confidence": "disputed",
+      "sources": [
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "Biblical Archaeology Society"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-090",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: límites de «La estela de Kurkh (Qarqar)»",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Qué NO demuestra «La estela de Kurkh (Qarqar)»?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "No demuestran la conquista de Josué: los 'habiru' no son 'los hebreos' en sentido directo, aunque el debate continúa."
+        },
+        {
+          "id": "b",
+          "text": "No demuestra dependencia directa de las leyes bíblicas: los paralelos muestran un mundo legal compartido, no copia."
+        },
+        {
+          "id": "c",
+          "text": "No demuestran la extensión de la alfabetización popular: son documentos de una élite militar-administrativa."
+        },
+        {
+          "id": "d",
+          "text": "No demuestra los relatos bíblicos sobre Acab: es un documento militar asirio con su propia propaganda."
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "Qué aporta: Aporta la medida del poder militar de Israel en el siglo IX a. C.: 2.000 carros y 10.000 soldados, el contingente más numeroso de la alianza. Qué no demuestra: No demuestra los relatos bíblicos sobre Acab: es un documento militar asirio con su propia propaganda.",
+      "related_ids": [
+        "evid-030",
+        "evt-044"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo Británico, Londres",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-091",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: ordena estos eventos",
+      "type": "quiz",
+      "quiz_type": "order-events",
+      "prompt": "Ordena estos eventos del más antiguo al más reciente.",
+      "era": "era-01",
+      "items": [
+        {
+          "event_id": "evt-077",
+          "label": "Los rollos del Mar Muerto en Qumrán"
+        },
+        {
+          "event_id": "evt-001",
+          "label": "Abraham sale de Ur hacia Canaán"
+        },
+        {
+          "event_id": "evt-052",
+          "label": "Jeremías anuncia el juicio sobre Judá"
+        },
+        {
+          "event_id": "evt-062",
+          "label": "Ester en la corte de Susa"
+        }
+      ],
+      "correct_order": [
+        "evt-001",
+        "evt-052",
+        "evt-062",
+        "evt-077"
+      ],
+      "explanation": "Orden correcto: «Abraham sale de Ur hacia Canaán» (c. 2100–1900 a. C. (fecha debatida)) → «Jeremías anuncia el juicio sobre Judá» (c. 627–586 a. C.) → «Ester en la corte de Susa» (Época persa (marco tradicional; historicidad debatida)) → «Los rollos del Mar Muerto en Qumrán» (Textos c. 250 a. C.–68 d. C.; hallazgo 1947–1956)",
+      "related_ids": [
+        "evt-001",
+        "evt-052",
+        "evt-062",
+        "evt-077"
+      ],
+      "certainty": "consensus",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-092",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: ordena estos eventos",
+      "type": "quiz",
+      "quiz_type": "order-events",
+      "prompt": "Ordena estos eventos del más antiguo al más reciente.",
+      "era": "era-03",
+      "items": [
+        {
+          "event_id": "evt-067",
+          "label": "La revuelta macabea y la fiesta de Janucá"
+        },
+        {
+          "event_id": "evt-090",
+          "label": "Juan en Patmos y el Apocalipsis"
+        },
+        {
+          "event_id": "evt-063",
+          "label": "Esdras y la lectura pública de la Ley"
+        },
+        {
+          "event_id": "evt-027",
+          "label": "Samuel unge a Saúl como primer rey"
+        }
+      ],
+      "correct_order": [
+        "evt-027",
+        "evt-063",
+        "evt-067",
+        "evt-090"
+      ],
+      "explanation": "Orden correcto: «Samuel unge a Saúl como primer rey» (c. 1050–1010 a. C. (cronología tradicional)) → «Esdras y la lectura pública de la Ley» (Fecha debatida (458 o 398 a. C.)) → «La revuelta macabea y la fiesta de Janucá» (167–160 a. C.) → «Juan en Patmos y el Apocalipsis» (c. 95 d. C. (fecha tradicional; debatida))",
+      "related_ids": [
+        "evt-027",
+        "evt-063",
+        "evt-067",
+        "evt-090"
+      ],
+      "certainty": "consensus",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-093",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: ordena estos eventos",
+      "type": "quiz",
+      "quiz_type": "order-events",
+      "prompt": "Ordena estos eventos del más antiguo al más reciente.",
+      "era": "era-02",
+      "items": [
+        {
+          "event_id": "evt-043",
+          "label": "La dinastía de Omri y la fundación de Samaria"
+        },
+        {
+          "event_id": "evt-016",
+          "label": "La Pascua y la salida de Egipto"
+        },
+        {
+          "event_id": "evt-060",
+          "label": "El edicto de Ciro y el retorno"
+        },
+        {
+          "event_id": "evt-086",
+          "label": "Pablo, prisionero rumbo a Roma"
+        }
+      ],
+      "correct_order": [
+        "evt-016",
+        "evt-043",
+        "evt-060",
+        "evt-086"
+      ],
+      "explanation": "Orden correcto: «La Pascua y la salida de Egipto» (Fecha debatida (cronologías alta y baja)) → «La dinastía de Omri y la fundación de Samaria» (c. 880 a. C.) → «El edicto de Ciro y el retorno» (538 a. C.) → «Pablo, prisionero rumbo a Roma» (c. 57–62 d. C.)",
+      "related_ids": [
+        "evt-016",
+        "evt-043",
+        "evt-060",
+        "evt-086"
+      ],
+      "certainty": "consensus",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-094",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: ordena estos eventos",
+      "type": "quiz",
+      "quiz_type": "order-events",
+      "prompt": "Ordena estos eventos del más antiguo al más reciente.",
+      "era": "era-01",
+      "items": [
+        {
+          "event_id": "evt-034",
+          "label": "La estela de Mesha, rey de Moab"
+        },
+        {
+          "event_id": "evt-009",
+          "label": "Los hicsos en Egipto"
+        },
+        {
+          "event_id": "evt-086",
+          "label": "Pablo, prisionero rumbo a Roma"
+        },
+        {
+          "event_id": "evt-053",
+          "label": "Primera deportación a Babilonia"
+        }
+      ],
+      "correct_order": [
+        "evt-009",
+        "evt-034",
+        "evt-053",
+        "evt-086"
+      ],
+      "explanation": "Orden correcto: «Los hicsos en Egipto» (c. 1650–1550 a. C.) → «La estela de Mesha, rey de Moab» (c. 840 a. C.) → «Primera deportación a Babilonia» (597 a. C.) → «Pablo, prisionero rumbo a Roma» (c. 57–62 d. C.)",
+      "related_ids": [
+        "evt-009",
+        "evt-034",
+        "evt-053",
+        "evt-086"
+      ],
+      "certainty": "consensus",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-095",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: ordena estos eventos",
+      "type": "quiz",
+      "quiz_type": "order-events",
+      "prompt": "Ordena estos eventos del más antiguo al más reciente.",
+      "era": "era-02",
+      "items": [
+        {
+          "event_id": "evt-014",
+          "label": "Moisés y la zarza ardiente"
+        },
+        {
+          "event_id": "evt-028",
+          "label": "David y Goliat en el valle de Elah"
+        },
+        {
+          "event_id": "evt-076",
+          "label": "Crucifixión y resurrección de Jesús"
+        },
+        {
+          "event_id": "evt-048",
+          "label": "Senaquerib asedia Jerusalén"
+        }
+      ],
+      "correct_order": [
+        "evt-014",
+        "evt-028",
+        "evt-048",
+        "evt-076"
+      ],
+      "explanation": "Orden correcto: «Moisés y la zarza ardiente» (Fecha debatida (cronologías alta y baja)) → «David y Goliat en el valle de Elah» (c. 1020 a. C. (cronología tradicional)) → «Senaquerib asedia Jerusalén» (701 a. C.) → «Crucifixión y resurrección de Jesús» (c. 30 o 33 d. C. (año debatido))",
+      "related_ids": [
+        "evt-014",
+        "evt-028",
+        "evt-048",
+        "evt-076"
+      ],
+      "certainty": "consensus",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-096",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: ordena estos eventos",
+      "type": "quiz",
+      "quiz_type": "order-events",
+      "prompt": "Ordena estos eventos del más antiguo al más reciente.",
+      "era": "era-01",
+      "items": [
+        {
+          "event_id": "evt-002",
+          "label": "El pacto con Abraham"
+        },
+        {
+          "event_id": "evt-018",
+          "label": "El pacto en el Sinaí y los Diez Mandamientos"
+        },
+        {
+          "event_id": "evt-061",
+          "label": "Zorobabel y el Segundo Templo"
+        },
+        {
+          "event_id": "evt-034",
+          "label": "La estela de Mesha, rey de Moab"
+        }
+      ],
+      "correct_order": [
+        "evt-002",
+        "evt-018",
+        "evt-034",
+        "evt-061"
+      ],
+      "explanation": "Orden correcto: «El pacto con Abraham» (c. 2000 a. C. (marco tradicional; fecha debatida)) → «El pacto en el Sinaí y los Diez Mandamientos» (Fecha debatida (cronologías alta y baja)) → «La estela de Mesha, rey de Moab» (c. 840 a. C.) → «Zorobabel y el Segundo Templo» (c. 520–516 a. C.)",
+      "related_ids": [
+        "evt-002",
+        "evt-018",
+        "evt-034",
+        "evt-061"
+      ],
+      "certainty": "consensus",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-097",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: ordena estos eventos",
+      "type": "quiz",
+      "quiz_type": "order-events",
+      "prompt": "Ordena estos eventos del más antiguo al más reciente.",
+      "era": "era-02",
+      "items": [
+        {
+          "event_id": "evt-059",
+          "label": "Ciro toma Babilonia: el Cilindro de Ciro"
+        },
+        {
+          "event_id": "evt-069",
+          "label": "Herodes el Grande reconstruye el Templo"
+        },
+        {
+          "event_id": "evt-081",
+          "label": "La conversión de Saulo en Damasco"
+        },
+        {
+          "event_id": "evt-019",
+          "label": "Cuarenta años en el desierto"
+        }
+      ],
+      "correct_order": [
+        "evt-019",
+        "evt-059",
+        "evt-069",
+        "evt-081"
+      ],
+      "explanation": "Orden correcto: «Cuarenta años en el desierto» (Marco narrativo bíblico (fecha debatida)) → «Ciro toma Babilonia: el Cilindro de Ciro» (539 a. C.) → «Herodes el Grande reconstruye el Templo» (Obras desde c. 20–19 a. C.; reinado 37–4 a. C.) → «La conversión de Saulo en Damasco» (c. 33–36 d. C.)",
+      "related_ids": [
+        "evt-019",
+        "evt-059",
+        "evt-069",
+        "evt-081"
+      ],
+      "certainty": "consensus",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-098",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: ordena estos eventos",
+      "type": "quiz",
+      "quiz_type": "order-events",
+      "prompt": "Ordena estos eventos del más antiguo al más reciente.",
+      "era": "era-01",
+      "items": [
+        {
+          "event_id": "evt-022",
+          "label": "La estela de Merneptah: 'Israel' en Canaán"
+        },
+        {
+          "event_id": "evt-089",
+          "label": "La inscripción de Erasto en Corinto"
+        },
+        {
+          "event_id": "evt-002",
+          "label": "El pacto con Abraham"
+        },
+        {
+          "event_id": "evt-048",
+          "label": "Senaquerib asedia Jerusalén"
+        }
+      ],
+      "correct_order": [
+        "evt-002",
+        "evt-022",
+        "evt-048",
+        "evt-089"
+      ],
+      "explanation": "Orden correcto: «El pacto con Abraham» (c. 2000 a. C. (marco tradicional; fecha debatida)) → «La estela de Merneptah: 'Israel' en Canaán» (c. 1207 a. C.) → «Senaquerib asedia Jerusalén» (701 a. C.) → «La inscripción de Erasto en Corinto» (c. 50–60 d. C.)",
+      "related_ids": [
+        "evt-002",
+        "evt-022",
+        "evt-048",
+        "evt-089"
+      ],
+      "certainty": "consensus",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-099",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: ordena estos eventos",
+      "type": "quiz",
+      "quiz_type": "order-events",
+      "prompt": "Ordena estos eventos del más antiguo al más reciente.",
+      "era": "era-02",
+      "items": [
+        {
+          "event_id": "evt-058",
+          "label": "Nabucodonosor II y la Babilonia imperial"
+        },
+        {
+          "event_id": "evt-029",
+          "label": "David toma Jerusalén"
+        },
+        {
+          "event_id": "evt-025",
+          "label": "Sansón y los filisteos"
+        },
+        {
+          "event_id": "evt-047",
+          "label": "Caída de Samaria ante Asiria"
+        }
+      ],
+      "correct_order": [
+        "evt-025",
+        "evt-029",
+        "evt-047",
+        "evt-058"
+      ],
+      "explanation": "Orden correcto: «Sansón y los filisteos» (Período de los jueces tardío (fecha aproximada)) → «David toma Jerusalén» (c. 1000 a. C. (cronología tradicional)) → «Caída de Samaria ante Asiria» (722 a. C.) → «Nabucodonosor II y la Babilonia imperial» (605–562 a. C.)",
+      "related_ids": [
+        "evt-025",
+        "evt-029",
+        "evt-047",
+        "evt-058"
+      ],
+      "certainty": "consensus",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-100",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: ordena estos eventos",
+      "type": "quiz",
+      "quiz_type": "order-events",
+      "prompt": "Ordena estos eventos del más antiguo al más reciente.",
+      "era": "era-02",
+      "items": [
+        {
+          "event_id": "evt-034",
+          "label": "La estela de Mesha, rey de Moab"
+        },
+        {
+          "event_id": "evt-073",
+          "label": "El ministerio de Jesús en Galilea"
+        },
+        {
+          "event_id": "evt-017",
+          "label": "El cruce del mar de los Juncos"
+        },
+        {
+          "event_id": "evt-042",
+          "label": "Eliseo y Naamán el sirio"
+        }
+      ],
+      "correct_order": [
+        "evt-017",
+        "evt-042",
+        "evt-034",
+        "evt-073"
+      ],
+      "explanation": "Orden correcto: «El cruce del mar de los Juncos» (Fecha debatida (cronologías alta y baja)) → «Eliseo y Naamán el sirio» (c. 830 a. C. (marco tradicional)) → «La estela de Mesha, rey de Moab» (c. 840 a. C.) → «El ministerio de Jesús en Galilea» (c. 27–30 d. C.)",
+      "related_ids": [
+        "evt-017",
+        "evt-042",
+        "evt-034",
+        "evt-073"
+      ],
+      "certainty": "consensus",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-101",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: ordena estos eventos",
+      "type": "quiz",
+      "quiz_type": "order-events",
+      "prompt": "Ordena estos eventos del más antiguo al más reciente.",
+      "era": "era-04",
+      "items": [
+        {
+          "event_id": "evt-050",
+          "label": "La reforma de Josías y el hallazgo del libro"
+        },
+        {
+          "event_id": "evt-087",
+          "label": "Nerón y la primera persecución en Roma"
+        },
+        {
+          "event_id": "evt-070",
+          "label": "El censo de Quirino"
+        },
+        {
+          "event_id": "evt-054",
+          "label": "Caída de Jerusalén y destrucción del Templo"
+        }
+      ],
+      "correct_order": [
+        "evt-050",
+        "evt-054",
+        "evt-070",
+        "evt-087"
+      ],
+      "explanation": "Orden correcto: «La reforma de Josías y el hallazgo del libro» (622 a. C.) → «Caída de Jerusalén y destrucción del Templo» (586 a. C.) → «El censo de Quirino» (Fecha debatida (entre 4 a. C. y 6 d. C.)) → «Nerón y la primera persecución en Roma» (64–68 d. C.)",
+      "related_ids": [
+        "evt-050",
+        "evt-054",
+        "evt-070",
+        "evt-087"
+      ],
+      "certainty": "consensus",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-102",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: ordena estos eventos",
+      "type": "quiz",
+      "quiz_type": "order-events",
+      "prompt": "Ordena estos eventos del más antiguo al más reciente.",
+      "era": "era-01",
+      "items": [
+        {
+          "event_id": "evt-020",
+          "label": "Muerte de Moisés y Josué como sucesor"
+        },
+        {
+          "event_id": "evt-001",
+          "label": "Abraham sale de Ur hacia Canaán"
+        },
+        {
+          "event_id": "evt-058",
+          "label": "Nabucodonosor II y la Babilonia imperial"
+        },
+        {
+          "event_id": "evt-034",
+          "label": "La estela de Mesha, rey de Moab"
+        }
+      ],
+      "correct_order": [
+        "evt-001",
+        "evt-020",
+        "evt-034",
+        "evt-058"
+      ],
+      "explanation": "Orden correcto: «Abraham sale de Ur hacia Canaán» (c. 2100–1900 a. C. (fecha debatida)) → «Muerte de Moisés y Josué como sucesor» (Marco narrativo bíblico (fecha debatida)) → «La estela de Mesha, rey de Moab» (c. 840 a. C.) → «Nabucodonosor II y la Babilonia imperial» (605–562 a. C.)",
+      "related_ids": [
+        "evt-001",
+        "evt-020",
+        "evt-034",
+        "evt-058"
+      ],
+      "certainty": "consensus",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-103",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: ordena estos eventos",
+      "type": "quiz",
+      "quiz_type": "order-events",
+      "prompt": "Ordena estos eventos del más antiguo al más reciente.",
+      "era": "era-01",
+      "items": [
+        {
+          "event_id": "evt-036",
+          "label": "Los fenicios y la ciudad de Tiro"
+        },
+        {
+          "event_id": "evt-011",
+          "label": "Los doce hijos de Jacob: origen de las tribus"
+        },
+        {
+          "event_id": "evt-014",
+          "label": "Moisés y la zarza ardiente"
+        },
+        {
+          "event_id": "evt-067",
+          "label": "La revuelta macabea y la fiesta de Janucá"
+        }
+      ],
+      "correct_order": [
+        "evt-011",
+        "evt-014",
+        "evt-036",
+        "evt-067"
+      ],
+      "explanation": "Orden correcto: «Los doce hijos de Jacob: origen de las tribus» (Marco tradicional patriarcal (fecha debatida)) → «Moisés y la zarza ardiente» (Fecha debatida (cronologías alta y baja)) → «Los fenicios y la ciudad de Tiro» (c. 1000–900 a. C.) → «La revuelta macabea y la fiesta de Janucá» (167–160 a. C.)",
+      "related_ids": [
+        "evt-011",
+        "evt-014",
+        "evt-036",
+        "evt-067"
+      ],
+      "certainty": "consensus",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-104",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: ordena estos eventos",
+      "type": "quiz",
+      "quiz_type": "order-events",
+      "prompt": "Ordena estos eventos del más antiguo al más reciente.",
+      "era": "era-03",
+      "items": [
+        {
+          "event_id": "evt-090",
+          "label": "Juan en Patmos y el Apocalipsis"
+        },
+        {
+          "event_id": "evt-038",
+          "label": "Absalón se rebela contra David"
+        },
+        {
+          "event_id": "evt-062",
+          "label": "Ester en la corte de Susa"
+        },
+        {
+          "event_id": "evt-068",
+          "label": "Pompeyo toma Jerusalén"
+        }
+      ],
+      "correct_order": [
+        "evt-038",
+        "evt-062",
+        "evt-068",
+        "evt-090"
+      ],
+      "explanation": "Orden correcto: «Absalón se rebela contra David» (Reinado de David (marco tradicional)) → «Ester en la corte de Susa» (Época persa (marco tradicional; historicidad debatida)) → «Pompeyo toma Jerusalén» (63 a. C.) → «Juan en Patmos y el Apocalipsis» (c. 95 d. C. (fecha tradicional; debatida))",
+      "related_ids": [
+        "evt-038",
+        "evt-062",
+        "evt-068",
+        "evt-090"
+      ],
+      "certainty": "consensus",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-105",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: ordena estos eventos",
+      "type": "quiz",
+      "quiz_type": "order-events",
+      "prompt": "Ordena estos eventos del más antiguo al más reciente.",
+      "era": "era-02",
+      "items": [
+        {
+          "event_id": "evt-083",
+          "label": "El concilio de Jerusalén"
+        },
+        {
+          "event_id": "evt-023",
+          "label": "Débora y Barac contra Sísara"
+        },
+        {
+          "event_id": "evt-044",
+          "label": "Acab, Jezabel y la batalla de Qarqar"
+        },
+        {
+          "event_id": "evt-039",
+          "label": "David y Betsabé: el profeta Natán confronta al rey"
+        }
+      ],
+      "correct_order": [
+        "evt-023",
+        "evt-039",
+        "evt-044",
+        "evt-083"
+      ],
+      "explanation": "Orden correcto: «Débora y Barac contra Sísara» (Período de los jueces (fecha aproximada y debatida)) → «David y Betsabé: el profeta Natán confronta al rey» (Reinado de David (marco tradicional)) → «Acab, Jezabel y la batalla de Qarqar» (853 a. C.) → «El concilio de Jerusalén» (c. 49 d. C.)",
+      "related_ids": [
+        "evt-023",
+        "evt-039",
+        "evt-044",
+        "evt-083"
+      ],
+      "certainty": "consensus",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-106",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: ordena estos eventos",
+      "type": "quiz",
+      "quiz_type": "order-events",
+      "prompt": "Ordena estos eventos del más antiguo al más reciente.",
+      "era": "era-02",
+      "items": [
+        {
+          "event_id": "evt-061",
+          "label": "Zorobabel y el Segundo Templo"
+        },
+        {
+          "event_id": "evt-050",
+          "label": "La reforma de Josías y el hallazgo del libro"
+        },
+        {
+          "event_id": "evt-025",
+          "label": "Sansón y los filisteos"
+        },
+        {
+          "event_id": "evt-037",
+          "label": "El calendario de Gézer"
+        }
+      ],
+      "correct_order": [
+        "evt-025",
+        "evt-037",
+        "evt-050",
+        "evt-061"
+      ],
+      "explanation": "Orden correcto: «Sansón y los filisteos» (Período de los jueces tardío (fecha aproximada)) → «El calendario de Gézer» (c. 925 a. C.) → «La reforma de Josías y el hallazgo del libro» (622 a. C.) → «Zorobabel y el Segundo Templo» (c. 520–516 a. C.)",
+      "related_ids": [
+        "evt-025",
+        "evt-037",
+        "evt-050",
+        "evt-061"
+      ],
+      "certainty": "consensus",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-107",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: ordena estos eventos",
+      "type": "quiz",
+      "quiz_type": "order-events",
+      "prompt": "Ordena estos eventos del más antiguo al más reciente.",
+      "era": "era-01",
+      "items": [
+        {
+          "event_id": "evt-047",
+          "label": "Caída de Samaria ante Asiria"
+        },
+        {
+          "event_id": "evt-077",
+          "label": "Los rollos del Mar Muerto en Qumrán"
+        },
+        {
+          "event_id": "evt-004",
+          "label": "Jacob en Harán y el sueño de Betel"
+        },
+        {
+          "event_id": "evt-082",
+          "label": "Pedro y Cornelio: el evangelio a los gentiles"
+        }
+      ],
+      "correct_order": [
+        "evt-004",
+        "evt-047",
+        "evt-077",
+        "evt-082"
+      ],
+      "explanation": "Orden correcto: «Jacob en Harán y el sueño de Betel» (Marco tradicional patriarcal (fecha debatida)) → «Caída de Samaria ante Asiria» (722 a. C.) → «Los rollos del Mar Muerto en Qumrán» (Textos c. 250 a. C.–68 d. C.; hallazgo 1947–1956) → «Pedro y Cornelio: el evangelio a los gentiles» (c. 40 d. C.)",
+      "related_ids": [
+        "evt-004",
+        "evt-047",
+        "evt-077",
+        "evt-082"
+      ],
+      "certainty": "consensus",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-108",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: ordena estos eventos",
+      "type": "quiz",
+      "quiz_type": "order-events",
+      "prompt": "Ordena estos eventos del más antiguo al más reciente.",
+      "era": "era-01",
+      "items": [
+        {
+          "event_id": "evt-061",
+          "label": "Zorobabel y el Segundo Templo"
+        },
+        {
+          "event_id": "evt-087",
+          "label": "Nerón y la primera persecución en Roma"
+        },
+        {
+          "event_id": "evt-004",
+          "label": "Jacob en Harán y el sueño de Betel"
+        },
+        {
+          "event_id": "evt-027",
+          "label": "Samuel unge a Saúl como primer rey"
+        }
+      ],
+      "correct_order": [
+        "evt-004",
+        "evt-027",
+        "evt-061",
+        "evt-087"
+      ],
+      "explanation": "Orden correcto: «Jacob en Harán y el sueño de Betel» (Marco tradicional patriarcal (fecha debatida)) → «Samuel unge a Saúl como primer rey» (c. 1050–1010 a. C. (cronología tradicional)) → «Zorobabel y el Segundo Templo» (c. 520–516 a. C.) → «Nerón y la primera persecución en Roma» (64–68 d. C.)",
+      "related_ids": [
+        "evt-004",
+        "evt-027",
+        "evt-061",
+        "evt-087"
+      ],
+      "certainty": "consensus",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-109",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: el lugar «Tiberíades»",
+      "type": "quiz",
+      "quiz_type": "identify-place",
+      "prompt": "¿Cuál es el nombre moderno de «Tiberíades»?",
+      "era": "era-06",
+      "options": [
+        {
+          "id": "a",
+          "text": "Malta"
+        },
+        {
+          "id": "b",
+          "text": "Israel"
+        },
+        {
+          "id": "c",
+          "text": "Nablus, Cisjordania"
+        },
+        {
+          "id": "d",
+          "text": "Sebaste, Cisjordania"
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "«Tiberíades» → Israel. Nueva capital de Antipas a orillas del lago; tampoco aparece en los evangelios.",
+      "related_ids": [
+        "map-07"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-110",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: identifica el lugar",
+      "type": "quiz",
+      "quiz_type": "identify-place",
+      "prompt": "En el mapa «El viaje de Abraham», ¿qué lugar antiguo es hoy «Nablus, Cisjordania»?",
+      "era": "era-01",
+      "options": [
+        {
+          "id": "a",
+          "text": "Siquem"
+        },
+        {
+          "id": "b",
+          "text": "Hebrón"
+        },
+        {
+          "id": "c",
+          "text": "Caná"
+        },
+        {
+          "id": "d",
+          "text": "Monte Sinaí"
+        }
+      ],
+      "correct_option_id": "a",
+      "explanation": "«Nablus, Cisjordania» es el nombre moderno de «Siquem». Primera parada en Canaán según Génesis 12; ciudad cananea real.",
+      "related_ids": [
+        "map-01"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-111",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: el lugar «Jerusalén»",
+      "type": "quiz",
+      "quiz_type": "identify-place",
+      "prompt": "¿Cuál es el nombre moderno de «Jerusalén»?",
+      "era": "era-06",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hebrón, Cisjordania"
+        },
+        {
+          "id": "b",
+          "text": "Sebaste, Cisjordania"
+        },
+        {
+          "id": "c",
+          "text": "Jerusalén"
+        },
+        {
+          "id": "d",
+          "text": "Nazaret, Israel"
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "«Jerusalén» → Jerusalén. Entrada, última cena, Getsemaní y Gólgota.",
+      "related_ids": [
+        "map-08"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-112",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: identifica el lugar",
+      "type": "quiz",
+      "quiz_type": "identify-place",
+      "prompt": "En el mapa «Judea y Galilea en tiempos de Jesús», ¿qué lugar antiguo es hoy «Israel»?",
+      "era": "era-06",
+      "options": [
+        {
+          "id": "a",
+          "text": "Llanuras de Moab"
+        },
+        {
+          "id": "b",
+          "text": "Séforis"
+        },
+        {
+          "id": "c",
+          "text": "Hebrón"
+        },
+        {
+          "id": "d",
+          "text": "Jericó"
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "«Israel» es el nombre moderno de «Séforis». Capital galilea de Antipas; ciudad helenizada que los evangelios no mencionan.",
+      "related_ids": [
+        "map-07"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-113",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: el lugar «Rabá»",
+      "type": "quiz",
+      "quiz_type": "identify-place",
+      "prompt": "¿Cuál es el nombre moderno de «Rabá»?",
+      "era": "era-03",
+      "options": [
+        {
+          "id": "a",
+          "text": "Konya, Turquía"
+        },
+        {
+          "id": "b",
+          "text": "Ain Qedeis, Neguev"
+        },
+        {
+          "id": "c",
+          "text": "Sur de Irak"
+        },
+        {
+          "id": "d",
+          "text": "Amán, Jordania"
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "«Rabá» → Amán, Jordania. Capital amonita tomada por Joab; escenario del episodio de Urías.",
+      "related_ids": [
+        "map-04"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-114",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: identifica el lugar",
+      "type": "quiz",
+      "quiz_type": "identify-place",
+      "prompt": "En el mapa «El ministerio de Jesús», ¿qué lugar antiguo es hoy «Al-Azariya, Cisjordania»?",
+      "era": "era-06",
+      "options": [
+        {
+          "id": "a",
+          "text": "Betania"
+        },
+        {
+          "id": "b",
+          "text": "Harán"
+        },
+        {
+          "id": "c",
+          "text": "Monte Sinaí"
+        },
+        {
+          "id": "d",
+          "text": "Samaria"
+        }
+      ],
+      "correct_option_id": "a",
+      "explanation": "«Al-Azariya, Cisjordania» es el nombre moderno de «Betania». Hogar de Marta, María y Lázaro; punto de partida hacia Jerusalén.",
+      "related_ids": [
+        "map-08"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-115",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: el lugar «Derbe»",
+      "type": "quiz",
+      "quiz_type": "identify-place",
+      "prompt": "¿Cuál es el nombre moderno de «Derbe»?",
+      "era": "era-07",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cisjordania"
+        },
+        {
+          "id": "b",
+          "text": "Jerusalén"
+        },
+        {
+          "id": "c",
+          "text": "Irak"
+        },
+        {
+          "id": "d",
+          "text": "Turquía"
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "«Derbe» → Turquía. Punto más oriental del viaje; desde aquí regresan por el mismo camino.",
+      "related_ids": [
+        "map-09"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-116",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: identifica el lugar",
+      "type": "quiz",
+      "quiz_type": "identify-place",
+      "prompt": "En el mapa «El asentamiento de las tribus», ¿qué lugar antiguo es hoy «Beerseba, Israel»?",
+      "era": "era-02",
+      "options": [
+        {
+          "id": "a",
+          "text": "Harán"
+        },
+        {
+          "id": "b",
+          "text": "Megido"
+        },
+        {
+          "id": "c",
+          "text": "Beerseba"
+        },
+        {
+          "id": "d",
+          "text": "Cafarnaúm"
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "«Beerseba, Israel» es el nombre moderno de «Beerseba». Territorio de Simeón, absorbido luego por Judá; extremo sur tradicional.",
+      "related_ids": [
+        "map-03"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-117",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: el lugar «Betania»",
+      "type": "quiz",
+      "quiz_type": "identify-place",
+      "prompt": "¿Cuál es el nombre moderno de «Betania»?",
+      "era": "era-06",
+      "options": [
+        {
+          "id": "a",
+          "text": "Israel"
+        },
+        {
+          "id": "b",
+          "text": "Al-Azariya, Cisjordania"
+        },
+        {
+          "id": "c",
+          "text": "Tel Megido, Israel"
+        },
+        {
+          "id": "d",
+          "text": "Israel"
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "«Betania» → Al-Azariya, Cisjordania. Hogar de Marta, María y Lázaro; punto de partida hacia Jerusalén.",
+      "related_ids": [
+        "map-08"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-118",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: identifica el lugar",
+      "type": "quiz",
+      "quiz_type": "identify-place",
+      "prompt": "En el mapa «La expansión asiria y la caída del norte», ¿qué lugar antiguo es hoy «Mosul, Irak»?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cafarnaúm"
+        },
+        {
+          "id": "b",
+          "text": "Nínive"
+        },
+        {
+          "id": "c",
+          "text": "Río Quebar"
+        },
+        {
+          "id": "d",
+          "text": "Iconio"
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "«Mosul, Irak» es el nombre moderno de «Nínive». Capital asiria; sus palacios y relieves narran las campañas del oeste.",
+      "related_ids": [
+        "map-05"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-119",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: el lugar «Atenas»",
+      "type": "quiz",
+      "quiz_type": "identify-place",
+      "prompt": "¿Cuál es el nombre moderno de «Atenas»?",
+      "era": "era-07",
+      "options": [
+        {
+          "id": "a",
+          "text": "Harran, Turquía"
+        },
+        {
+          "id": "b",
+          "text": "Chipre"
+        },
+        {
+          "id": "c",
+          "text": "Grecia"
+        },
+        {
+          "id": "d",
+          "text": "Tel Hazor, Israel"
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "«Atenas» → Grecia. El discurso en el Areópago ante filósofos estoicos y epicúreos.",
+      "related_ids": [
+        "map-10"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-120",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: identifica el lugar",
+      "type": "quiz",
+      "quiz_type": "identify-place",
+      "prompt": "En el mapa «Los últimos viajes de Pablo hasta Roma», ¿qué lugar antiguo es hoy «Grecia»?",
+      "era": "era-07",
+      "options": [
+        {
+          "id": "a",
+          "text": "Salamina"
+        },
+        {
+          "id": "b",
+          "text": "Tesalónica"
+        },
+        {
+          "id": "c",
+          "text": "Séforis"
+        },
+        {
+          "id": "d",
+          "text": "Guilgal"
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "«Grecia» es el nombre moderno de «Tesalónica». Capital de Macedonia; dos cartas conservadas.",
+      "related_ids": [
+        "map-10"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-121",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: el lugar «Rabá»",
+      "type": "quiz",
+      "quiz_type": "identify-place",
+      "prompt": "¿Cuál es el nombre moderno de «Rabá»?",
+      "era": "era-03",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nablus, Cisjordania"
+        },
+        {
+          "id": "b",
+          "text": "Amán, Jordania"
+        },
+        {
+          "id": "c",
+          "text": "Beerseba, Israel"
+        },
+        {
+          "id": "d",
+          "text": "Jerusalén"
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "«Rabá» → Amán, Jordania. Capital amonita tomada por Joab; escenario del episodio de Urías.",
+      "related_ids": [
+        "map-04"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-122",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: identifica el lugar",
+      "type": "quiz",
+      "quiz_type": "identify-place",
+      "prompt": "En el mapa «El viaje de Abraham», ¿qué lugar antiguo es hoy «Hebrón, Cisjordania»?",
+      "era": "era-01",
+      "options": [
+        {
+          "id": "a",
+          "text": "Betel"
+        },
+        {
+          "id": "b",
+          "text": "Babilonia"
+        },
+        {
+          "id": "c",
+          "text": "Hebrón"
+        },
+        {
+          "id": "d",
+          "text": "Antioquía de Siria"
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "«Hebrón, Cisjordania» es el nombre moderno de «Hebrón». Donde Abraham compró la cueva de Macpela; ciudad habitada desde la Edad del Bronce.",
+      "related_ids": [
+        "map-01"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-123",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: el lugar «Nazaret»",
+      "type": "quiz",
+      "quiz_type": "identify-place",
+      "prompt": "¿Cuál es el nombre moderno de «Nazaret»?",
+      "era": "era-06",
+      "options": [
+        {
+          "id": "a",
+          "text": "Grecia"
+        },
+        {
+          "id": "b",
+          "text": "Belén, Cisjordania"
+        },
+        {
+          "id": "c",
+          "text": "Konya, Turquía"
+        },
+        {
+          "id": "d",
+          "text": "Nazaret, Israel"
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "«Nazaret» → Nazaret, Israel. Aldea galilea donde creció Jesús; sinagoga del siglo I en debate.",
+      "related_ids": [
+        "map-07"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-124",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: identifica el lugar",
+      "type": "quiz",
+      "quiz_type": "identify-place",
+      "prompt": "En el mapa «Los últimos viajes de Pablo hasta Roma», ¿qué lugar antiguo es hoy «Grecia»?",
+      "era": "era-07",
+      "options": [
+        {
+          "id": "a",
+          "text": "Río Quebar"
+        },
+        {
+          "id": "b",
+          "text": "Damasco"
+        },
+        {
+          "id": "c",
+          "text": "Valle de Elah"
+        },
+        {
+          "id": "d",
+          "text": "Tesalónica"
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "«Grecia» es el nombre moderno de «Tesalónica». Capital de Macedonia; dos cartas conservadas.",
+      "related_ids": [
+        "map-10"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-125",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: el lugar «Hebrón»",
+      "type": "quiz",
+      "quiz_type": "identify-place",
+      "prompt": "¿Cuál es el nombre moderno de «Hebrón»?",
+      "era": "era-02",
+      "options": [
+        {
+          "id": "a",
+          "text": "Banias, Israel"
+        },
+        {
+          "id": "b",
+          "text": "Beitín, Cisjordania"
+        },
+        {
+          "id": "c",
+          "text": "Hebrón, Cisjordania"
+        },
+        {
+          "id": "d",
+          "text": "Israel"
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "«Hebrón» → Hebrón, Cisjordania. Centro del territorio de Judá antes de la conquista de Jerusalén.",
+      "related_ids": [
+        "map-03"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-126",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: identifica el lugar",
+      "type": "quiz",
+      "quiz_type": "identify-place",
+      "prompt": "En el mapa «Los últimos viajes de Pablo hasta Roma», ¿qué lugar antiguo es hoy «Grecia»?",
+      "era": "era-07",
+      "options": [
+        {
+          "id": "a",
+          "text": "Monte Sinaí"
+        },
+        {
+          "id": "b",
+          "text": "Nazaret"
+        },
+        {
+          "id": "c",
+          "text": "Filipos"
+        },
+        {
+          "id": "d",
+          "text": "Éfeso"
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "«Grecia» es el nombre moderno de «Filipos». Primera iglesia en Europa; la carta a los Filipenses.",
+      "related_ids": [
+        "map-10"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-127",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: el lugar «Antioquía de Siria»",
+      "type": "quiz",
+      "quiz_type": "identify-place",
+      "prompt": "¿Cuál es el nombre moderno de «Antioquía de Siria»?",
+      "era": "era-07",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nablus, Cisjordania"
+        },
+        {
+          "id": "b",
+          "text": "Antakya, Turquía"
+        },
+        {
+          "id": "c",
+          "text": "Irak"
+        },
+        {
+          "id": "d",
+          "text": "Jordania"
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "«Antioquía de Siria» → Antakya, Turquía. Tercera ciudad del imperio; base de la misión a los gentiles.",
+      "related_ids": [
+        "map-09"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-128",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: identifica el lugar",
+      "type": "quiz",
+      "quiz_type": "identify-place",
+      "prompt": "En el mapa «El viaje de Abraham», ¿qué lugar antiguo es hoy «Beerseba, Israel»?",
+      "era": "era-01",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hazor"
+        },
+        {
+          "id": "b",
+          "text": "Cades-Barnea"
+        },
+        {
+          "id": "c",
+          "text": "Beerseba"
+        },
+        {
+          "id": "d",
+          "text": "Nazaret"
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "«Beerseba, Israel» es el nombre moderno de «Beerseba». Pozo del juramento; límite sur tradicional de la tierra ('de Dan a Beerseba').",
+      "related_ids": [
+        "map-01"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-129",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: la sección de Santiago",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿A qué sección pertenece el libro de Santiago?",
+      "era": "era-07",
+      "options": [
+        {
+          "id": "a",
+          "text": "Profetas Mayores"
+        },
+        {
+          "id": "b",
+          "text": "Cartas generales"
+        },
+        {
+          "id": "c",
+          "text": "Históricos"
+        },
+        {
+          "id": "d",
+          "text": "Otras cartas"
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "Santiago (Nuevo Testamento) pertenece a Cartas generales. La tradición lo atribuye a Santiago, el hermano del Señor.",
+      "related_ids": [
+        "book-059"
+      ],
+      "certainty": "disputed",
+      "confidence": "low",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Eerdmans Dictionary of the Bible"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-130",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: fecha de 2 Samuel",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Cómo se fecha tradicionalmente el libro de 2 Samuel?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "Eventos c. 1010–970 a. C.; redacción posterior."
+        },
+        {
+          "id": "b",
+          "text": "Fecha debatida: tradición tardía de Pablo o generación posterior."
+        },
+        {
+          "id": "c",
+          "text": "c. 54–55 d. C., desde Éfeso."
+        },
+        {
+          "id": "d",
+          "text": "c. 627–580 a. C."
+        }
+      ],
+      "correct_option_id": "a",
+      "explanation": "2 Samuel: Eventos c. 1010–970 a. C.; redacción posterior.. Nota académica: La dinastía davídica está confirmada por la estela de Tel Dan; la magnitud del reino se debate.",
+      "related_ids": [
+        "book-010"
+      ],
+      "certainty": "disputed",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Eerdmans Dictionary of the Bible"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-131",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: la sección de Job",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿A qué sección pertenece el libro de Job?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "Historia"
+        },
+        {
+          "id": "b",
+          "text": "Poéticos"
+        },
+        {
+          "id": "c",
+          "text": "Cartas generales"
+        },
+        {
+          "id": "d",
+          "text": "Otras cartas"
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "Job (Antiguo Testamento) pertenece a Poéticos. Autor desconocido; la tradición lo sitúa en la época patriarcal.",
+      "related_ids": [
+        "book-018"
+      ],
+      "certainty": "disputed",
+      "confidence": "low",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Eerdmans Dictionary of the Bible"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-132",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: fecha de 1 Timoteo",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Cómo se fecha tradicionalmente el libro de 1 Timoteo?",
+      "era": "era-07",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fecha debatida: tradición tardía de Pablo o generación posterior."
+        },
+        {
+          "id": "b",
+          "text": "Núcleo del siglo VIII; capítulos 40–66 de época posterior según la crítica."
+        },
+        {
+          "id": "c",
+          "text": "c. 60–62 d. C. (tradicional) o posterior."
+        },
+        {
+          "id": "d",
+          "text": "Fecha debatida."
+        }
+      ],
+      "correct_option_id": "a",
+      "explanation": "1 Timoteo: Fecha debatida: tradición tardía de Pablo o generación posterior.. Nota académica: Las cartas pastorales (1–2 Timoteo, Tito) comparten estilo distinto al de Pablo; la autoría se debate intensamente.",
+      "related_ids": [
+        "book-054"
+      ],
+      "certainty": "disputed",
+      "confidence": "low",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Eerdmans Dictionary of the Bible"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-133",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: la sección de Oseas",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿A qué sección pertenece el libro de Oseas?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "Evangelios"
+        },
+        {
+          "id": "b",
+          "text": "Otras cartas"
+        },
+        {
+          "id": "c",
+          "text": "Cartas generales"
+        },
+        {
+          "id": "d",
+          "text": "Profetas Menores"
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "Oseas (Antiguo Testamento) pertenece a Profetas Menores. La tradición lo atribuye a Oseas, del reino del norte.",
+      "related_ids": [
+        "book-028"
+      ],
+      "certainty": "traditional",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Eerdmans Dictionary of the Bible"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-134",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: fecha de Amós",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Cómo se fecha tradicionalmente el libro de Amós?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fecha debatida: tras la caída de Jerusalén (586 a. C.) u otra crisis."
+        },
+        {
+          "id": "b",
+          "text": "c. 760 a. C. (reinado de Jeroboam II)."
+        },
+        {
+          "id": "c",
+          "text": "Reinado de Josías (c. 640–609 a. C.)."
+        },
+        {
+          "id": "d",
+          "text": "c. 60–90 d. C."
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "Amós: c. 760 a. C. (reinado de Jeroboam II).. Nota académica: Generalmente aceptado como el primer profeta escritor; su contexto socioeconómico tiene correlato arqueológico.",
+      "related_ids": [
+        "book-030"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Eerdmans Dictionary of the Bible"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-135",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: la sección de Lucas",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿A qué sección pertenece el libro de Lucas?",
+      "era": "era-07",
+      "options": [
+        {
+          "id": "a",
+          "text": "Históricos"
+        },
+        {
+          "id": "b",
+          "text": "Poéticos"
+        },
+        {
+          "id": "c",
+          "text": "Evangelios"
+        },
+        {
+          "id": "d",
+          "text": "Profetas Mayores"
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "Lucas (Nuevo Testamento) pertenece a Evangelios. La tradición lo atribuye a Lucas, compañero de Pablo.",
+      "related_ids": [
+        "book-042"
+      ],
+      "certainty": "traditional",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Eerdmans Dictionary of the Bible"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-136",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: fecha de 3 Juan",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Cómo se fecha tradicionalmente el libro de 3 Juan?",
+      "era": "era-07",
+      "options": [
+        {
+          "id": "a",
+          "text": "c. 55–56 d. C."
+        },
+        {
+          "id": "b",
+          "text": "Finales del siglo VII a. C."
+        },
+        {
+          "id": "c",
+          "text": "Núcleo vinculado a la reforma de Josías (622 a. C.) según una hipótesis influyente."
+        },
+        {
+          "id": "d",
+          "text": "c. 90–100 d. C."
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "3 Juan: c. 90–100 d. C.. Nota académica: Ventana única a los conflictos de liderazgo de las iglesias joánicas.",
+      "related_ids": [
+        "book-064"
+      ],
+      "certainty": "disputed",
+      "confidence": "low",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Eerdmans Dictionary of the Bible"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-137",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: la sección de Judas",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿A qué sección pertenece el libro de Judas?",
+      "era": "era-07",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pentateuco"
+        },
+        {
+          "id": "b",
+          "text": "Cartas generales"
+        },
+        {
+          "id": "c",
+          "text": "Cartas de Pablo"
+        },
+        {
+          "id": "d",
+          "text": "Historia"
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "Judas (Nuevo Testamento) pertenece a Cartas generales. La tradición lo atribuye a Judas, hermano de Santiago.",
+      "related_ids": [
+        "book-065"
+      ],
+      "certainty": "disputed",
+      "confidence": "low",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Eerdmans Dictionary of the Bible"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-138",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: fecha de Jueces",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Cómo se fecha tradicionalmente el libro de Jueces?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "c. 60–62 d. C."
+        },
+        {
+          "id": "b",
+          "text": "Redacción final probablemente exílica; eventos situados c. 1200–1050 a. C."
+        },
+        {
+          "id": "c",
+          "text": "Fecha debatida: siglo I tardío."
+        },
+        {
+          "id": "d",
+          "text": "Núcleo vinculado a la reforma de Josías (622 a. C.) según una hipótesis influyente."
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "Jueces: Redacción final probablemente exílica; eventos situados c. 1200–1050 a. C.. Nota académica: El marco cronológico es esquemático; algunos cánticos (Débora) se consideran muy antiguos.",
+      "related_ids": [
+        "book-007"
+      ],
+      "certainty": "disputed",
+      "confidence": "low",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Eerdmans Dictionary of the Bible"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-139",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: la sección de Hechos",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿A qué sección pertenece el libro de Hechos?",
+      "era": "era-07",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pentateuco"
+        },
+        {
+          "id": "b",
+          "text": "Otras cartas"
+        },
+        {
+          "id": "c",
+          "text": "Historia"
+        },
+        {
+          "id": "d",
+          "text": "Profetas Menores"
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "Hechos (Nuevo Testamento) pertenece a Historia. La tradición lo atribuye a Lucas.",
+      "related_ids": [
+        "book-044"
+      ],
+      "certainty": "traditional",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Eerdmans Dictionary of the Bible"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-140",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: fecha de Jeremías",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Cómo se fecha tradicionalmente el libro de Jeremías?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "c. 760 a. C. (reinado de Jeroboam II)."
+        },
+        {
+          "id": "b",
+          "text": "Redacción final exílica."
+        },
+        {
+          "id": "c",
+          "text": "Poco después del 586 a. C."
+        },
+        {
+          "id": "d",
+          "text": "c. 627–580 a. C."
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "Jeremías: c. 627–580 a. C.. Nota académica: El libro creció por ediciones; la versión griega (Septuaginta) es más breve que la hebrea.",
+      "related_ids": [
+        "book-024"
+      ],
+      "certainty": "traditional",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Eerdmans Dictionary of the Bible"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-141",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: la sección de 1 Tesalonicenses",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿A qué sección pertenece el libro de 1 Tesalonicenses?",
+      "era": "era-07",
+      "options": [
+        {
+          "id": "a",
+          "text": "Profecía"
+        },
+        {
+          "id": "b",
+          "text": "Cartas de Pablo"
+        },
+        {
+          "id": "c",
+          "text": "Evangelios"
+        },
+        {
+          "id": "d",
+          "text": "Poéticos"
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "1 Tesalonicenses (Nuevo Testamento) pertenece a Cartas de Pablo. La tradición y la crítica coinciden: Pablo.",
+      "related_ids": [
+        "book-052"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Eerdmans Dictionary of the Bible"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-142",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: fecha de Jonás",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Cómo se fecha tradicionalmente el libro de Jonás?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "c. 48–55 d. C. (fecha debatida)."
+        },
+        {
+          "id": "b",
+          "text": "Ambientado en la época persa; historicidad debatida."
+        },
+        {
+          "id": "c",
+          "text": "Fecha de composición debatida; Nínive cayó en el 612 a. C."
+        },
+        {
+          "id": "d",
+          "text": "c. 95 d. C. (tradicional; minoría: época de Nerón)."
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "Jonás: Fecha de composición debatida; Nínive cayó en el 612 a. C.. Nota académica: Se lee mayoritariamente como relato didáctico sobre la misericordia universal, no como crónica.",
+      "related_ids": [
+        "book-032"
+      ],
+      "certainty": "disputed",
+      "confidence": "low",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Eerdmans Dictionary of the Bible"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-143",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: la sección de Deuteronomio",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿A qué sección pertenece el libro de Deuteronomio?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "Profetas Mayores"
+        },
+        {
+          "id": "b",
+          "text": "Historia"
+        },
+        {
+          "id": "c",
+          "text": "Históricos"
+        },
+        {
+          "id": "d",
+          "text": "Pentateuco"
+        }
+      ],
+      "correct_option_id": "d",
+      "explanation": "Deuteronomio (Antiguo Testamento) pertenece a Pentateuco. La tradición lo atribuye a Moisés.",
+      "related_ids": [
+        "book-005"
+      ],
+      "certainty": "disputed",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Eerdmans Dictionary of the Bible"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-144",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: fecha de Rut",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Cómo se fecha tradicionalmente el libro de Rut?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "Entre el 663 y el 612 a. C."
+        },
+        {
+          "id": "b",
+          "text": "Eventos c. 1050–970 a. C.; redacción posterior."
+        },
+        {
+          "id": "c",
+          "text": "Ambientado en la época de los jueces; redacción debatida."
+        },
+        {
+          "id": "d",
+          "text": "Fecha debatida."
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "Rut: Ambientado en la época de los jueces; redacción debatida.. Nota académica: Se lee como relato ejemplar postexílico sobre la inclusión; su historicidad es debatida.",
+      "related_ids": [
+        "book-008"
+      ],
+      "certainty": "disputed",
+      "confidence": "low",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Eerdmans Dictionary of the Bible"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-145",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: la sección de Colosenses",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿A qué sección pertenece el libro de Colosenses?",
+      "era": "era-07",
+      "options": [
+        {
+          "id": "a",
+          "text": "Otras cartas"
+        },
+        {
+          "id": "b",
+          "text": "Historia"
+        },
+        {
+          "id": "c",
+          "text": "Cartas de Pablo"
+        },
+        {
+          "id": "d",
+          "text": "Profetas Menores"
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "Colosenses (Nuevo Testamento) pertenece a Cartas de Pablo. La tradición lo atribuye a Pablo.",
+      "related_ids": [
+        "book-051"
+      ],
+      "certainty": "disputed",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Eerdmans Dictionary of the Bible"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-146",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: fecha de Esdras",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Cómo se fecha tradicionalmente el libro de Esdras?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "c. 57 d. C., desde Corinto."
+        },
+        {
+          "id": "b",
+          "text": "c. 400 a. C."
+        },
+        {
+          "id": "c",
+          "text": "Ambientado en la época persa; historicidad debatida."
+        },
+        {
+          "id": "d",
+          "text": "Composición entre el siglo X y el II a. C."
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "Esdras: c. 400 a. C.. Nota académica: Combina documentos oficiales persas (en arameo) con memorias; la cronología de Esdras se debate.",
+      "related_ids": [
+        "book-015"
+      ],
+      "certainty": "traditional",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Eerdmans Dictionary of the Bible"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-147",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: la sección de Nehemías",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿A qué sección pertenece el libro de Nehemías?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "Otras cartas"
+        },
+        {
+          "id": "b",
+          "text": "Pentateuco"
+        },
+        {
+          "id": "c",
+          "text": "Históricos"
+        },
+        {
+          "id": "d",
+          "text": "Profetas Mayores"
+        }
+      ],
+      "correct_option_id": "c",
+      "explanation": "Nehemías (Antiguo Testamento) pertenece a Históricos. La tradición lo atribuye a Nehemías; sus memorias en primera persona.",
+      "related_ids": [
+        "book-016"
+      ],
+      "certainty": "traditional",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Eerdmans Dictionary of the Bible"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-148",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: fecha de Números",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Cómo se fecha tradicionalmente el libro de Números?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "Marco tradicional: época del desierto; redacción debatida."
+        },
+        {
+          "id": "b",
+          "text": "Composición entre el siglo X y el II a. C."
+        },
+        {
+          "id": "c",
+          "text": "c. 90–100 d. C."
+        },
+        {
+          "id": "d",
+          "text": "Fecha de composición debatida: entre el siglo VII y el IV a. C."
+        }
+      ],
+      "correct_option_id": "a",
+      "explanation": "Números: Marco tradicional: época del desierto; redacción debatida.. Nota académica: Combina tradiciones antiguas con edición tardía; su historicidad detallada es debatida.",
+      "related_ids": [
+        "book-004"
+      ],
+      "certainty": "disputed",
+      "confidence": "low",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Eerdmans Dictionary of the Bible"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-149",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: la sección de Filipenses",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿A qué sección pertenece el libro de Filipenses?",
+      "era": "era-07",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cartas de Pablo"
+        },
+        {
+          "id": "b",
+          "text": "Evangelios"
+        },
+        {
+          "id": "c",
+          "text": "Pentateuco"
+        },
+        {
+          "id": "d",
+          "text": "Historia"
+        }
+      ],
+      "correct_option_id": "a",
+      "explanation": "Filipenses (Nuevo Testamento) pertenece a Cartas de Pablo. La tradición y la crítica coinciden: Pablo.",
+      "related_ids": [
+        "book-050"
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Eerdmans Dictionary of the Bible"
+      ],
+      "tier": "premium"
+    },
+    {
+      "id": "quiz-150",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Quiz: fecha de Ezequiel",
+      "type": "quiz",
+      "quiz_type": "multiple-choice",
+      "prompt": "¿Cómo se fecha tradicionalmente el libro de Ezequiel?",
+      "era": "era-04",
+      "options": [
+        {
+          "id": "a",
+          "text": "Marco tradicional: época del desierto; redacción debatida."
+        },
+        {
+          "id": "b",
+          "text": "c. 593–571 a. C."
+        },
+        {
+          "id": "c",
+          "text": "c. 750–725 a. C."
+        },
+        {
+          "id": "d",
+          "text": "Fecha de composición debatida."
+        }
+      ],
+      "correct_option_id": "b",
+      "explanation": "Ezequiel: c. 593–571 a. C.. Nota académica: Las fechas internas del libro son precisas; su unidad literaria se debate.",
+      "related_ids": [
+        "book-026"
+      ],
+      "certainty": "traditional",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Eerdmans Dictionary of the Bible"
+      ],
+      "tier": "premium"
+    }
+  ]
+}

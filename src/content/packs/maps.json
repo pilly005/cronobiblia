@@ -1,0 +1,1969 @@
+{
+  "meta": {
+    "pack": "maps",
+    "version": 1,
+    "status": "DRAFT-AWAITING-REVIEW",
+    "generated": "2026-10-03",
+    "count": 10,
+    "notes": "10 mapas con lugares, rutas GeoJSON, certeza por ruta, narración paso a paso y alternativa textual.",
+    "review": "AI-DRAFT-AWAITING-REVIEW: borrador generado por IA. Requiere revisión histórica, de neutralidad y de estilo antes de publicarse. Nunca presentarlo como verificado."
+  },
+  "items": [
+    {
+      "id": "map-01",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "El viaje de Abraham",
+      "type": "map",
+      "summary": "De Ur de los caldeos a Canaán pasando por Harán: la ruta tradicional del patriarca. El itinerario exacto es reconstruido; las ciudades son reales y están documentadas.",
+      "era": "era-01",
+      "places": [
+        {
+          "id": "map-01-pl-ur",
+          "ancient_name": "Ur de los caldeos",
+          "modern_name": "Tell el-Muqayyar, Irak",
+          "coords": [
+            46.103,
+            30.962
+          ],
+          "description": "Gran ciudad sumeria con el zigurat de Nanna; excavada en 1922–1934."
+        },
+        {
+          "id": "map-01-pl-haran",
+          "ancient_name": "Harán",
+          "modern_name": "Harran, Turquía",
+          "coords": [
+            39.031,
+            36.853
+          ],
+          "description": "Ciudad caravanera de la alta Mesopotamia, centro del culto lunar."
+        },
+        {
+          "id": "map-01-pl-siquem",
+          "ancient_name": "Siquem",
+          "modern_name": "Nablus, Cisjordania",
+          "coords": [
+            35.281,
+            32.221
+          ],
+          "description": "Primera parada en Canaán según Génesis 12; ciudad cananea real."
+        },
+        {
+          "id": "map-01-pl-betel",
+          "ancient_name": "Betel",
+          "modern_name": "Beitín, Cisjordania",
+          "coords": [
+            35.241,
+            31.928
+          ],
+          "description": "Lugar del sueño de la escalera de Jacob."
+        },
+        {
+          "id": "map-01-pl-hebron",
+          "ancient_name": "Hebrón",
+          "modern_name": "Hebrón, Cisjordania",
+          "coords": [
+            35.105,
+            31.532
+          ],
+          "description": "Donde Abraham compró la cueva de Macpela; ciudad habitada desde la Edad del Bronce."
+        },
+        {
+          "id": "map-01-pl-beerseba",
+          "ancient_name": "Beerseba",
+          "modern_name": "Beerseba, Israel",
+          "coords": [
+            34.797,
+            31.253
+          ],
+          "description": "Pozo del juramento; límite sur tradicional de la tierra ('de Dan a Beerseba')."
+        }
+      ],
+      "routes": [
+        {
+          "id": "map-01-rt-abraham",
+          "name": "De Ur a Canaán",
+          "certainty": "reconstructed",
+          "polyline": [
+            [
+              46.103,
+              30.962
+            ],
+            [
+              42.5,
+              34.5
+            ],
+            [
+              39.031,
+              36.853
+            ],
+            [
+              37.5,
+              35
+            ],
+            [
+              36.292,
+              33.513
+            ],
+            [
+              35.281,
+              32.221
+            ],
+            [
+              35.241,
+              31.928
+            ],
+            [
+              35.105,
+              31.532
+            ],
+            [
+              34.797,
+              31.253
+            ]
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "place_id": "map-01-pl-ur",
+              "text": "El texto bíblico presenta la partida desde Ur de los caldeos, la metrópoli sumeria del sur de Mesopotamia.",
+              "related_ids": [
+                "evt-001",
+                "evt-007"
+              ]
+            },
+            {
+              "order": 2,
+              "place_id": "map-01-pl-haran",
+              "text": "La caravana sube por el Éufrates hasta Harán, ciudad de mercaderes donde la familia se establece un tiempo.",
+              "related_ids": [
+                "evt-001"
+              ]
+            },
+            {
+              "order": 3,
+              "place_id": "map-01-pl-siquem",
+              "text": "Desde Harán, la ruta desciende hacia el sur: Damasco y la entrada a Canaán por Siquem, junto a la encina de Moré.",
+              "related_ids": [
+                "evt-001"
+              ]
+            },
+            {
+              "order": 4,
+              "place_id": "map-01-pl-betel",
+              "text": "Entre Betel y Hai, Abraham levanta altar; la zona montañosa central será el corazón del futuro Israel.",
+              "related_ids": [
+                "evt-004"
+              ]
+            },
+            {
+              "order": 5,
+              "place_id": "map-01-pl-hebron",
+              "text": "En Hebrón compra la cueva de Macpela como sepulcro familiar: la única tierra que el texto le atribuye en propiedad.",
+              "related_ids": [
+                "evt-001"
+              ]
+            },
+            {
+              "order": 6,
+              "place_id": "map-01-pl-beerseba",
+              "text": "El viaje termina en el Neguev, en Beerseba, entre pozos disputados y pactos con los filisteos de la zona.",
+              "related_ids": [
+                "evt-001"
+              ]
+            }
+          ]
+        }
+      ],
+      "text_alternative": "Mapa del viaje tradicional de Abraham: comienza en Ur, en el sur de Irak actual, sube en dirección noroeste siguiendo el Éufrates hasta Harán, en la actual Turquía. Desde allí gira al suroeste, pasa por la región de Damasco y entra en Canaán por el norte, llegando a Siquem. Continúa hacia el sur por la cordillera central pasando por Betel y Hebrón, y termina en Beerseba, en el límite del desierto del Neguev. La ruta es una reconstrucción basada en el relato bíblico; las ciudades mencionadas están documentadas arqueológicamente.",
+      "certainty": "disputed",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Museo Británico, Londres"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "free"
+    },
+    {
+      "id": "map-02",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Rutas propuestas del Éxodo",
+      "type": "map",
+      "summary": "Dos grandes hipótesis sobre la ruta de la salida de Egipto: la ruta norte, directa por la costa, y la ruta sur, por el Sinaí. Ambas son debatidas; el mapa muestra lo que cada una propone.",
+      "era": "era-02",
+      "places": [
+        {
+          "id": "map-02-pl-piramses",
+          "ancient_name": "Pi-Ramsés",
+          "modern_name": "Qantir, Egipto",
+          "coords": [
+            31.835,
+            30.785
+          ],
+          "description": "Capital del delta en época ramésida; punto de partida tradicional del Éxodo."
+        },
+        {
+          "id": "map-02-pl-marjuncos",
+          "ancient_name": "Mar de los Juncos",
+          "modern_name": "Zona del istmo de Suez",
+          "coords": [
+            32.55,
+            29.9
+          ],
+          "description": "El 'yam suf' hebreo; su localización exacta es debatida."
+        },
+        {
+          "id": "map-02-pl-sinai",
+          "ancient_name": "Monte Sinaí",
+          "modern_name": "Yebel Musa, Egipto (tradicional)",
+          "coords": [
+            33.974,
+            28.539
+          ],
+          "description": "Identificación tradicional desde el siglo IV d. C.; otras propuestas existen."
+        },
+        {
+          "id": "map-02-pl-cades",
+          "ancient_name": "Cades-Barnea",
+          "modern_name": "Ain Qedeis, Neguev",
+          "coords": [
+            34.475,
+            30.65
+          ],
+          "description": "Oasis donde el pueblo acampó largamente según Números; hay restos de fortaleza."
+        },
+        {
+          "id": "map-02-pl-nebo",
+          "ancient_name": "Monte Nebo",
+          "modern_name": "Jordania",
+          "coords": [
+            35.725,
+            31.768
+          ],
+          "description": "Desde donde Moisés contempló la tierra; memorial cristiano antiguo."
+        },
+        {
+          "id": "map-02-pl-moab",
+          "ancient_name": "Llanuras de Moab",
+          "modern_name": "Valle del Jordán oriental",
+          "coords": [
+            35.55,
+            31.9
+          ],
+          "description": "Campamento final antes del cruce del Jordán según el texto bíblico."
+        }
+      ],
+      "routes": [
+        {
+          "id": "map-02-rt-ruta-norte",
+          "name": "Hipótesis de la ruta norte",
+          "certainty": "debated",
+          "polyline": [
+            [
+              31.835,
+              30.785
+            ],
+            [
+              32.3,
+              31
+            ],
+            [
+              33.5,
+              31.2
+            ],
+            [
+              34.5,
+              31.4
+            ],
+            [
+              35.2,
+              31.9
+            ]
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "place_id": "map-02-pl-piramses",
+              "text": "El punto de partida común a casi todas las hipótesis: el delta oriental del Nilo.",
+              "related_ids": [
+                "evt-016"
+              ]
+            },
+            {
+              "order": 2,
+              "place_id": "map-02-pl-marjuncos",
+              "text": "La ruta norte cruza las lagunas del istmo de Suez y sigue la 'vía del mar' costera, guarnecida por fortalezas egipcias.",
+              "related_ids": [
+                "evt-017"
+              ]
+            },
+            {
+              "order": 3,
+              "place_id": "map-02-pl-cades",
+              "text": "Algunos modelos llevan al grupo directamente a Cades-Barnea, evitando el sur del Sinaí.",
+              "related_ids": [
+                "evt-019"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "map-02-rt-ruta-sur",
+          "name": "Hipótesis de la ruta sur (tradicional)",
+          "certainty": "debated",
+          "polyline": [
+            [
+              31.835,
+              30.785
+            ],
+            [
+              32.55,
+              29.9
+            ],
+            [
+              33.4,
+              29
+            ],
+            [
+              33.974,
+              28.539
+            ],
+            [
+              34.3,
+              29.5
+            ],
+            [
+              34.475,
+              30.65
+            ],
+            [
+              35.2,
+              31.2
+            ],
+            [
+              35.725,
+              31.768
+            ],
+            [
+              35.55,
+              31.9
+            ]
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "place_id": "map-02-pl-piramses",
+              "text": "Salida del delta oriental hacia el sureste, bordeando el golfo de Suez.",
+              "related_ids": [
+                "evt-016"
+              ]
+            },
+            {
+              "order": 2,
+              "place_id": "map-02-pl-marjuncos",
+              "text": "El cruce de las aguas: el texto hebreo dice 'mar de los Juncos', quizá una laguna del istmo.",
+              "related_ids": [
+                "evt-017"
+              ]
+            },
+            {
+              "order": 3,
+              "place_id": "map-02-pl-sinai",
+              "text": "El monte de la Ley según la tradición bizantina; Santa Catalina se alza a sus pies desde el siglo VI.",
+              "related_ids": [
+                "evt-018"
+              ]
+            },
+            {
+              "order": 4,
+              "place_id": "map-02-pl-cades",
+              "text": "Tras el Sinaí, el largo campamento en Cades-Barnea, base de los exploradores.",
+              "related_ids": [
+                "evt-019"
+              ]
+            },
+            {
+              "order": 5,
+              "place_id": "map-02-pl-nebo",
+              "text": "Rodeando Edom y Moab, la llegada a las llanuras del Jordán y la muerte de Moisés en el Nebo.",
+              "related_ids": [
+                "evt-020"
+              ]
+            },
+            {
+              "order": 6,
+              "place_id": "map-02-pl-moab",
+              "text": "El campamento final frente a Jericó, donde el texto sitúa los discursos del Deuteronomio.",
+              "related_ids": [
+                "evt-020"
+              ]
+            }
+          ]
+        }
+      ],
+      "text_alternative": "Mapa con dos rutas hipotéticas del Éxodo desde el delta del Nilo. La ruta norte avanza hacia el noreste por la costa mediterránea, pasando por la zona del istmo de Suez hasta Canaán por el sur. La ruta sur desciende hacia el sur por el istmo hasta el macizo del Sinaí tradicional (Yebel Musa), luego gira al noreste hacia el oasis de Cades-Barnea, bordea Edom y Moab por el este y termina en las llanuras de Moab frente a Jericó, pasando por el monte Nebo. Ambas rutas están marcadas como debatidas: ninguna está confirmada por la arqueología.",
+      "certainty": "disputed",
+      "confidence": "low",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "American Schools of Oriental Research (ASOR)"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "free"
+    },
+    {
+      "id": "map-03",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "El asentamiento de las tribus",
+      "type": "map",
+      "summary": "Los territorios tradicionales de las doce tribus tras la llegada a Canaán: Judá en el sur montañoso, Efraín y Manasés en el centro, y las tribus del norte en Galilea. Los límites son aproximados y debatidos.",
+      "era": "era-02",
+      "places": [
+        {
+          "id": "map-03-pl-dan",
+          "ancient_name": "Dan",
+          "modern_name": "Tel Dan, Israel",
+          "coords": [
+            35.652,
+            33.249
+          ],
+          "description": "Extremo norte tradicional ('de Dan a Beerseba'); santuario del reino del norte."
+        },
+        {
+          "id": "map-03-pl-hazor",
+          "ancient_name": "Hazor",
+          "modern_name": "Tel Hazor, Israel",
+          "coords": [
+            35.671,
+            33.018
+          ],
+          "description": "Gran ciudad cananea; centro del territorio de Neftalí."
+        },
+        {
+          "id": "map-03-pl-jezreel",
+          "ancient_name": "Jezreel",
+          "modern_name": "Valle de Jezreel",
+          "coords": [
+            35.33,
+            32.56
+          ],
+          "description": "Fértil valle asignado a Isacar; escenario de batallas durante siglos."
+        },
+        {
+          "id": "map-03-pl-megido",
+          "ancient_name": "Megido",
+          "modern_name": "Tel Megido, Israel",
+          "coords": [
+            35.184,
+            32.585
+          ],
+          "description": "En territorio de Manasés; fortaleza que controlaba la vía Maris."
+        },
+        {
+          "id": "map-03-pl-siquem",
+          "ancient_name": "Siquem",
+          "modern_name": "Nablus, Cisjordania",
+          "coords": [
+            35.281,
+            32.221
+          ],
+          "description": "Corazón del territorio de Efraín; primera capital del reino del norte."
+        },
+        {
+          "id": "map-03-pl-betel",
+          "ancient_name": "Betel",
+          "modern_name": "Beitín, Cisjordania",
+          "coords": [
+            35.241,
+            31.928
+          ],
+          "description": "En el límite entre Efraín y Benjamín; santuario real del norte."
+        },
+        {
+          "id": "map-03-pl-hebron",
+          "ancient_name": "Hebrón",
+          "modern_name": "Hebrón, Cisjordania",
+          "coords": [
+            35.105,
+            31.532
+          ],
+          "description": "Centro del territorio de Judá antes de la conquista de Jerusalén."
+        },
+        {
+          "id": "map-03-pl-beerseba",
+          "ancient_name": "Beerseba",
+          "modern_name": "Beerseba, Israel",
+          "coords": [
+            34.797,
+            31.253
+          ],
+          "description": "Territorio de Simeón, absorbido luego por Judá; extremo sur tradicional."
+        },
+        {
+          "id": "map-03-pl-guilgal",
+          "ancient_name": "Guilgal",
+          "modern_name": "Valle del Jordán",
+          "coords": [
+            35.46,
+            31.86
+          ],
+          "description": "Primer campamento al oeste del Jordán según el libro de Josué."
+        }
+      ],
+      "routes": [
+        {
+          "id": "map-03-rt-entrada",
+          "name": "Entrada tradicional desde el este",
+          "certainty": "reconstructed",
+          "polyline": [
+            [
+              35.55,
+              31.9
+            ],
+            [
+              35.46,
+              31.86
+            ],
+            [
+              35.444,
+              31.874
+            ],
+            [
+              35.281,
+              32.221
+            ],
+            [
+              35.105,
+              31.532
+            ]
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "place_id": "map-03-pl-guilgal",
+              "text": "El texto bíblico presenta el cruce del Jordán y el campamento base en Guilgal.",
+              "related_ids": [
+                "evt-020"
+              ]
+            },
+            {
+              "order": 2,
+              "place_id": "map-03-pl-siquem",
+              "text": "Las tribus centrales (Efraín, Manasés) ocupan la cordillera entre Siquem y Betel.",
+              "related_ids": [
+                "evt-011"
+              ]
+            },
+            {
+              "order": 3,
+              "place_id": "map-03-pl-hebron",
+              "text": "Judá se asienta en la montaña del sur, con Hebrón como centro.",
+              "related_ids": [
+                "evt-011"
+              ]
+            },
+            {
+              "order": 4,
+              "place_id": "map-03-pl-dan",
+              "text": "La tribu de Dan migra al extremo norte, dando nombre a la ciudad de Dan.",
+              "related_ids": [
+                "evt-011"
+              ]
+            },
+            {
+              "order": 5,
+              "place_id": "map-03-pl-beerseba",
+              "text": "Simeón queda en el Neguev, rodeado por Judá, que acabará absorbiéndolo.",
+              "related_ids": [
+                "evt-011"
+              ]
+            }
+          ]
+        }
+      ],
+      "text_alternative": "Mapa de Canaán con los territorios tribales tradicionales: en el extremo norte, Dan junto a las fuentes del Jordán; en la alta Galilea, Neftalí con centro en Hazor; en el centro-norte, Isacar en el valle de Jezreel y Manasés en torno a Megido; en la cordillera central, Efraín con centro en Siquem y Benjamín en torno a Betel; en el sur montañoso, Judá con centro en Hebrón; y en el Neguev, Simeón en torno a Beerseba. Las tribus de la Transjordania (Rubén, Gad y media Manasés) quedan al este del Jordán. Los límites son aproximados y reflejan la geografía del texto bíblico, no fronteras excavadas.",
+      "certainty": "disputed",
+      "confidence": "low",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "premium"
+    },
+    {
+      "id": "map-04",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "David y la monarquía unida",
+      "type": "map",
+      "summary": "De pastor en Belén a rey en Jerusalén: los lugares clave del ascenso de David y la extensión aproximada del reino unido, con las campañas contra filisteos y amonitas.",
+      "era": "era-03",
+      "places": [
+        {
+          "id": "map-04-pl-belen",
+          "ancient_name": "Belén",
+          "modern_name": "Belén, Cisjordania",
+          "coords": [
+            35.209,
+            31.705
+          ],
+          "description": "Aldea natal de David; allí lo unge Samuel según el texto."
+        },
+        {
+          "id": "map-04-pl-elah",
+          "ancient_name": "Valle de Elah",
+          "modern_name": "Sefela, Israel",
+          "coords": [
+            34.99,
+            31.69
+          ],
+          "description": "Escenario tradicional del duelo con Goliat, entre Soco y Azeca."
+        },
+        {
+          "id": "map-04-pl-hebron",
+          "ancient_name": "Hebrón",
+          "modern_name": "Hebrón, Cisjordania",
+          "coords": [
+            35.105,
+            31.532
+          ],
+          "description": "Primera capital de David: siete años rey de Judá."
+        },
+        {
+          "id": "map-04-pl-jerusalen",
+          "ancient_name": "Jerusalén",
+          "modern_name": "Jerusalén",
+          "coords": [
+            35.213,
+            31.768
+          ],
+          "description": "Capital unificada; traslado del arca y planes del Templo."
+        },
+        {
+          "id": "map-04-pl-raba",
+          "ancient_name": "Rabá",
+          "modern_name": "Amán, Jordania",
+          "coords": [
+            35.934,
+            31.954
+          ],
+          "description": "Capital amonita tomada por Joab; escenario del episodio de Urías."
+        },
+        {
+          "id": "map-04-pl-gat",
+          "ancient_name": "Gat",
+          "modern_name": "Tell es-Safi, Israel",
+          "coords": [
+            34.85,
+            31.7
+          ],
+          "description": "Ciudad filistea donde David se refugió de Saúl."
+        }
+      ],
+      "routes": [
+        {
+          "id": "map-04-rt-ascenso",
+          "name": "El ascenso de David",
+          "certainty": "reconstructed",
+          "polyline": [
+            [
+              35.209,
+              31.705
+            ],
+            [
+              34.99,
+              31.69
+            ],
+            [
+              34.85,
+              31.7
+            ],
+            [
+              35.105,
+              31.532
+            ],
+            [
+              35.213,
+              31.768
+            ],
+            [
+              35.934,
+              31.954
+            ]
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "place_id": "map-04-pl-belen",
+              "text": "El texto bíblico presenta a David como el menor de los hijos de Isaí, pastor en Belén.",
+              "related_ids": [
+                "evt-028"
+              ]
+            },
+            {
+              "order": 2,
+              "place_id": "map-04-pl-elah",
+              "text": "La victoria sobre Goliat en el valle de Elah lo catapulta a la corte de Saúl.",
+              "related_ids": [
+                "evt-028"
+              ]
+            },
+            {
+              "order": 3,
+              "place_id": "map-04-pl-gat",
+              "text": "Perseguido por Saúl, David se refugia entre los filisteos de Gat.",
+              "related_ids": [
+                "evt-027"
+              ]
+            },
+            {
+              "order": 4,
+              "place_id": "map-04-pl-hebron",
+              "text": "Muerto Saúl, David es coronado en Hebrón, rey primero solo de Judá.",
+              "related_ids": [
+                "evt-029"
+              ]
+            },
+            {
+              "order": 5,
+              "place_id": "map-04-pl-jerusalen",
+              "text": "La toma de la fortaleza jebusea y su conversión en capital neutral del reino unido.",
+              "related_ids": [
+                "evt-029",
+                "evt-030"
+              ]
+            },
+            {
+              "order": 6,
+              "place_id": "map-04-pl-raba",
+              "text": "Las campañas al este del Jordán extienden el reino hasta el territorio amonita.",
+              "related_ids": [
+                "evt-039"
+              ]
+            }
+          ]
+        }
+      ],
+      "text_alternative": "Mapa del reino de David: comienza en Belén, al sur de Jerusalén, lugar de su nacimiento. Hacia el oeste, en la Sefela, el valle de Elah, escenario del duelo con Goliat. Más al oeste, Gat, ciudad filistea de refugio. Al sur, Hebrón, primera capital. En el centro, Jerusalén, capital definitiva tras su conquista. Hacia el este, al otro lado del Jordán, Rabá (la actual Amán), capital amonita tomada en campaña. La extensión exacta del reino es debatida entre los especialistas.",
+      "certainty": "disputed",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "premium"
+    },
+    {
+      "id": "map-05",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "La expansión asiria y la caída del norte",
+      "type": "map",
+      "summary": "El avance del imperio asirio hacia el Levante en el siglo VIII a. C.: de Nínive a Samaria, Laquis y las puertas de Jerusalén. Las campañas están documentadas en anales asirios.",
+      "era": "era-04",
+      "places": [
+        {
+          "id": "map-05-pl-ninive",
+          "ancient_name": "Nínive",
+          "modern_name": "Mosul, Irak",
+          "coords": [
+            43.154,
+            36.359
+          ],
+          "description": "Capital asiria; sus palacios y relieves narran las campañas del oeste."
+        },
+        {
+          "id": "map-05-pl-damasco",
+          "ancient_name": "Damasco",
+          "modern_name": "Damasco, Siria",
+          "coords": [
+            36.292,
+            33.513
+          ],
+          "description": "Reino arameo sometido por Asiria; antes, rival de Israel."
+        },
+        {
+          "id": "map-05-pl-samaria",
+          "ancient_name": "Samaria",
+          "modern_name": "Sebaste, Cisjordania",
+          "coords": [
+            35.196,
+            32.276
+          ],
+          "description": "Capital del reino del norte; cayó en el 722 a. C. tras tres años de asedio."
+        },
+        {
+          "id": "map-05-pl-laquis",
+          "ancient_name": "Laquis",
+          "modern_name": "Tel Laquis, Israel",
+          "coords": [
+            34.846,
+            31.703
+          ],
+          "description": "Segunda ciudad de Judá; su asedio del 701 a. C. se representa en Nínive."
+        },
+        {
+          "id": "map-05-pl-jerusalen",
+          "ancient_name": "Jerusalén",
+          "modern_name": "Jerusalén",
+          "coords": [
+            35.213,
+            31.768
+          ],
+          "description": "Sitiada por Senaquerib en el 701 a. C.; la ciudad no cayó."
+        }
+      ],
+      "routes": [
+        {
+          "id": "map-05-rt-campanas",
+          "name": "Campañas asirias al Levante (744–701 a. C.)",
+          "certainty": "documented",
+          "polyline": [
+            [
+              43.154,
+              36.359
+            ],
+            [
+              40,
+              36.5
+            ],
+            [
+              36.292,
+              33.513
+            ],
+            [
+              35.196,
+              32.276
+            ],
+            [
+              34.846,
+              31.703
+            ],
+            [
+              35.213,
+              31.768
+            ]
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "place_id": "map-05-pl-ninive",
+              "text": "Desde Nínive parten las campañas de Tiglat-pileser III, Salmanasar V, Sargón II y Senaquerib.",
+              "related_ids": [
+                "evt-047"
+              ]
+            },
+            {
+              "order": 2,
+              "place_id": "map-05-pl-damasco",
+              "text": "Damasco cae en el 732 a. C.; el Levante queda abierto al avance asirio.",
+              "related_ids": [
+                "evt-044"
+              ]
+            },
+            {
+              "order": 3,
+              "place_id": "map-05-pl-samaria",
+              "text": "Samaria resiste tres años y cae en el 722 a. C.: fin del reino del norte y deportaciones.",
+              "related_ids": [
+                "evt-047",
+                "evt-045"
+              ]
+            },
+            {
+              "order": 4,
+              "place_id": "map-05-pl-laquis",
+              "text": "En el 701 a. C., Senaquerib toma Laquis; los relieves de su palacio muestran el asedio con detalle.",
+              "related_ids": [
+                "evt-048"
+              ]
+            },
+            {
+              "order": 5,
+              "place_id": "map-05-pl-jerusalen",
+              "text": "El asedio de Jerusalén se levanta sin que la ciudad caiga: ambas fuentes, bíblica y asiria, coinciden en el hecho.",
+              "related_ids": [
+                "evt-048",
+                "evt-049"
+              ]
+            }
+          ]
+        }
+      ],
+      "text_alternative": "Mapa de la expansión asiria: desde Nínive, en el norte del actual Irak, la ruta de las campañas desciende hacia el oeste cruzando el Éufrates, pasa por Damasco en Siria, entra en el reino de Israel y llega a Samaria, su capital, destruida en el 722 a. C. Desde allí continúa al sur hacia Judá: Laquis, tomada en el 701 a. C., y finalmente Jerusalén, sitiada pero no conquistada. Las campañas están documentadas en los anales reales asirios y en relieves de palacio.",
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo Británico, Londres",
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "premium"
+    },
+    {
+      "id": "map-06",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Exilio a Babilonia y retorno",
+      "type": "map",
+      "summary": "El camino del destierro (597 y 586 a. C.) y del regreso bajo Ciro (538 a. C.): de Jerusalén a Babilonia por el Éufrates, y de vuelta por la media luna fértil. Las deportaciones están documentadas en fuentes babilónicas.",
+      "era": "era-05",
+      "places": [
+        {
+          "id": "map-06-pl-jerusalen",
+          "ancient_name": "Jerusalén",
+          "modern_name": "Jerusalén",
+          "coords": [
+            35.213,
+            31.768
+          ],
+          "description": "Destruida en el 586 a. C.; reconstruida tras el retorno."
+        },
+        {
+          "id": "map-06-pl-ribla",
+          "ancient_name": "Ribla",
+          "modern_name": "Siria",
+          "coords": [
+            36.55,
+            34.42
+          ],
+          "description": "Cuartel de Nabucodonosor; allí Sedequías fue juzgado según el texto bíblico."
+        },
+        {
+          "id": "map-06-pl-quebar",
+          "ancient_name": "Río Quebar",
+          "modern_name": "Sur de Irak",
+          "coords": [
+            44,
+            32
+          ],
+          "description": "Canal babilónico junto al que se asentaron exiliados como Ezequiel (localización aproximada)."
+        },
+        {
+          "id": "map-06-pl-babilonia",
+          "ancient_name": "Babilonia",
+          "modern_name": "Irak",
+          "coords": [
+            44.421,
+            32.536
+          ],
+          "description": "Capital del imperio; puerta de Ishtar y zigurat Etemenanki."
+        },
+        {
+          "id": "map-06-pl-susa",
+          "ancient_name": "Susa",
+          "modern_name": "Irán",
+          "coords": [
+            48.244,
+            32.184
+          ],
+          "description": "Capital persa de invierno; escenario del libro de Ester y base de Nehemías."
+        }
+      ],
+      "routes": [
+        {
+          "id": "map-06-rt-deportacion",
+          "name": "Las deportaciones (597 y 586 a. C.)",
+          "certainty": "documented",
+          "polyline": [
+            [
+              35.213,
+              31.768
+            ],
+            [
+              36.55,
+              34.42
+            ],
+            [
+              38.5,
+              35.5
+            ],
+            [
+              41,
+              34.5
+            ],
+            [
+              44.421,
+              32.536
+            ]
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "place_id": "map-06-pl-jerusalen",
+              "text": "Tras cada rebelión, Babilonia deporta a la élite: la corte, los artesanos y los sacerdotes.",
+              "related_ids": [
+                "evt-053",
+                "evt-054"
+              ]
+            },
+            {
+              "order": 2,
+              "place_id": "map-06-pl-ribla",
+              "text": "El texto bíblico presenta Ribla como el cuartel general babilónico en Siria.",
+              "related_ids": [
+                "evt-054"
+              ]
+            },
+            {
+              "order": 3,
+              "place_id": "map-06-pl-quebar",
+              "text": "Los exiliados se asientan en comunidades agrícolas junto a los canales, como Tel Abib.",
+              "related_ids": [
+                "evt-056"
+              ]
+            },
+            {
+              "order": 4,
+              "place_id": "map-06-pl-babilonia",
+              "text": "La capital imperial: allí viven Ezequiel, Daniel según la tradición, y la familia real de Joaquín.",
+              "related_ids": [
+                "evt-057",
+                "evt-058"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "map-06-rt-retorno",
+          "name": "El retorno bajo Persia (desde 538 a. C.)",
+          "certainty": "reconstructed",
+          "polyline": [
+            [
+              44.421,
+              32.536
+            ],
+            [
+              41,
+              34.5
+            ],
+            [
+              38.5,
+              35.5
+            ],
+            [
+              36.292,
+              33.513
+            ],
+            [
+              35.213,
+              31.768
+            ]
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "place_id": "map-06-pl-babilonia",
+              "text": "El edicto de Ciro autoriza el regreso; no todos vuelven: muchos permanecen en Babilonia.",
+              "related_ids": [
+                "evt-059",
+                "evt-060"
+              ]
+            },
+            {
+              "order": 2,
+              "place_id": "map-06-pl-susa",
+              "text": "Siglos después, Susa será la corte desde la que Nehemías pida permiso para reconstruir los muros.",
+              "related_ids": [
+                "evt-064",
+                "evt-062"
+              ]
+            },
+            {
+              "order": 3,
+              "place_id": "map-06-pl-jerusalen",
+              "text": "Los retornados reconstruyen el altar, el Templo (516 a. C.) y finalmente los muros (445 a. C.).",
+              "related_ids": [
+                "evt-061",
+                "evt-064"
+              ]
+            }
+          ]
+        }
+      ],
+      "text_alternative": "Mapa del exilio y el retorno: la ruta de la deportación parte de Jerusalén hacia el norte hasta Ribla, en Siria, y desde allí sigue el curso del Éufrates hacia el sureste hasta Babilonia, pasando por la zona del río Quebar donde se asentaron comunidades de exiliados. La ruta del retorno invierte el camino: de Babilonia hacia el noroeste por la media luna fértil, pasando por Siria hasta Jerusalén. Susa, en el actual Irán, aparece como capital persa vinculada a Ester y Nehemías. Las deportaciones están documentadas en crónicas babilónicas; el itinerario exacto del retorno es reconstruido.",
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo Británico, Londres",
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "premium"
+    },
+    {
+      "id": "map-07",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Judea y Galilea en tiempos de Jesús",
+      "type": "map",
+      "summary": "La geografía política del siglo I: Galilea bajo Herodes Antipas, Judea bajo prefectos romanos, y las ciudades que marcaron la vida de Jesús. Incluye la ruta típica de peregrinación galilea a Jerusalén.",
+      "era": "era-06",
+      "places": [
+        {
+          "id": "map-07-pl-nazaret",
+          "ancient_name": "Nazaret",
+          "modern_name": "Nazaret, Israel",
+          "coords": [
+            35.293,
+            32.703
+          ],
+          "description": "Aldea galilea donde creció Jesús; sinagoga del siglo I en debate."
+        },
+        {
+          "id": "map-07-pl-cafarnaum",
+          "ancient_name": "Cafarnaúm",
+          "modern_name": "Israel",
+          "coords": [
+            35.573,
+            32.88
+          ],
+          "description": "Base del ministerio; sinagoga y la 'casa de Pedro' excavadas."
+        },
+        {
+          "id": "map-07-pl-seforis",
+          "ancient_name": "Séforis",
+          "modern_name": "Israel",
+          "coords": [
+            35.28,
+            32.75
+          ],
+          "description": "Capital galilea de Antipas; ciudad helenizada que los evangelios no mencionan."
+        },
+        {
+          "id": "map-07-pl-tiberiades",
+          "ancient_name": "Tiberíades",
+          "modern_name": "Israel",
+          "coords": [
+            35.539,
+            32.793
+          ],
+          "description": "Nueva capital de Antipas a orillas del lago; tampoco aparece en los evangelios."
+        },
+        {
+          "id": "map-07-pl-jerico",
+          "ancient_name": "Jericó",
+          "modern_name": "Cisjordania",
+          "coords": [
+            35.444,
+            31.874
+          ],
+          "description": "Oasis del valle del Jordán; palacios herodianos excavados."
+        },
+        {
+          "id": "map-07-pl-jerusalen",
+          "ancient_name": "Jerusalén",
+          "modern_name": "Jerusalén",
+          "coords": [
+            35.213,
+            31.768
+          ],
+          "description": "Centro religioso y destino de peregrinación; Templo de Herodes."
+        },
+        {
+          "id": "map-07-pl-belen",
+          "ancient_name": "Belén",
+          "modern_name": "Cisjordania",
+          "coords": [
+            35.209,
+            31.705
+          ],
+          "description": "Lugar del nacimiento según Mateo y Lucas."
+        },
+        {
+          "id": "map-07-pl-cesarea",
+          "ancient_name": "Cesarea Marítima",
+          "modern_name": "Israel",
+          "coords": [
+            34.892,
+            32.498
+          ],
+          "description": "Capital administrativa romana; sede de Pilato y Cornelio."
+        }
+      ],
+      "routes": [
+        {
+          "id": "map-07-rt-peregrinacion",
+          "name": "Ruta de peregrinación galilea",
+          "certainty": "reconstructed",
+          "polyline": [
+            [
+              35.293,
+              32.703
+            ],
+            [
+              35.28,
+              32.2
+            ],
+            [
+              35.444,
+              31.874
+            ],
+            [
+              35.213,
+              31.768
+            ]
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "place_id": "map-07-pl-nazaret",
+              "text": "Los galileos solían evitar Samaria y bajaban por el valle del Jordán.",
+              "related_ids": [
+                "evt-073"
+              ]
+            },
+            {
+              "order": 2,
+              "place_id": "map-07-pl-jerico",
+              "text": "Jericó, el oasis, era la última parada antes de la subida a Jerusalén.",
+              "related_ids": [
+                "evt-075"
+              ]
+            },
+            {
+              "order": 3,
+              "place_id": "map-07-pl-jerusalen",
+              "text": "La subida a Jerusalén para las fiestas reunía decenas de miles de peregrinos.",
+              "related_ids": [
+                "evt-075"
+              ]
+            }
+          ]
+        }
+      ],
+      "text_alternative": "Mapa de la Palestina del siglo I: en el norte, Galilea, con Nazaret en las colinas, Cafarnaúm a orillas del mar de Galilea, y las ciudades herodianas de Séforis y Tiberíades. Hacia el sur, Samaria en el centro, y Judea con Jerusalén como capital religiosa y Belén al sur. En la costa, Cesarea Marítima, sede del gobierno romano. En el valle del Jordán, Jericó, el oasis en la ruta de peregrinación. Una ruta reconstruida muestra el camino habitual de los peregrinos galileos: de Nazaret al valle del Jordán, pasando por Jericó y subiendo a Jerusalén, evitando Samaria.",
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "premium"
+    },
+    {
+      "id": "map-08",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "El ministerio de Jesús",
+      "type": "map",
+      "summary": "Los escenarios del ministerio: de Nazaret a Cafarnaúm, las orillas del lago, Cesarea de Filipo y la subida final a Jerusalén. Los lugares principales están identificados y excavados.",
+      "era": "era-06",
+      "places": [
+        {
+          "id": "map-08-pl-nazaret",
+          "ancient_name": "Nazaret",
+          "modern_name": "Nazaret, Israel",
+          "coords": [
+            35.293,
+            32.703
+          ],
+          "description": "Inicio del ministerio según Lucas; rechazo en la sinagoga."
+        },
+        {
+          "id": "map-08-pl-cana",
+          "ancient_name": "Caná",
+          "modern_name": "Kafr Kanna, Israel",
+          "coords": [
+            35.346,
+            32.755
+          ],
+          "description": "Tradicional lugar del primer milagro, las bodas."
+        },
+        {
+          "id": "map-08-pl-cafarnaum",
+          "ancient_name": "Cafarnaúm",
+          "modern_name": "Israel",
+          "coords": [
+            35.573,
+            32.88
+          ],
+          "description": "'Su ciudad': base del ministerio galileo."
+        },
+        {
+          "id": "map-08-pl-betsaida",
+          "ancient_name": "Betsaida",
+          "modern_name": "Israel",
+          "coords": [
+            35.63,
+            32.91
+          ],
+          "description": "Patria de Pedro, Andrés y Felipe; multiplicación de los panes en sus cercanías."
+        },
+        {
+          "id": "map-08-pl-cesarea-filipo",
+          "ancient_name": "Cesarea de Filipo",
+          "modern_name": "Banias, Israel",
+          "coords": [
+            35.646,
+            33.248
+          ],
+          "description": "La confesión de Pedro; santuario del dios Pan en una cueva."
+        },
+        {
+          "id": "map-08-pl-betania",
+          "ancient_name": "Betania",
+          "modern_name": "Al-Azariya, Cisjordania",
+          "coords": [
+            35.263,
+            31.769
+          ],
+          "description": "Hogar de Marta, María y Lázaro; punto de partida hacia Jerusalén."
+        },
+        {
+          "id": "map-08-pl-jerusalen",
+          "ancient_name": "Jerusalén",
+          "modern_name": "Jerusalén",
+          "coords": [
+            35.213,
+            31.768
+          ],
+          "description": "Entrada, última cena, Getsemaní y Gólgota."
+        }
+      ],
+      "routes": [
+        {
+          "id": "map-08-rt-ministerio",
+          "name": "Itinerario del ministerio",
+          "certainty": "reconstructed",
+          "polyline": [
+            [
+              35.293,
+              32.703
+            ],
+            [
+              35.346,
+              32.755
+            ],
+            [
+              35.573,
+              32.88
+            ],
+            [
+              35.63,
+              32.91
+            ],
+            [
+              35.646,
+              33.248
+            ],
+            [
+              35.573,
+              32.88
+            ],
+            [
+              35.444,
+              31.874
+            ],
+            [
+              35.263,
+              31.769
+            ],
+            [
+              35.213,
+              31.768
+            ]
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "place_id": "map-08-pl-nazaret",
+              "text": "El ministerio comienza en la Galilea natal, con el anuncio en la sinagoga de Nazaret.",
+              "related_ids": [
+                "evt-073"
+              ]
+            },
+            {
+              "order": 2,
+              "place_id": "map-08-pl-cana",
+              "text": "Caná, en las colinas galileas, escenario tradicional del primer signo.",
+              "related_ids": [
+                "evt-073"
+              ]
+            },
+            {
+              "order": 3,
+              "place_id": "map-08-pl-cafarnaum",
+              "text": "Cafarnaúm se convierte en base: pesca, sinagoga y la casa de Pedro.",
+              "related_ids": [
+                "evt-073"
+              ]
+            },
+            {
+              "order": 4,
+              "place_id": "map-08-pl-betsaida",
+              "text": "Las orillas del lago: parábolas, multiplicaciones y caminatas sobre el agua.",
+              "related_ids": [
+                "evt-073"
+              ]
+            },
+            {
+              "order": 5,
+              "place_id": "map-08-pl-cesarea-filipo",
+              "text": "En el extremo norte, la confesión de Pedro: 'Tú eres el Cristo'.",
+              "related_ids": [
+                "evt-073"
+              ]
+            },
+            {
+              "order": 6,
+              "place_id": "map-08-pl-betania",
+              "text": "La subida final a Jerusalén pasa por Jericó y Betania, hogar de sus amigos.",
+              "related_ids": [
+                "evt-075"
+              ]
+            },
+            {
+              "order": 7,
+              "place_id": "map-08-pl-jerusalen",
+              "text": "La última semana: entrada, Templo, cena, Getsemaní y crucifixión.",
+              "related_ids": [
+                "evt-075",
+                "evt-076"
+              ]
+            }
+          ]
+        }
+      ],
+      "text_alternative": "Mapa del ministerio de Jesús en Galilea y Judea: comienza en Nazaret, en las colinas de la baja Galilea, pasa por Caná, se establece en Cafarnaúm a orillas del mar de Galilea, recorre las aldeas del lago como Betsaida, sube al extremo norte hasta Cesarea de Filipo al pie del monte Hermón, regresa al lago, desciende por el valle del Jordán pasando por Jericó, llega a Betania en el monte de los Olivos y entra finalmente en Jerusalén. El itinerario es una reconstrucción basada en los cuatro evangelios; los lugares principales están identificados arqueológicamente.",
+      "certainty": "consensus",
+      "confidence": "medium",
+      "sources": [
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "premium"
+    },
+    {
+      "id": "map-09",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "El primer viaje de Pablo",
+      "type": "map",
+      "summary": "Hechos 13–14: de Antioquía de Siria a Chipre y el sur de Anatolia, el primer viaje misionero documentado del cristianismo. Las ciudades y rutas están bien atestiguadas.",
+      "era": "era-07",
+      "places": [
+        {
+          "id": "map-09-pl-antioquia",
+          "ancient_name": "Antioquía de Siria",
+          "modern_name": "Antakya, Turquía",
+          "coords": [
+            36.16,
+            36.203
+          ],
+          "description": "Tercera ciudad del imperio; base de la misión a los gentiles."
+        },
+        {
+          "id": "map-09-pl-salamina",
+          "ancient_name": "Salamina",
+          "modern_name": "Chipre",
+          "coords": [
+            33.902,
+            35.183
+          ],
+          "description": "Puerto oriental de Chipre; primera escala del viaje."
+        },
+        {
+          "id": "map-09-pl-pafos",
+          "ancient_name": "Pafos",
+          "modern_name": "Chipre",
+          "coords": [
+            32.485,
+            34.814
+          ],
+          "description": "Capital romana de Chipre; encuentro con el procónsul Sergio Paulo."
+        },
+        {
+          "id": "map-09-pl-perge",
+          "ancient_name": "Perge",
+          "modern_name": "Turquía",
+          "coords": [
+            30.789,
+            36.962
+          ],
+          "description": "Ciudad panfilia; aquí Juan Marcos abandona la expedición."
+        },
+        {
+          "id": "map-09-pl-antioquia-pisidia",
+          "ancient_name": "Antioquía de Pisidia",
+          "modern_name": "Turquía",
+          "coords": [
+            31.191,
+            38.308
+          ],
+          "description": "Sinagoga donde Pablo predica su gran discurso; expulsión posterior."
+        },
+        {
+          "id": "map-09-pl-iconio",
+          "ancient_name": "Iconio",
+          "modern_name": "Konya, Turquía",
+          "coords": [
+            32.484,
+            37.871
+          ],
+          "description": "División de la ciudad entre creyentes y opositores."
+        },
+        {
+          "id": "map-09-pl-listra",
+          "ancient_name": "Listra",
+          "modern_name": "Turquía",
+          "coords": [
+            32.2,
+            37.67
+          ],
+          "description": "Curación del cojo; la multitud los toma por dioses; lapidación de Pablo."
+        },
+        {
+          "id": "map-09-pl-derbe",
+          "ancient_name": "Derbe",
+          "modern_name": "Turquía",
+          "coords": [
+            33.16,
+            37.36
+          ],
+          "description": "Punto más oriental del viaje; desde aquí regresan por el mismo camino."
+        }
+      ],
+      "routes": [
+        {
+          "id": "map-09-rt-primer-viaje",
+          "name": "Primer viaje misionero (Hechos 13–14)",
+          "certainty": "documented",
+          "polyline": [
+            [
+              36.16,
+              36.203
+            ],
+            [
+              35.88,
+              36.26
+            ],
+            [
+              33.902,
+              35.183
+            ],
+            [
+              32.485,
+              34.814
+            ],
+            [
+              30.789,
+              36.962
+            ],
+            [
+              31.191,
+              38.308
+            ],
+            [
+              32.484,
+              37.871
+            ],
+            [
+              32.2,
+              37.67
+            ],
+            [
+              33.16,
+              37.36
+            ],
+            [
+              32.2,
+              37.67
+            ],
+            [
+              32.484,
+              37.871
+            ],
+            [
+              31.191,
+              38.308
+            ],
+            [
+              30.789,
+              36.962
+            ],
+            [
+              33,
+              35.5
+            ],
+            [
+              36.16,
+              36.203
+            ]
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "place_id": "map-09-pl-antioquia",
+              "text": "La iglesia de Antioquía aparta a Bernabé y Saulo para la obra misionera.",
+              "related_ids": [
+                "evt-082"
+              ]
+            },
+            {
+              "order": 2,
+              "place_id": "map-09-pl-salamina",
+              "text": "Desembarco en Chipre; predicación en las sinagogas de Salamina.",
+              "related_ids": [
+                "evt-082"
+              ]
+            },
+            {
+              "order": 3,
+              "place_id": "map-09-pl-pafos",
+              "text": "Ante el procónsul Sergio Paulo; aquí Saulo es llamado por primera vez Pablo.",
+              "related_ids": [
+                "evt-082"
+              ]
+            },
+            {
+              "order": 4,
+              "place_id": "map-09-pl-perge",
+              "text": "Travesía a Panfilia; Juan Marcos regresa a Jerusalén.",
+              "related_ids": [
+                "evt-082"
+              ]
+            },
+            {
+              "order": 5,
+              "place_id": "map-09-pl-antioquia-pisidia",
+              "text": "El discurso en la sinagoga: la historia de Israel culminando en Jesús.",
+              "related_ids": [
+                "evt-082"
+              ]
+            },
+            {
+              "order": 6,
+              "place_id": "map-09-pl-iconio",
+              "text": "Señales y división; huida ante el intento de apedreamiento.",
+              "related_ids": [
+                "evt-082"
+              ]
+            },
+            {
+              "order": 7,
+              "place_id": "map-09-pl-listra",
+              "text": "De la aclamación como dioses a la lapidación: el viaje toca fondo y se recupera.",
+              "related_ids": [
+                "evt-082"
+              ]
+            },
+            {
+              "order": 8,
+              "place_id": "map-09-pl-derbe",
+              "text": "Tras Derbe, regresan confirmando las nuevas iglesias y nombrando ancianos.",
+              "related_ids": [
+                "evt-083"
+              ]
+            }
+          ]
+        }
+      ],
+      "text_alternative": "Mapa del primer viaje de Pablo: parte de Antioquía de Siria, en la costa del actual sureste de Turquía, navega a Chipre desembarcando en Salamina al este y cruzando la isla hasta Pafos al oeste. Desde allí navega al sur de Turquía, desembarca en Perge y sube al interior de Anatolia: Antioquía de Pisidia, Iconio, Listra y Derbe, el punto más oriental. El regreso sigue el mismo camino en sentido inverso hasta la costa y de vuelta a Antioquía de Siria. El itinerario está documentado en Hechos 13–14 y las ciudades están identificadas arqueológicamente.",
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "premium"
+    },
+    {
+      "id": "map-10",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Los últimos viajes de Pablo hasta Roma",
+      "type": "map",
+      "summary": "Del tercer viaje misionero al viaje como prisionero: Éfeso, Macedonia, Grecia, Jerusalén y la travesía a Roma con el naufragio en Malta. El relato de Hechos 27 es famoso por su precisión náutica.",
+      "era": "era-07",
+      "places": [
+        {
+          "id": "map-10-pl-efeso",
+          "ancient_name": "Éfeso",
+          "modern_name": "Turquía",
+          "coords": [
+            27.334,
+            37.941
+          ],
+          "description": "Tercera ciudad del imperio; tres años de ministerio y el tumulto de Demetrio."
+        },
+        {
+          "id": "map-10-pl-filipos",
+          "ancient_name": "Filipos",
+          "modern_name": "Grecia",
+          "coords": [
+            24.415,
+            40.983
+          ],
+          "description": "Primera iglesia en Europa; la carta a los Filipenses."
+        },
+        {
+          "id": "map-10-pl-tesalonica",
+          "ancient_name": "Tesalónica",
+          "modern_name": "Grecia",
+          "coords": [
+            22.944,
+            40.64
+          ],
+          "description": "Capital de Macedonia; dos cartas conservadas."
+        },
+        {
+          "id": "map-10-pl-atenas",
+          "ancient_name": "Atenas",
+          "modern_name": "Grecia",
+          "coords": [
+            23.728,
+            37.984
+          ],
+          "description": "El discurso en el Areópago ante filósofos estoicos y epicúreos."
+        },
+        {
+          "id": "map-10-pl-corinto",
+          "ancient_name": "Corinto",
+          "modern_name": "Grecia",
+          "coords": [
+            22.957,
+            37.906
+          ],
+          "description": "Dieciocho meses de ministerio; las cartas a los Corintios y a los Romanos."
+        },
+        {
+          "id": "map-10-pl-jerusalen",
+          "ancient_name": "Jerusalén",
+          "modern_name": "Jerusalén",
+          "coords": [
+            35.213,
+            31.768
+          ],
+          "description": "Arresto en el Templo; apelación al César."
+        },
+        {
+          "id": "map-10-pl-cesarea",
+          "ancient_name": "Cesarea Marítima",
+          "modern_name": "Israel",
+          "coords": [
+            34.892,
+            32.498
+          ],
+          "description": "Dos años preso; defensa ante Félix, Festo y Agripa."
+        },
+        {
+          "id": "map-10-pl-malta",
+          "ancient_name": "Malta",
+          "modern_name": "Malta",
+          "coords": [
+            14.375,
+            35.899
+          ],
+          "description": "El naufragio; tres meses en la isla según Hechos 28."
+        },
+        {
+          "id": "map-10-pl-puteoli",
+          "ancient_name": "Puteoli",
+          "modern_name": "Pozzuoli, Italia",
+          "coords": [
+            14.12,
+            40.823
+          ],
+          "description": "Principal puerto de Roma; desembarco final."
+        },
+        {
+          "id": "map-10-pl-roma",
+          "ancient_name": "Roma",
+          "modern_name": "Italia",
+          "coords": [
+            12.496,
+            41.903
+          ],
+          "description": "Capital del imperio; dos años de arresto domiciliario predicando."
+        }
+      ],
+      "routes": [
+        {
+          "id": "map-10-rt-tercer-viaje",
+          "name": "Tercer viaje y regreso a Jerusalén",
+          "certainty": "documented",
+          "polyline": [
+            [
+              27.334,
+              37.941
+            ],
+            [
+              24.415,
+              40.983
+            ],
+            [
+              22.944,
+              40.64
+            ],
+            [
+              23.728,
+              37.984
+            ],
+            [
+              22.957,
+              37.906
+            ],
+            [
+              24.415,
+              40.983
+            ],
+            [
+              27.334,
+              37.941
+            ],
+            [
+              33,
+              35
+            ],
+            [
+              35.213,
+              31.768
+            ]
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "place_id": "map-10-pl-efeso",
+              "text": "Tres años en Éfeso: la escuela de Tiranno y el conflicto con los plateros de Artemisa.",
+              "related_ids": [
+                "evt-085",
+                "evt-088"
+              ]
+            },
+            {
+              "order": 2,
+              "place_id": "map-10-pl-filipos",
+              "text": "Recorrido por Macedonia recogiendo la ofrenda para Jerusalén.",
+              "related_ids": [
+                "evt-086"
+              ]
+            },
+            {
+              "order": 3,
+              "place_id": "map-10-pl-corinto",
+              "text": "Tres meses en Grecia; desde Corinto escribe la carta a los Romanos.",
+              "related_ids": [
+                "evt-084",
+                "evt-088"
+              ]
+            },
+            {
+              "order": 4,
+              "place_id": "map-10-pl-jerusalen",
+              "text": "El regreso por mar termina en Jerusalén, donde es arrestado en el Templo.",
+              "related_ids": [
+                "evt-086"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "map-10-rt-viaje-roma",
+          "name": "Viaje como prisionero a Roma (Hechos 27–28)",
+          "certainty": "documented",
+          "polyline": [
+            [
+              34.892,
+              32.498
+            ],
+            [
+              33,
+              34.5
+            ],
+            [
+              30,
+              36
+            ],
+            [
+              24.809,
+              35.24
+            ],
+            [
+              14.375,
+              35.899
+            ],
+            [
+              15.293,
+              37.075
+            ],
+            [
+              15.651,
+              37.913
+            ],
+            [
+              14.12,
+              40.823
+            ],
+            [
+              12.496,
+              41.903
+            ]
+          ],
+          "steps": [
+            {
+              "order": 1,
+              "place_id": "map-10-pl-cesarea",
+              "text": "Embarque en Cesarea como preso del centurión Julio, con apelación al César.",
+              "related_ids": [
+                "evt-086"
+              ]
+            },
+            {
+              "order": 2,
+              "place_id": "map-10-pl-malta",
+              "text": "Catorce noches a la deriva y naufragio en Malta; la tripulación se salva.",
+              "related_ids": [
+                "evt-086"
+              ]
+            },
+            {
+              "order": 3,
+              "place_id": "map-10-pl-puteoli",
+              "text": "Tras invernar en Malta, navegación a Siracusa, Regio y Puteoli.",
+              "related_ids": [
+                "evt-086"
+              ]
+            },
+            {
+              "order": 4,
+              "place_id": "map-10-pl-roma",
+              "text": "Por la vía Apia hasta Roma: dos años de arresto domiciliario 'predicando el reino'.",
+              "related_ids": [
+                "evt-086",
+                "evt-087"
+              ]
+            }
+          ]
+        }
+      ],
+      "text_alternative": "Mapa de los últimos viajes de Pablo en dos rutas. La primera, el tercer viaje: de Éfeso en la costa turca a Macedonia (Filipos, Tesalónica), luego al sur de Grecia (Atenas, Corinto), regreso por Macedonia y Éfeso, y travesía marítima hasta Jerusalén. La segunda, como prisionero: embarque en Cesarea Marítima, navegación por el Mediterráneo oriental bordeando Creta, naufragio en Malta tras catorce noches a la deriva, escala en Siracusa y Regio, desembarco en Puteoli y llegada por tierra a Roma. Hechos 27–28 narra la travesía con detalle náutico preciso; las escalas están identificadas.",
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "premium"
+    }
+  ]
+}

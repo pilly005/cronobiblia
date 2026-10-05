@@ -1,0 +1,727 @@
+{
+  "meta": {
+    "pack": "stories",
+    "version": 1,
+    "status": "DRAFT-AWAITING-REVIEW",
+    "generated": "2026-10-03",
+    "count": 12,
+    "notes": "12 recorridos guiados con secuencias de tarjetas y narración.",
+    "review": "AI-DRAFT-AWAITING-REVIEW: borrador generado por IA. Requiere revisión histórica, de neutralidad y de estilo antes de publicarse. Nunca presentarlo como verificado."
+  },
+  "items": [
+    {
+      "id": "story-01",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Abraham: el viaje de la promesa",
+      "type": "story",
+      "summary": "De Ur a Canaán: el llamado, el pacto y la fe del primer patriarca, en el mundo real del segundo milenio a. C.",
+      "eras": [
+        "era-01"
+      ],
+      "duration_minutes": 5,
+      "cards": [
+        {
+          "order": 1,
+          "kind": "event",
+          "content_id": "evt-001",
+          "narration": "Todo comienza con una partida: el texto bíblico presenta a Abraham dejando Ur por un llamado. ¿Qué sabemos de esa ciudad?"
+        },
+        {
+          "order": 2,
+          "kind": "event",
+          "content_id": "evt-007",
+          "narration": "Ur no es un lugar mítico: fue una metrópoli sumeria real, excavada y documentada. Este es el mundo del que parte Abraham."
+        },
+        {
+          "order": 3,
+          "kind": "map",
+          "content_id": "map-01",
+          "narration": "Sigue la ruta tradicional: más de mil kilómetros de Ur a Canaán pasando por Harán. Recuerda: el itinerario es reconstruido."
+        },
+        {
+          "order": 4,
+          "kind": "event",
+          "content_id": "evt-002",
+          "narration": "En Canaán llega el pacto: descendencia y tierra. Los pactos sellados con ritos eran el lenguaje diplomático de la época."
+        },
+        {
+          "order": 5,
+          "kind": "event",
+          "content_id": "evt-008",
+          "narration": "Mientras tanto, en Babilonia, Hammurabi grababa sus leyes en piedra: el mundo legal que rodeaba a los patriarcas."
+        },
+        {
+          "order": 6,
+          "kind": "quiz",
+          "content_id": "quiz-001",
+          "narration": "Comprueba lo aprendido: ¿qué ciudad sumeria dejó Abraham según el relato?"
+        }
+      ],
+      "certainty": "disputed",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Museo Británico, Londres"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "free"
+    },
+    {
+      "id": "story-02",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "El Éxodo en diez minutos",
+      "type": "story",
+      "summary": "Plagas, Pascua, mar abierto y Sinaí: el relato fundacional de Israel y lo que la historia puede decir de él.",
+      "eras": [
+        "era-02"
+      ],
+      "duration_minutes": 6,
+      "cards": [
+        {
+          "order": 1,
+          "kind": "event",
+          "content_id": "evt-014",
+          "narration": "Moisés, entre Egipto y Madián, recibe el llamado ante la zarza. La fecha del Éxodo es uno de los grandes debates."
+        },
+        {
+          "order": 2,
+          "kind": "event",
+          "content_id": "evt-015",
+          "narration": "Las diez plagas: el texto las presenta como confrontación con los dioses de Egipto."
+        },
+        {
+          "order": 3,
+          "kind": "event",
+          "content_id": "evt-016",
+          "narration": "La Pascua y la salida: la fiesta que Israel sigue celebrando como memorial de la liberación."
+        },
+        {
+          "order": 4,
+          "kind": "event",
+          "content_id": "evt-017",
+          "narration": "El cruce del mar de los Juncos: el hebreo no dice 'mar Rojo'. La localización exacta se debate."
+        },
+        {
+          "order": 5,
+          "kind": "map",
+          "content_id": "map-02",
+          "narration": "Dos hipótesis, un mapa: compara la ruta norte y la ruta sur. Ambas están marcadas como debatidas."
+        },
+        {
+          "order": 6,
+          "kind": "event",
+          "content_id": "evt-018",
+          "narration": "El Sinaí y los Diez Mandamientos: el pacto que constituye a Israel como pueblo."
+        },
+        {
+          "order": 7,
+          "kind": "evidence",
+          "content_id": "evid-001",
+          "narration": "La evidencia externa más antigua del nombre 'Israel': la estela de Merneptah, del 1207 a. C."
+        },
+        {
+          "order": 8,
+          "kind": "quiz",
+          "content_id": "quiz-010",
+          "narration": "Pon a prueba tu cronología: ordena los momentos del Éxodo."
+        }
+      ],
+      "certainty": "disputed",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Museo Egipcio, El Cairo"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "free"
+    },
+    {
+      "id": "story-03",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "David: de pastor a rey",
+      "type": "story",
+      "summary": "El gigante, la corona y el pacto: el ascenso del rey que dio nombre a una dinastía confirmada por la arqueología.",
+      "eras": [
+        "era-03"
+      ],
+      "duration_minutes": 7,
+      "cards": [
+        {
+          "order": 1,
+          "kind": "event",
+          "content_id": "evt-028",
+          "narration": "El valle de Elah: un joven pastor frente al campeón filisteo. La honda era un arma militar real."
+        },
+        {
+          "order": 2,
+          "kind": "event",
+          "content_id": "evt-027",
+          "narration": "Antes de David estuvo Saúl, el primer rey: ungido ante la presión filistea y caído en Gilboa."
+        },
+        {
+          "order": 3,
+          "kind": "event",
+          "content_id": "evt-029",
+          "narration": "La toma de Jerusalén: David convierte una fortaleza jebusea en capital neutral del reino unido."
+        },
+        {
+          "order": 4,
+          "kind": "event",
+          "content_id": "evt-030",
+          "narration": "El pacto davídico: la promesa de una dinastía perpetua, base de la esperanza mesiánica."
+        },
+        {
+          "order": 5,
+          "kind": "evidence",
+          "content_id": "evid-006",
+          "narration": "La prueba externa: la estela de Tel Dan menciona la 'casa de David' un siglo después."
+        },
+        {
+          "order": 6,
+          "kind": "map",
+          "content_id": "map-04",
+          "narration": "Recorre el ascenso: de Belén a Hebrón y a Jerusalén, con las campañas al este del Jordán."
+        },
+        {
+          "order": 7,
+          "kind": "quiz",
+          "content_id": "quiz-020",
+          "narration": "¿Qué confirma la estela de Tel Dan y qué no demuestra?"
+        }
+      ],
+      "certainty": "disputed",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Museo de Israel, Jerusalén"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "premium"
+    },
+    {
+      "id": "story-04",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Salomón y el primer Templo",
+      "type": "story",
+      "summary": "Oro, cedro y sabiduría: la construcción del Templo de Jerusalén y el esplendor —y las grietas— del reino.",
+      "eras": [
+        "era-03"
+      ],
+      "duration_minutes": 6,
+      "cards": [
+        {
+          "order": 1,
+          "kind": "event",
+          "content_id": "evt-031",
+          "narration": "Siete años de obra con artesanos de Tiro: el Templo como centro religioso de Israel."
+        },
+        {
+          "order": 2,
+          "kind": "event",
+          "content_id": "evt-036",
+          "narration": "Los fenicios: sin la madera de cedro y los artesanos de Tiro, el Templo no se habría construido."
+        },
+        {
+          "order": 3,
+          "kind": "event",
+          "content_id": "evt-032",
+          "narration": "La reina de Sabá: diplomacia de prestigio en la ruta del incienso."
+        },
+        {
+          "order": 4,
+          "kind": "event",
+          "content_id": "evt-040",
+          "narration": "El final del esplendor: la división del reino tras la muerte de Salomón."
+        },
+        {
+          "order": 5,
+          "kind": "quiz",
+          "content_id": "quiz-025",
+          "narration": "Comprueba lo aprendido sobre Salomón y su mundo."
+        }
+      ],
+      "certainty": "disputed",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Museo del Louvre, París — Departamento de Antigüedades Orientales"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "premium"
+    },
+    {
+      "id": "story-05",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Elías: fuego en el Carmelo",
+      "type": "story",
+      "summary": "El profeta frente a los profetas de Baal: la gran confrontación religiosa del reino del norte.",
+      "eras": [
+        "era-04"
+      ],
+      "duration_minutes": 5,
+      "cards": [
+        {
+          "order": 1,
+          "kind": "event",
+          "content_id": "evt-044",
+          "narration": "El contexto: Acab, Jezabel y un Israel poderoso que coquetea con el baalismo fenicio."
+        },
+        {
+          "order": 2,
+          "kind": "event",
+          "content_id": "evt-041",
+          "narration": "El desafío del Carmelo: el fuego que decide quién es Dios."
+        },
+        {
+          "order": 3,
+          "kind": "event",
+          "content_id": "evt-042",
+          "narration": "Eliseo, su sucesor: la curación de Naamán anticipa la apertura a las naciones."
+        },
+        {
+          "order": 4,
+          "kind": "evidence",
+          "content_id": "evid-030",
+          "narration": "El poder militar de este Israel: la estela de Qarqar y los 2.000 carros de Acab."
+        },
+        {
+          "order": 5,
+          "kind": "quiz",
+          "content_id": "quiz-030",
+          "narration": "Elías, Eliseo y su mundo: pon a prueba lo aprendido."
+        }
+      ],
+      "certainty": "traditional",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Museo Británico, Londres"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "premium"
+    },
+    {
+      "id": "story-06",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Asiria a las puertas: Ezequías y Senaquerib",
+      "type": "story",
+      "summary": "El 701 a. C.: el imperio más temido del mundo sitia Jerusalén. Dos versiones, un desenlace: la ciudad sobrevive.",
+      "eras": [
+        "era-04"
+      ],
+      "duration_minutes": 7,
+      "cards": [
+        {
+          "order": 1,
+          "kind": "map",
+          "content_id": "map-05",
+          "narration": "El avance asirio: de Nínive a Samaria, Laquis y Jerusalén. Las campañas están documentadas."
+        },
+        {
+          "order": 2,
+          "kind": "event",
+          "content_id": "evt-047",
+          "narration": "El precedente: Samaria cayó en el 722 a. C. tras tres años de asedio. Judá quedó sola."
+        },
+        {
+          "order": 3,
+          "kind": "event",
+          "content_id": "evt-049",
+          "narration": "Ezequías se prepara: el túnel de Siloé lleva el agua dentro de las murallas."
+        },
+        {
+          "order": 4,
+          "kind": "evidence",
+          "content_id": "evid-007",
+          "narration": "La inscripción de Siloé: la voz de los excavadores, en hebreo antiguo."
+        },
+        {
+          "order": 5,
+          "kind": "event",
+          "content_id": "evt-048",
+          "narration": "El asedio del 701: el prisma de Senaquerib y el relato bíblico coinciden en lo esencial."
+        },
+        {
+          "order": 6,
+          "kind": "evidence",
+          "content_id": "evid-008",
+          "narration": "Los relieves de Laquis: la versión visual asiria de la campaña."
+        },
+        {
+          "order": 7,
+          "kind": "quiz",
+          "content_id": "quiz-035",
+          "narration": "¿Qué dicen las fuentes asirias y qué dice el texto bíblico?"
+        }
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo Británico, Londres",
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "premium"
+    },
+    {
+      "id": "story-07",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Babilonia y el regreso",
+      "type": "story",
+      "summary": "Del trauma del 586 a la esperanza del retorno: el exilio que reinventó la fe de Israel.",
+      "eras": [
+        "era-05"
+      ],
+      "duration_minutes": 8,
+      "cards": [
+        {
+          "order": 1,
+          "kind": "event",
+          "content_id": "evt-054",
+          "narration": "El 586 a. C.: cae Jerusalén y arde el Templo. El trauma fundacional del judaísmo."
+        },
+        {
+          "order": 2,
+          "kind": "evidence",
+          "content_id": "evid-017",
+          "narration": "Las cartas de Laquis: la voz de los soldados en los últimos meses del reino."
+        },
+        {
+          "order": 3,
+          "kind": "event",
+          "content_id": "evt-056",
+          "narration": "Ezequiel junto al Quebar: visiones de huesos secos para un pueblo desterrado."
+        },
+        {
+          "order": 4,
+          "kind": "map",
+          "content_id": "map-06",
+          "narration": "El camino del destierro y del regreso: de Jerusalén a Babilonia por el Éufrates."
+        },
+        {
+          "order": 5,
+          "kind": "event",
+          "content_id": "evt-059",
+          "narration": "Ciro toma Babilonia: el cilindro que proclama tolerancia imperial."
+        },
+        {
+          "order": 6,
+          "kind": "evidence",
+          "content_id": "evid-005",
+          "narration": "El Cilindro de Ciro en el Museo Británico: el contexto del edicto de retorno."
+        },
+        {
+          "order": 7,
+          "kind": "event",
+          "content_id": "evt-060",
+          "narration": "El edicto y el regreso: no todos vuelven; la diáspora seguirá siendo numerosa."
+        },
+        {
+          "order": 8,
+          "kind": "quiz",
+          "content_id": "quiz-040",
+          "narration": "El exilio en fechas y objetos: comprueba lo aprendido."
+        }
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Museo Británico, Londres",
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "premium"
+    },
+    {
+      "id": "story-08",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Nehemías: muros en 52 días",
+      "type": "story",
+      "summary": "El copero del rey persa que reconstruyó Jerusalén: memorias en primera persona de una hazaña administrativa.",
+      "eras": [
+        "era-05"
+      ],
+      "duration_minutes": 5,
+      "cards": [
+        {
+          "order": 1,
+          "kind": "event",
+          "content_id": "evt-064",
+          "narration": "Nehemías obtiene permiso de Artajerjes y organiza la obra por turnos y familias."
+        },
+        {
+          "order": 2,
+          "kind": "event",
+          "content_id": "evt-063",
+          "narration": "Esdras y la lectura de la Ley: la escena fundacional de la lectura pública de las Escrituras."
+        },
+        {
+          "order": 3,
+          "kind": "evidence",
+          "content_id": "evid-025",
+          "narration": "Mientras tanto, en Egipto: los papiros de Elefantina muestran otro judaísmo, con templo propio."
+        },
+        {
+          "order": 4,
+          "kind": "quiz",
+          "content_id": "quiz-045",
+          "narration": "Nehemías y Esdras: fechas y debates."
+        }
+      ],
+      "certainty": "traditional",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Museo Egipcio, Berlín"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "premium"
+    },
+    {
+      "id": "story-09",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Jesús en Galilea",
+      "type": "story",
+      "summary": "Parábolas, lago y multitudes: tres años que cambiaron la historia, en la Galilea real del siglo I.",
+      "eras": [
+        "era-06"
+      ],
+      "duration_minutes": 7,
+      "cards": [
+        {
+          "order": 1,
+          "kind": "map",
+          "content_id": "map-07",
+          "narration": "El escenario: Galilea bajo Antipas, Judea bajo Roma. Ubica cada lugar antes de empezar."
+        },
+        {
+          "order": 2,
+          "kind": "event",
+          "content_id": "evt-072",
+          "narration": "El precursor: Juan el Bautista, confirmado por el historiador Josefo."
+        },
+        {
+          "order": 3,
+          "kind": "event",
+          "content_id": "evt-073",
+          "narration": "El ministerio galileo: Cafarnaúm como base, el lago como escenario."
+        },
+        {
+          "order": 4,
+          "kind": "map",
+          "content_id": "map-08",
+          "narration": "Sigue el itinerario: de Nazaret a Cesarea de Filipo y de vuelta al lago."
+        },
+        {
+          "order": 5,
+          "kind": "evidence",
+          "content_id": "evid-021",
+          "narration": "El contexto romano: la inscripción de Pilato en Cesarea."
+        },
+        {
+          "order": 6,
+          "kind": "quiz",
+          "content_id": "quiz-050",
+          "narration": "Galilea en el siglo I: comprueba lo aprendido."
+        }
+      ],
+      "certainty": "traditional",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Israel Antiquities Authority (Autoridad de Antigüedades de Israel)",
+        "Anchor Yale Bible Dictionary"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "premium"
+    },
+    {
+      "id": "story-10",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "La última semana en Jerusalén",
+      "type": "story",
+      "summary": "De la entrada triunfal a la tumba vacía: siete días en la Jerusalén de la Pascua, con decenas de miles de peregrinos.",
+      "eras": [
+        "era-06"
+      ],
+      "duration_minutes": 6,
+      "cards": [
+        {
+          "order": 1,
+          "kind": "event",
+          "content_id": "evt-075",
+          "narration": "La entrada, el Templo, la cena y Getsemaní: la cronología difiere ligeramente entre evangelios."
+        },
+        {
+          "order": 2,
+          "kind": "event",
+          "content_id": "evt-074",
+          "narration": "El juez: quién fue Poncio Pilato según la inscripción de Cesarea y los historiadores."
+        },
+        {
+          "order": 3,
+          "kind": "evidence",
+          "content_id": "evid-020",
+          "narration": "El sumo sacerdote: el osario de Caifás y los límites de la identificación."
+        },
+        {
+          "order": 4,
+          "kind": "event",
+          "content_id": "evt-076",
+          "narration": "Crucifixión y resurrección: lo que la historia confirma y lo que pertenece a la fe."
+        },
+        {
+          "order": 5,
+          "kind": "quiz",
+          "content_id": "quiz-055",
+          "narration": "La última semana: historia y fuentes."
+        }
+      ],
+      "certainty": "traditional",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Museo de Israel, Jerusalén"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "premium"
+    },
+    {
+      "id": "story-11",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "Pablo: de perseguidor a viajero",
+      "type": "story",
+      "summary": "El camino de Damasco y el primer viaje misionero: cómo un perseguidor se volvió el gran viajero del cristianismo.",
+      "eras": [
+        "era-07"
+      ],
+      "duration_minutes": 7,
+      "cards": [
+        {
+          "order": 1,
+          "kind": "event",
+          "content_id": "evt-081",
+          "narration": "La conversión: de Saulo el perseguidor a Pablo el apóstol."
+        },
+        {
+          "order": 2,
+          "kind": "event",
+          "content_id": "evt-082",
+          "narration": "El precedente: Pedro y Cornelio abren la puerta a los gentiles."
+        },
+        {
+          "order": 3,
+          "kind": "map",
+          "content_id": "map-09",
+          "narration": "El primer viaje: de Antioquía a Chipre y el interior de Anatolia, paso a paso."
+        },
+        {
+          "order": 4,
+          "kind": "event",
+          "content_id": "evt-083",
+          "narration": "El concilio de Jerusalén: la decisión que permitió un cristianismo sin circuncisión."
+        },
+        {
+          "order": 5,
+          "kind": "quiz",
+          "content_id": "quiz-060",
+          "narration": "Pablo misionero: comprueba lo aprendido."
+        }
+      ],
+      "certainty": "traditional",
+      "confidence": "medium",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Oxford University Press — obras de referencia de historia antigua"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "premium"
+    },
+    {
+      "id": "story-12",
+      "version": 1,
+      "status": "DRAFT-AWAITING-REVIEW",
+      "title": "De Jerusalén a Roma",
+      "type": "story",
+      "summary": "La expansión imparable: Éfeso, Corinto, el naufragio en Malta y la llegada a la capital del imperio.",
+      "eras": [
+        "era-07"
+      ],
+      "duration_minutes": 8,
+      "cards": [
+        {
+          "order": 1,
+          "kind": "event",
+          "content_id": "evt-085",
+          "narration": "Éfeso: tres años en la tercera ciudad del imperio y el tumulto de Demetrio."
+        },
+        {
+          "order": 2,
+          "kind": "evidence",
+          "content_id": "evid-022",
+          "narration": "El anclaje cronológico: la inscripción de Galión fecha a Pablo en Corinto en el 51–52."
+        },
+        {
+          "order": 3,
+          "kind": "event",
+          "content_id": "evt-088",
+          "narration": "La carta a los Romanos: la exposición más influyente, escrita desde Corinto."
+        },
+        {
+          "order": 4,
+          "kind": "map",
+          "content_id": "map-10",
+          "narration": "El último tramo: tercer viaje, arresto, naufragio en Malta y llegada a Roma."
+        },
+        {
+          "order": 5,
+          "kind": "event",
+          "content_id": "evt-086",
+          "narration": "Prisionero rumbo a Roma: la apelación al César y Hechos 27."
+        },
+        {
+          "order": 6,
+          "kind": "event",
+          "content_id": "evt-087",
+          "narration": "El final de la era apostólica: Nerón y la primera persecución."
+        },
+        {
+          "order": 7,
+          "kind": "quiz",
+          "content_id": "quiz-065",
+          "narration": "De Jerusalén a Roma: el gran repaso."
+        }
+      ],
+      "certainty": "consensus",
+      "confidence": "high",
+      "sources": [
+        "Reina-Valera 1909 (texto bíblico de dominio público; solo citas breves)",
+        "Anchor Yale Bible Dictionary",
+        "Museo Arqueológico de Delfos, Grecia"
+      ],
+      "image_rights": "original-illustration-needed",
+      "tier": "premium"
+    }
+  ]
+}
