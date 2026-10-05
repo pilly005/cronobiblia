@@ -15,7 +15,7 @@ export function corsHeaders(req: Request): Record<string, string> {
   const origin = req.headers.get("origin");
   const headers: Record<string, string> = {
     "Access-Control-Allow-Methods": "POST, OPTIONS",
-    "Access-Control-Allow-Headers": "Content-Type, Authorization",
+    "Access-Control-Allow-Headers": "Content-Type, Authorization, apikey, x-client-info",
     "Access-Control-Max-Age": "86400",
   };
   if (origin && ALLOWED_ORIGINS.has(origin)) {
