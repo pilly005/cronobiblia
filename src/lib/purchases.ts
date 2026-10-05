@@ -247,6 +247,8 @@ async function purchasePackage(
     writePremiumCache(premium);
     return { success: premium };
   } catch (err) {
+    // Log the raw RevenueCat/StoreKit error for diagnostics (visible in Xcode console).
+    console.error("[CronoBiblia] purchasePackage failed:", JSON.stringify(err, Object.getOwnPropertyNames(err ?? {})));
     if (isPurchaseCancelled(err)) throw new PurchaseCancelledError();
     if (err instanceof Error && err.message) throw err;
     throw new Error(
