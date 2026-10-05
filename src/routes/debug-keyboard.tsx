@@ -76,6 +76,38 @@ function DebugKeyboard() {
           → Abrir prueba sin JavaScript
         </a>
       </p>
+
+      <div style={{ marginTop: 24 }}>
+        <p style={{ fontWeight: 700, marginBottom: 6 }}>
+          4. Input creado con DOM nativo (sin React)
+        </p>
+        <button
+          type="button"
+          onClick={() => {
+            const el = document.getElementById("raw-input-host");
+            if (el && !el.querySelector("input")) {
+              const input = document.createElement("input");
+              input.placeholder = "input nativo, toca aquí";
+              input.style.cssText =
+                "font-size:16px;padding:12px;width:100%;box-sizing:border-box;border:1px solid #ccc;border-radius:8px;";
+              el.appendChild(input);
+              add("4: input nativo creado");
+            }
+          }}
+          style={{
+            fontSize: 15,
+            fontWeight: 700,
+            padding: "12px 20px",
+            background: "#C0563B",
+            color: "white",
+            border: "none",
+            borderRadius: 10,
+          }}
+        >
+          Crear input nativo
+        </button>
+        <div id="raw-input-host" style={{ marginTop: 10 }} />
+      </div>
     </div>
   );
 }
