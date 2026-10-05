@@ -1,0 +1,153 @@
+// 8 family lessons (fam-01..fam-08)
+// Parent-led, read-together format. Short paragraphs, conversation prompts.
+// No child accounts, no child data collected (spec §6).
+import { base, SRC } from "./common.mjs";
+
+const R = "original-illustration-needed";
+
+export const family = [
+  base("fam-01", "El mundo es un regalo que cuidamos", {
+    type: "family-lesson",
+    summary: "La creación como regalo y tarea: una lección para conversar en familia sobre el cuidado del mundo.",
+    paragraphs: [
+      "El texto bíblico presenta la creación como un regalo bueno, confiado al ser humano para cuidarlo. No somos dueños del mundo: somos sus cuidadores.",
+      "Cada cosa creada —el agua, los animales, las plantas— tiene su lugar y su valor. Cuidarlas es una forma de dar gracias.",
+      "En familia podemos empezar por lo pequeño: no desperdiciar el agua, cuidar una planta, recoger lo que ensucia un parque.",
+    ],
+    read_together: [
+      "Conversen: ¿cuál es su lugar favorito de la naturaleza? ¿Qué tiene de especial?",
+      "Elijan juntos una acción pequeña para cuidar la creación esta semana.",
+      "Lean juntos Génesis 1:1 y comenten qué significa que 'en el principio crió Dios'.",
+    ],
+    related_ids: ["evt-013"], era: "era-01",
+    certainty: "traditional", confidence: "medium",
+    sources: [SRC.RVR09],
+    image_rights: R, tier: "free",
+  }),
+  base("fam-02", "Abraham: confiar aunque no veamos el camino", {
+    type: "family-lesson",
+    summary: "Abraham dejó su ciudad sin saber a dónde iba. Una lección sobre la confianza, para valientes de todas las edades.",
+    paragraphs: [
+      "El texto bíblico presenta a Abraham recibiendo un llamado: salir de su tierra hacia un lugar que no conocía. Y Abraham partió.",
+      "Confiar no significa no tener miedo. Significa caminar aunque el camino no esté claro, paso a paso.",
+      "Abraham se equivocó a veces, y aun así siguió siendo amigo de Dios. Eso también es parte de la historia.",
+    ],
+    read_together: [
+      "Conversen: ¿alguna vez tuvieron que empezar algo nuevo sin saber cómo saldría? ¿Cómo se sintieron?",
+      "Busquen en el mapa del viaje de Abraham (map-01) la distancia entre Ur y Canaán. ¿Caminarían eso?",
+      "Lean juntos Génesis 12:1 y hablen de lo que significa 'vete' cuando no se ve el destino.",
+    ],
+    related_ids: ["evt-001", "map-01"], era: "era-01",
+    certainty: "traditional", confidence: "medium",
+    sources: [SRC.RVR09],
+    image_rights: R, tier: "premium",
+  }),
+  base("fam-03", "Moisés: la libertad se celebra", {
+    type: "family-lesson",
+    summary: "La salida de Egipto y la Pascua: por qué el pueblo de Israel celebraba su libertad cada año.",
+    paragraphs: [
+      "El texto bíblico presenta a un pueblo esclavo que sale libre de Egipto. Esa liberación se volvió la fiesta más importante de Israel: la Pascua.",
+      "Cada año, las familias contaban la historia a sus hijos. Recordar era una forma de no olvidar quiénes eran.",
+      "La libertad, dice la historia, no es solo salir de un lugar: es aprender a vivir de otra manera.",
+    ],
+    read_together: [
+      "Conversen: ¿qué significa ser libres hoy? ¿De qué cosas nos hace bien liberarnos?",
+      "Comparen las dos rutas del mapa del Éxodo (map-02). ¿Cuál les parece más difícil?",
+      "Lean juntos Éxodo 14:14 y hablen de lo que significa confiar cuando hay miedo.",
+    ],
+    related_ids: ["evt-016", "evt-017", "map-02"], era: "era-02",
+    certainty: "traditional", confidence: "medium",
+    sources: [SRC.RVR09],
+    image_rights: R, tier: "premium",
+  }),
+  base("fam-04", "David: el pastor valiente", {
+    type: "family-lesson",
+    summary: "David era el menor y cuidaba ovejas. Una lección sobre el valor que no depende del tamaño.",
+    paragraphs: [
+      "El texto bíblico presenta a David como el hijo menor, el que nadie tomaba en cuenta para ser rey. Cuidaba ovejas en Belén.",
+      "Cuando enfrentó a Goliat, no usó armadura de soldado: usó lo que sabía hacer, su honda de pastor.",
+      "Ser valiente no es no tener miedo. Es hacer lo correcto con lo que tienes en las manos.",
+    ],
+    read_together: [
+      "Conversen: ¿qué saben hacer bien? ¿Cómo podrían usarlo para ayudar a otros?",
+      "Miren la estela de Tel Dan (evid-006): el nombre de la familia de David, escrito por sus enemigos.",
+      "Lean juntos el Salmo 23:1 y hablen de la imagen del pastor que cuida.",
+    ],
+    related_ids: ["evt-028", "evt-029", "evid-006"], era: "era-03",
+    certainty: "traditional", confidence: "medium",
+    sources: [SRC.RVR09],
+    image_rights: R, tier: "premium",
+  }),
+  base("fam-05", "Daniel: fiel aunque sea difícil", {
+    type: "family-lesson",
+    summary: "Daniel vivió lejos de casa y mantuvo sus costumbres. Una lección sobre la fidelidad en tierra extraña.",
+    paragraphs: [
+      "El texto bíblico presenta a Daniel como un joven llevado a Babilonia que decidió no renunciar a lo que creía.",
+      "No peleó con gritos: fue fiel en lo pequeño, cada día, con constancia. Hasta los reyes lo notaron.",
+      "Mantenerse fiel no siempre es fácil, pero la historia de Daniel muestra que es posible.",
+    ],
+    read_together: [
+      "Conversen: ¿qué costumbres de su familia les gustaría mantener siempre?",
+      "Busquen Babilonia en el mapa del exilio (map-06). ¿Qué tan lejos de casa estaba Daniel?",
+      "Hablen de una ocasión en que hacer lo correcto fue difícil. ¿Qué los ayudó?",
+    ],
+    related_ids: ["evt-057", "map-06"], era: "era-05",
+    certainty: "traditional", confidence: "medium",
+    sources: [SRC.RVR09],
+    image_rights: R, tier: "premium",
+  }),
+  base("fam-06", "Jesús, amigo de todos", {
+    type: "family-lesson",
+    summary: "Jesús se acercó a quienes nadie quería. Una lección sobre la amistad sin fronteras.",
+    paragraphs: [
+      "El texto bíblico presenta a Jesús compartiendo la mesa con personas que otros despreciaban: cobradores de impuestos, enfermos, extranjeros.",
+      "Sus parábolas hablan de un padre que espera al hijo perdido y de un samaritano que ayuda a un herido.",
+      "Ser amigo de todos no significa estar de acuerdo en todo: significa tratar a cada persona con dignidad.",
+    ],
+    read_together: [
+      "Conversen: ¿a quién le cuesta incluir a los demás? ¿Cómo pueden ser más acogedores?",
+      "Recorran el mapa del ministerio (map-08): ¿cuántos pueblos visitó Jesús?",
+      "Lean juntos Mateo 5:16 y piensen en una 'luz' concreta que pueden encender esta semana.",
+    ],
+    related_ids: ["evt-073", "map-08"], era: "era-06",
+    certainty: "traditional", confidence: "medium",
+    sources: [SRC.RVR09],
+    image_rights: R, tier: "premium",
+  }),
+  base("fam-07", "Pablo no se rindió", {
+    type: "family-lesson",
+    summary: "Naufragios, cárceles y viajes sin fin: Pablo siguió adelante. Una lección sobre la perseverancia.",
+    paragraphs: [
+      "El texto bíblico presenta a Pablo viajando miles de kilómetros para compartir su mensaje: a pie, en barco, a veces encadenado.",
+      "Naufragó, lo apedrearon, pasó noches en la cárcel. Y escribió desde la prisión algunas de sus cartas más alegres.",
+      "Perseverar no es no caerse: es levantarse una vez más, cada vez.",
+    ],
+    read_together: [
+      "Conversen: ¿cuándo tuvieron ganas de rendirse? ¿Qué los hizo seguir?",
+      "Sigan el viaje a Roma en el mapa (map-10), incluido el naufragio en Malta.",
+      "Lean juntos Filipenses 4:13 y hablen de lo que significa 'todo lo puedo'.",
+    ],
+    related_ids: ["evt-086", "map-10"], era: "era-07",
+    certainty: "traditional", confidence: "medium",
+    sources: [SRC.RVR09],
+    image_rights: R, tier: "premium",
+  }),
+  base("fam-08", "La primera iglesia compartía", {
+    type: "family-lesson",
+    summary: "Los primeros cristianos compartían lo que tenían. Una lección sobre la generosidad en familia.",
+    paragraphs: [
+      "El texto bíblico presenta a la primera comunidad de Jerusalén compartiendo bienes: nadie pasaba necesidad entre ellos.",
+      "Compartir no era una obligación triste: lo hacían con alegría, en las casas y en el Templo.",
+      "La generosidad empieza en casa: con el tiempo, con la atención, con las cosas.",
+    ],
+    read_together: [
+      "Conversen: ¿qué tienen que podrían compartir con alguien que lo necesite?",
+      "Elijan juntos una acción generosa para esta semana y cuenten después cómo les fue.",
+      "Lean juntos Hechos 2:44-45 (en su Biblia) y comenten qué les sorprende.",
+    ],
+    related_ids: ["evt-079"], era: "era-07",
+    certainty: "traditional", confidence: "medium",
+    sources: [SRC.RVR09],
+    image_rights: R, tier: "premium",
+  }),
+];
