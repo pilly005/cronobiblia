@@ -127,31 +127,36 @@ export async function renderShareCard(fact: TodayFact): Promise<Blob> {
   ctx.fillRect(-11, -11, 22, 22);
   ctx.restore();
 
-  // Fact title.
+  // Fact title + body: measure first, then vertically center the block
+  // between the header rule and the footer so short facts don't leave
+  // a big empty middle.
+  ctx.textAlign = "center";
+  ctx.font = "700 54px Georgia, 'Times New Roman', serif";
+  const titleLines = wrapText(ctx, fact.title, W - 220).slice(0, 3);
+  ctx.font = "400 46px Georgia, 'Times New Roman', serif";
+  const bodyLines = wrapText(ctx, fact.text, W - 200).slice(0, 16);
+
+  const titleLH = 72;
+  const bodyLH = 70;
+  const gap = 30;
+  const blockH = titleLines.length * titleLH + gap + bodyLines.length * bodyLH;
+  const topBound = 400;
+  const botBound = H - 400;
+  let y = topBound + Math.max(0, (botBound - topBound - blockH) / 2) + titleLH * 0.8;
+
   ctx.fillStyle = TERRA;
   ctx.font = "700 54px Georgia, 'Times New Roman', serif";
-  const titleLines = wrapText(ctx, fact.title, W - 220);
-  let y = 430;
-  for (const line of titleLines.slice(0, 3)) {
+  for (const line of titleLines) {
     ctx.fillText(line, cx, y);
-    y += 72;
+    y += titleLH;
   }
 
-  // Fact body.
-  y += 30;
+  y += gap;
   ctx.fillStyle = IVORY;
   ctx.font = "400 46px Georgia, 'Times New Roman', serif";
-  const bodyLines = wrapText(ctx, fact.text, W - 200);
-  const lineHeight = 70;
-  const maxBodyLines = 16;
-  for (const line of bodyLines.slice(0, maxBodyLines)) {
-    if (y > H - 420) break;
+  for (const line of bodyLines) {
     ctx.fillText(line, cx, y);
-    y += lineHeight;
-  }
-  if (bodyLines.length > maxBodyLines) {
-    ctx.fillStyle = "rgba(247,241,229,0.6)";
-    ctx.fillText("…", cx, y);
+    y += bodyLH;
   }
 
   // Footer brand block.
