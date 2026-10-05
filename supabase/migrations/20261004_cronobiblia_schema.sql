@@ -27,21 +27,6 @@ CREATE EXTENSION IF NOT EXISTS "pgcrypto";
 -- Helpers
 -- ----------------------------------------------------------------------------
 
--- True when the given user holds an active premium entitlement.
-CREATE OR REPLACE FUNCTION public.is_premium(uid uuid)
-RETURNS boolean
-LANGUAGE sql
-SECURITY DEFINER
-STABLE
-AS $$
-  SELECT EXISTS (
-    SELECT 1 FROM public.entitlements
-    WHERE user_id = uid
-      AND status = 'active'
-      AND (expires_at IS NULL OR expires_at > now())
-  );
-$$;
-
 -- Bump updated_at on row changes.
 CREATE OR REPLACE FUNCTION public.touch_updated_at()
 RETURNS trigger
@@ -362,6 +347,23 @@ CREATE TABLE public.entitlements (
 CREATE TRIGGER entitlements_touch
   BEFORE UPDATE ON public.entitlements
   FOR EACH ROW EXECUTE FUNCTION public.touch_updated_at();
+
+-- True when the given user holds an active premium entitlement.
+-- NOTE: must be defined AFTER public.entitlements exists — LANGUAGE sql
+-- functions are validated at CREATE time (was 42P01 when defined up top).
+CREATE OR REPLACE FUNCTION public.is_premium(uid uuid)
+RETURNS boolean
+LANGUAGE sql
+SECURITY DEFINER
+STABLE
+AS $$
+  SELECT EXISTS (
+    SELECT 1 FROM public.entitlements
+    WHERE user_id = uid
+      AND status = 'active'
+      AND (expires_at IS NULL OR expires_at > now())
+  );
+$$;
 
 -- ============================================================================
 -- ROW LEVEL SECURITY
