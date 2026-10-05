@@ -1,0 +1,191 @@
+@import "tailwindcss" source(none);
+@source "../src";
+@import "tw-animate-css";
+
+/* ---------------------------------------------
+ * CronoBiblia — "museum-grade clarity".
+ * Warm ivory surfaces, deep ink text, terracotta
+ * as the primary action color, antique gold,
+ * Mediterranean blue and evidence green accents.
+ * --------------------------------------------- */
+@theme {
+  --font-sans: "Fira Sans", ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --font-display: "Source Serif 4", ui-serif, Georgia, serif;
+
+  /* Brand palette (spec §12) */
+  --color-ink: #17212b;
+  --color-ivory: #f7f1e5;
+  --color-parchment: #fffdf7;
+  --color-terracotta: #b85c38;
+  --color-terracotta-deep: #9a4a2c;
+  --color-gold: #c49a45;
+  --color-gold-deep: #a07e33;
+  --color-sea: #2f6f8f;
+  --color-sea-deep: #245a75;
+  --color-evidence: #46745b;
+  --color-evidence-deep: #375c48;
+
+  --color-white: #ffffff;
+}
+
+/*
+ * Semantic theme tokens. --color-<name> registers bg-<name>, text-<name>,
+ * border-<name>, … utilities. Keep single light museum theme; .dark offers
+ * a readable ink-surface variant.
+ */
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --radius-2xl: calc(var(--radius) + 8px);
+  --radius-3xl: calc(var(--radius) + 12px);
+  --radius-4xl: calc(var(--radius) + 16px);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-ring-offset-background: var(--background);
+}
+
+:root {
+  --radius: 0.75rem;
+  --background: var(--color-ivory);
+  --foreground: var(--color-ink);
+  --card: var(--color-parchment);
+  --card-foreground: var(--color-ink);
+  --popover: var(--color-parchment);
+  --popover-foreground: var(--color-ink);
+  --primary: var(--color-terracotta);
+  --primary-foreground: var(--color-parchment);
+  --secondary: color-mix(in oklab, var(--color-gold) 18%, var(--color-ivory));
+  --secondary-foreground: var(--color-ink);
+  --muted: color-mix(in oklab, var(--color-ink) 7%, var(--color-ivory));
+  --muted-foreground: color-mix(in oklab, var(--color-ink) 68%, var(--color-ivory));
+  --accent: var(--color-sea);
+  --accent-foreground: var(--color-parchment);
+  --destructive: #a63d2f;
+  --destructive-foreground: var(--color-parchment);
+  --border: color-mix(in oklab, var(--color-ink) 14%, var(--color-ivory));
+  --input: color-mix(in oklab, var(--color-ink) 18%, var(--color-ivory));
+  --ring: var(--color-terracotta);
+}
+
+.dark {
+  --background: var(--color-ink);
+  --foreground: var(--color-ivory);
+  --card: color-mix(in oklab, var(--color-ink) 88%, var(--color-ivory));
+  --card-foreground: var(--color-ivory);
+  --popover: color-mix(in oklab, var(--color-ink) 85%, var(--color-ivory));
+  --popover-foreground: var(--color-ivory);
+  --primary: var(--color-terracotta);
+  --primary-foreground: var(--color-parchment);
+  --secondary: color-mix(in oklab, var(--color-gold) 24%, var(--color-ink));
+  --secondary-foreground: var(--color-ivory);
+  --muted: color-mix(in oklab, var(--color-ivory) 10%, var(--color-ink));
+  --muted-foreground: color-mix(in oklab, var(--color-ivory) 70%, var(--color-ink));
+  --accent: var(--color-sea);
+  --accent-foreground: var(--color-ivory);
+  --destructive: #d4695a;
+  --destructive-foreground: var(--color-ink);
+  --border: color-mix(in oklab, var(--color-ivory) 16%, var(--color-ink));
+  --input: color-mix(in oklab, var(--color-ivory) 22%, var(--color-ink));
+  --ring: var(--color-gold);
+}
+
+@layer base {
+  * {
+    border-color: var(--color-border);
+  }
+
+  html {
+    /* rem-based type; accessibility controls adjust this at runtime */
+    font-size: 100%;
+  }
+
+  body {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  h1,
+  h2,
+  .font-display {
+    font-family: var(--font-display);
+    font-weight: 600;
+    letter-spacing: -0.01em;
+  }
+
+  ::selection {
+    background: color-mix(in oklab, var(--color-gold) 40%, transparent);
+  }
+}
+
+/* Minimum 44pt touch target (spec §11). */
+@utility tap-target {
+  min-height: 2.75rem;
+  min-width: 2.75rem;
+}
+
+/* Gold hairline for premium surfaces. */
+@utility gold-hairline {
+  border: 1px solid color-mix(in oklab, var(--color-gold) 45%, transparent);
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.35s ease-out both;
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.4s ease-out both;
+}
+
+/* Reduced motion: disable decorative animation (spec §11). */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
