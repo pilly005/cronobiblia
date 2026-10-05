@@ -22,6 +22,7 @@ import { Route as TabsIndexRouteImport } from './routes/tabs/index'
 import { Route as TabsAprendeRouteImport } from './routes/tabs/aprende'
 import { Route as TabsCronologiaRouteImport } from './routes/tabs/cronologia'
 import { Route as TabsDescubrirRouteImport } from './routes/tabs/descubrir'
+import { Route as TabsHistoriadorRouteImport } from './routes/tabs/historiador'
 import { Route as TabsMapasRouteImport } from './routes/tabs/mapas'
 import { Route as TabsPerfilRouteImport } from './routes/tabs/perfil'
 
@@ -90,6 +91,11 @@ const TabsDescubrirRoute = TabsDescubrirRouteImport.update({
   path: '/descubrir',
   getParentRoute: () => TabsRoute,
 } as any)
+const TabsHistoriadorRoute = TabsHistoriadorRouteImport.update({
+  id: '/historiador',
+  path: '/historiador',
+  getParentRoute: () => TabsRoute,
+} as any)
 const TabsMapasRoute = TabsMapasRouteImport.update({
   id: '/mapas',
   path: '/mapas',
@@ -114,6 +120,7 @@ export interface FileRoutesByFullPath {
   '/tabs/aprende': typeof TabsAprendeRoute
   '/tabs/cronologia': typeof TabsCronologiaRoute
   '/tabs/descubrir': typeof TabsDescubrirRoute
+  '/tabs/historiador': typeof TabsHistoriadorRoute
   '/tabs/mapas': typeof TabsMapasRoute
   '/tabs/perfil': typeof TabsPerfilRoute
   '/tabs/': typeof TabsIndexRoute
@@ -130,6 +137,7 @@ export interface FileRoutesByTo {
   '/tabs/aprende': typeof TabsAprendeRoute
   '/tabs/cronologia': typeof TabsCronologiaRoute
   '/tabs/descubrir': typeof TabsDescubrirRoute
+  '/tabs/historiador': typeof TabsHistoriadorRoute
   '/tabs/mapas': typeof TabsMapasRoute
   '/tabs/perfil': typeof TabsPerfilRoute
   '/tabs': typeof TabsIndexRoute
@@ -148,6 +156,7 @@ export interface FileRoutesById {
   '/tabs/aprende': typeof TabsAprendeRoute
   '/tabs/cronologia': typeof TabsCronologiaRoute
   '/tabs/descubrir': typeof TabsDescubrirRoute
+  '/tabs/historiador': typeof TabsHistoriadorRoute
   '/tabs/mapas': typeof TabsMapasRoute
   '/tabs/perfil': typeof TabsPerfilRoute
   '/tabs/': typeof TabsIndexRoute
@@ -167,6 +176,7 @@ export interface FileRouteTypes {
     | '/tabs/aprende'
     | '/tabs/cronologia'
     | '/tabs/descubrir'
+    | '/tabs/historiador'
     | '/tabs/mapas'
     | '/tabs/perfil'
     | '/tabs/'
@@ -183,6 +193,7 @@ export interface FileRouteTypes {
     | '/tabs/aprende'
     | '/tabs/cronologia'
     | '/tabs/descubrir'
+    | '/tabs/historiador'
     | '/tabs/mapas'
     | '/tabs/perfil'
     | '/tabs'
@@ -200,6 +211,7 @@ export interface FileRouteTypes {
     | '/tabs/aprende'
     | '/tabs/cronologia'
     | '/tabs/descubrir'
+    | '/tabs/historiador'
     | '/tabs/mapas'
     | '/tabs/perfil'
     | '/tabs/'
@@ -310,6 +322,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof TabsDescubrirRouteImport
       parentRoute: typeof TabsRoute
     }
+    '/tabs/historiador': {
+      id: '/tabs/historiador'
+      path: '/historiador'
+      fullPath: '/tabs/historiador'
+      preLoaderRoute: typeof TabsHistoriadorRouteImport
+      parentRoute: typeof TabsRoute
+    }
     '/tabs/mapas': {
       id: '/tabs/mapas'
       path: '/mapas'
@@ -331,6 +350,7 @@ interface TabsRouteChildren {
   TabsAprendeRoute: typeof TabsAprendeRoute
   TabsCronologiaRoute: typeof TabsCronologiaRoute
   TabsDescubrirRoute: typeof TabsDescubrirRoute
+  TabsHistoriadorRoute: typeof TabsHistoriadorRoute
   TabsMapasRoute: typeof TabsMapasRoute
   TabsPerfilRoute: typeof TabsPerfilRoute
   TabsIndexRoute: typeof TabsIndexRoute
@@ -340,6 +360,7 @@ const TabsRouteChildren: TabsRouteChildren = {
   TabsAprendeRoute: TabsAprendeRoute,
   TabsCronologiaRoute: TabsCronologiaRoute,
   TabsDescubrirRoute: TabsDescubrirRoute,
+  TabsHistoriadorRoute: TabsHistoriadorRoute,
   TabsMapasRoute: TabsMapasRoute,
   TabsPerfilRoute: TabsPerfilRoute,
   TabsIndexRoute: TabsIndexRoute,
