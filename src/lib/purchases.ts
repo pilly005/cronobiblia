@@ -139,6 +139,38 @@ export async function initializePurchases(): Promise<void> {
   }
 }
 
+/**
+ * Link RevenueCat to the Supabase account so entitlements follow the user.
+ *
+ * The `revenuecat-webhook` edge function writes the server-side
+ * `entitlements` table keyed by `event.app_user_id` — without this call the
+ * app user ID stays RevenueCat's anonymous ID (not a UUID), the webhook
+ * upsert fails, and server-side premium checks (e.g. historian-chat's
+ * `isPremiumFor`) never see the subscription. Paying users would be treated
+ * as free on every server-gated feature.
+ *
+ * Call with the Supabase user id on sign-in (and at launch for a restored
+ * session), and with `null` on sign-out. Mirrors miAzucr's proven
+ * `linkPurchasesUser`. Non-fatal on failure: on-device purchases keep
+ * working via the anonymous ID.
+ */
+export async function linkPurchasesUser(
+  appUserId: string | null,
+): Promise<void> {
+  await initializePurchases();
+  if (!configured) return;
+  try {
+    if (appUserId) {
+      await Purchases.logIn({ appUserID: appUserId });
+    } else {
+      await Purchases.logOut();
+    }
+  } catch {
+    // Swallow: the link is a server-side convenience, not required for
+    // the purchase itself. It will retry on the next sign-in.
+  }
+}
+
 // ---------------------------------------------------------------------------
 // Offerings / prices
 // ---------------------------------------------------------------------------
