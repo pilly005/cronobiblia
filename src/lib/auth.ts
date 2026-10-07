@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import type { User } from "@supabase/supabase-js";
 import { Capacitor } from "@capacitor/core";
 import { supabase, isSupabaseConfigured } from "./supabase";
-import { refreshEntitlement } from "./purchases";
+import { refreshEntitlement, linkPurchasesUser } from "./purchases";
 import { NATIVE_AUTH_CALLBACK, URL_SCHEME } from "./brand";
 
 /** Deep-link callback for the native app. Must be allow-listed in
@@ -101,14 +101,24 @@ export function useSupabaseSession() {
     }
     supabase.auth.getSession().then(({ data }) => {
       setUser(data.session?.user ?? null);
+      // Link RevenueCat to the restored session: no SIGNED_IN event fires
+      // when the session is restored from storage at launch.
+      void linkPurchasesUser(data.session?.user?.id ?? null);
       setReady(true);
     });
     const { data: sub } = supabase.auth.onAuthStateChange(
       (event, session) => {
         setUser(session?.user ?? null);
-        // Login: re-check the premium entitlement so a subscription bought
-        // under this Apple account activates right after sign-in.
-        if (event === "SIGNED_IN") void refreshEntitlement();
+        if (event === "SIGNED_IN") {
+          // Link RevenueCat to the Supabase account so the webhook's
+          // server-side entitlement cache follows this user, then re-check
+          // the premium entitlement so a subscription bought under this
+          // Apple account activates right after sign-in.
+          void linkPurchasesUser(session?.user?.id ?? null);
+          void refreshEntitlement();
+        } else if (event === "SIGNED_OUT") {
+          void linkPurchasesUser(null);
+        }
       },
     );
     return () => {
